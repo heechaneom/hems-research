@@ -1,0 +1,1029 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rewbgd",
+    "id": "rewbgd",
+    "slide": 10,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm18n65o",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "걸프: 냉방 요금 절감과 수요반응 사업을 구분한다",
+      "textPreview": "걸프: 냉방 요금 절감과 수요반응 사업을 구분한다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "걸프: 냉방 요금 절감과 수요반응 사업을 구분한다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "걸프: 냉방 요금 절감과 수요반응 사업을 구분한다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "걸프: 냉방 요금 절감과 수요반응 사업을 구분한다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnapgb69",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "국가별 요금과 실제 비용 부담자가 다르므로 하나의 GCC 상품으로 묶기 어렵다",
+      "textPreview": "국가별 요금과 실제 비용 부담자가 다르므로 하나의 GCC 상품으로 묶기 어렵다",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "국가별 요금과 실제 비용 부담자가 다르므로 하나의 GCC 상품으로 묶기 어렵다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "국가별 요금과 실제 비용 부담자가 다르므로 하나의 GCC 상품으로 묶기 어렵다",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "국가별 요금과 실제 비용 부담자가 다르므로 하나의 GCC 상품으로 묶기 어렵다",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dojqpgnu",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x87aho7",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3yh8jm5s",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R12 DEWA · R13 SERA · R14 KAHRAMAA",
+      "textPreview": "근거  R12 DEWA · R13 SERA · R14 KAHRAMAA",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R12 DEWA · R13 SERA · R14 KAHRAMAA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R12 DEWA · R13 SERA · R14 KAHRAMAA",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R12 DEWA · R13 SERA · R14 KAHRAMAA",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/1872p8ra",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        373
+      ],
+      "text": "지역·확인 사실 | 구매자와 문제 가설 | 우선 제안\n두바이 / DEWA 누진요금\n0.230–0.380 AED/kWh¹ | 냉방비를 내는 빌라 소유자·운영사\n운전 낭비, 온습도 불만 | 열·습도 제어와 이상 탐지\n시간 이동보다 총 소비 절감 검증\n사우디 / 주거용 누진요금\n월 6,000 kWh 경계, 18·30 halala | 주택·단지 운영사\n냉방 요금·유지보수 부담 | 냉방 최적화 실증\n보조·계약 조건별 편익 확인\n카타르 / BeSolar net billing\n역송 0.237 QAR/kWh | PV 설치 고객·개발사업자\n자가소비와 역송 중 선택 | 한계 구입요금과 역송가 비교\n경제성이 낮으면 제어 확대 보류",
+      "textPreview": "지역·확인 사실 | 구매자와 문제 가설 | 우선 제안 | 두바이 / DEWA 누진요금 | 0.230–0.380 AED/kWh¹ | 냉방비를 내는 빌라 소유자·운영사 | 운전 낭비, 온습도 불만 | 열·습도 제어와 이상 탐지 | 시간 이동보다 총 ...",
+      "rows": 4,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            370,
+            93.25
+          ],
+          "text": "지역·확인 사실",
+          "textPreview": "지역·확인 사실",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "지역·확인 사실",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지역·확인 사실",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            436,
+            223,
+            394,
+            93.25
+          ],
+          "text": "구매자와 문제 가설",
+          "textPreview": "구매자와 문제 가설",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "구매자와 문제 가설",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "구매자와 문제 가설",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            830,
+            223,
+            384,
+            93.25
+          ],
+          "text": "우선 제안",
+          "textPreview": "우선 제안",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "우선 제안",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "우선 제안",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            316.25,
+            370,
+            93.25
+          ],
+          "text": "두바이 / DEWA 누진요금\n0.230–0.380 AED/kWh¹",
+          "textPreview": "두바이 / DEWA 누진요금 | 0.230–0.380 AED/kWh¹",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "두바이 / DEWA 누진요금",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "두바이 / DEWA 누진요금",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "0.230–0.380 AED/kWh¹",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.230–0.380 AED/kWh¹",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            436,
+            316.25,
+            394,
+            93.25
+          ],
+          "text": "냉방비를 내는 빌라 소유자·운영사\n운전 낭비, 온습도 불만",
+          "textPreview": "냉방비를 내는 빌라 소유자·운영사 | 운전 낭비, 온습도 불만",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "냉방비를 내는 빌라 소유자·운영사",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "냉방비를 내는 빌라 소유자·운영사",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "운전 낭비, 온습도 불만",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "운전 낭비, 온습도 불만",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            830,
+            316.25,
+            384,
+            93.25
+          ],
+          "text": "열·습도 제어와 이상 탐지\n시간 이동보다 총 소비 절감 검증",
+          "textPreview": "열·습도 제어와 이상 탐지 | 시간 이동보다 총 소비 절감 검증",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "열·습도 제어와 이상 탐지",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "열·습도 제어와 이상 탐지",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "시간 이동보다 총 소비 절감 검증",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "시간 이동보다 총 소비 절감 검증",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            409.5,
+            370,
+            93.25
+          ],
+          "text": "사우디 / 주거용 누진요금\n월 6,000 kWh 경계, 18·30 halala",
+          "textPreview": "사우디 / 주거용 누진요금 | 월 6,000 kWh 경계, 18·30 halala",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "사우디 / 주거용 누진요금",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "사우디 / 주거용 누진요금",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "월 6,000 kWh 경계, 18·30 halala",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "월 6,000 kWh 경계, 18·30 halala",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            436,
+            409.5,
+            394,
+            93.25
+          ],
+          "text": "주택·단지 운영사\n냉방 요금·유지보수 부담",
+          "textPreview": "주택·단지 운영사 | 냉방 요금·유지보수 부담",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "주택·단지 운영사",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "주택·단지 운영사",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "냉방 요금·유지보수 부담",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "냉방 요금·유지보수 부담",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            830,
+            409.5,
+            384,
+            93.25
+          ],
+          "text": "냉방 최적화 실증\n보조·계약 조건별 편익 확인",
+          "textPreview": "냉방 최적화 실증 | 보조·계약 조건별 편익 확인",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "냉방 최적화 실증",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "냉방 최적화 실증",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "보조·계약 조건별 편익 확인",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "보조·계약 조건별 편익 확인",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            502.75,
+            370,
+            93.25
+          ],
+          "text": "카타르 / BeSolar net billing\n역송 0.237 QAR/kWh",
+          "textPreview": "카타르 / BeSolar net billing | 역송 0.237 QAR/kWh",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "카타르 / BeSolar net billing",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "카타르 / BeSolar net billing",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "역송 0.237 QAR/kWh",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "역송 0.237 QAR/kWh",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            436,
+            502.75,
+            394,
+            93.25
+          ],
+          "text": "PV 설치 고객·개발사업자\n자가소비와 역송 중 선택",
+          "textPreview": "PV 설치 고객·개발사업자 | 자가소비와 역송 중 선택",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "PV 설치 고객·개발사업자",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "PV 설치 고객·개발사업자",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "자가소비와 역송 중 선택",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "자가소비와 역송 중 선택",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            830,
+            502.75,
+            384,
+            93.25
+          ],
+          "text": "한계 구입요금과 역송가 비교\n경제성이 낮으면 제어 확대 보류",
+          "textPreview": "한계 구입요금과 역송가 비교 | 경제성이 낮으면 제어 확대 보류",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "한계 구입요금과 역송가 비교",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "한계 구입요금과 역송가 비교",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "경제성이 낮으면 제어 확대 보류",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "경제성이 낮으면 제어 확대 보류",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzqlwni",
+      "id": "7",
+      "bbox": [
+        69,
+        600,
+        1120,
+        25
+      ],
+      "geometry": "rect",
+      "text": "¹ 기본 전력량 요금. 2026.09 연료조정요금 0.060 AED/kWh와 VAT는 별도",
+      "textPreview": "¹ 기본 전력량 요금. 2026.09 연료조정요금 0.060 AED/kWh와 VAT는 별도",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "¹ 기본 전력량 요금. 2026.09 연료조정요금 0.060 AED/kWh와 VAT는 별도"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "¹ 기본 전력량 요금. 2026.09 연료조정요금 0.060 AED/kWh와 VAT는 별도",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "¹ 기본 전력량 요금. 2026.09 연료조정요금 0.060 AED/kWh와 VAT는 별도",
+              "fontSize": 17,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

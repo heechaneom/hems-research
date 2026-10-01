@@ -1,0 +1,1623 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/e4dkr4",
+    "id": "e4dkr4",
+    "slide": 37,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4ji5ojyx",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "조사 근거 1  국가 제도·요금",
+      "textPreview": "조사 근거 1  국가 제도·요금",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조사 근거 1  국가 제도·요금"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조사 근거 1  국가 제도·요금",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조사 근거 1  국가 제도·요금",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji9ovehs",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+      "textPreview": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih0nm9g7",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "37",
+      "textPreview": "37",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "37"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "37",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "37",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwr6t4zm",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvi5kzy1",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R01 BNetzA · R02 NESO · R03 NESO · R04 Enedis · R05 네덜란드 정부 · R06 ARERA · R07 ARERA · R08 CNMC · R09 CPUC · R10 ERCOT",
+      "textPreview": "근거  R01 BNetzA · R02 NESO · R03 NESO · R04 Enedis · R05 네덜란드 정부 · R06 ARERA · R07 ARERA · R08 CNMC · R09 CPUC · R10 ERCOT",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R01 BNetzA · R02 NESO · R03 NESO · R04 Enedis · R05 네덜란드 정부 · R06 ARERA · R07 ARERA · R08 CNMC · R09 CPUC · R10 ERCOT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R01 BNetzA · R02 NESO · R03 NESO · R04 Enedis · R05 네덜란드 정부 · R06 ARERA · R07 ARERA · R08 CNMC · R09 CPUC · R10 ERCOT",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R01 BNetzA · R02 NESO · R03 NESO · R04 Enedis · R05 네덜란드 정부 · R06 ARERA · R07 ARERA · R08 CNMC · R09 CPUC · R10 ERCOT",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9oruhg",
+      "id": "6",
+      "bbox": [
+        69,
+        218,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R01",
+      "textPreview": "R01",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R01",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R01",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ut0nip0v",
+      "id": "7",
+      "bbox": [
+        151,
+        218,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "BNetzA  §14a 제어가능 설비 적용 안내",
+      "textPreview": "BNetzA  §14a 제어가능 설비 적용 안내",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BNetzA  §14a 제어가능 설비 적용 안내"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BNetzA  §14a 제어가능 설비 적용 안내",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BNetzA  §14a 제어가능 설비 적용 안내",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cv658zq",
+      "id": "8",
+      "bbox": [
+        69,
+        256,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R02",
+      "textPreview": "R02",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R02",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R02",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2pw3y5",
+      "id": "9",
+      "bbox": [
+        151,
+        256,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "NESO  Demand Flexibility Service explained, 2026 개편",
+      "textPreview": "NESO  Demand Flexibility Service explained, 2026 개편",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NESO  Demand Flexibility Service explained, 2026 개편"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NESO  Demand Flexibility Service explained, 2026 개편",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NESO  Demand Flexibility Service explained, 2026 개편",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxc7ydsr",
+      "id": "10",
+      "bbox": [
+        69,
+        294,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R03",
+      "textPreview": "R03",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R03",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R03",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zylori9c",
+      "id": "11",
+      "bbox": [
+        151,
+        294,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "NESO  DFS Stacking List v2, 2026.04",
+      "textPreview": "NESO  DFS Stacking List v2, 2026.04",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NESO  DFS Stacking List v2, 2026.04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NESO  DFS Stacking List v2, 2026.04",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NESO  DFS Stacking List v2, 2026.04",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzup0nax",
+      "id": "12",
+      "bbox": [
+        69,
+        332,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R04",
+      "textPreview": "R04",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R04",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R04",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l036tsri",
+      "id": "13",
+      "bbox": [
+        151,
+        332,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Enedis  Heures creuses 개편, 2025.10.15",
+      "textPreview": "Enedis  Heures creuses 개편, 2025.10.15",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Enedis  Heures creuses 개편, 2025.10.15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Enedis  Heures creuses 개편, 2025.10.15",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Enedis  Heures creuses 개편, 2025.10.15",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qts7udsv",
+      "id": "14",
+      "bbox": [
+        69,
+        370,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R05",
+      "textPreview": "R05",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R05",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R05",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bu1oni9g",
+      "id": "15",
+      "bbox": [
+        151,
+        370,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "네덜란드 정부  Salderingsregeling stopt in 2027",
+      "textPreview": "네덜란드 정부  Salderingsregeling stopt in 2027",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "네덜란드 정부  Salderingsregeling stopt in 2027"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "네덜란드 정부  Salderingsregeling stopt in 2027",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "네덜란드 정부  Salderingsregeling stopt in 2027",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvapwna1",
+      "id": "16",
+      "bbox": [
+        69,
+        408,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R06",
+      "textPreview": "R06",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R06",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R06",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xw36psr6",
+      "id": "17",
+      "bbox": [
+        151,
+        408,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "ARERA  Potenza impegnata 및 계량기 용량 안내",
+      "textPreview": "ARERA  Potenza impegnata 및 계량기 용량 안내",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ARERA  Potenza impegnata 및 계량기 용량 안내"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ARERA  Potenza impegnata 및 계량기 용량 안내",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ARERA  Potenza impegnata 및 계량기 용량 안내",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upw76xsz",
+      "id": "18",
+      "bbox": [
+        69,
+        446,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R07",
+      "textPreview": "R07",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R07",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R07",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vq58z29k",
+      "id": "19",
+      "bbox": [
+        151,
+        446,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "ARERA  Potenza del contatore",
+      "textPreview": "ARERA  Potenza del contatore",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ARERA  Potenza del contatore"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ARERA  Potenza del contatore",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ARERA  Potenza del contatore",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ydcbal0",
+      "id": "20",
+      "bbox": [
+        69,
+        484,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R08",
+      "textPreview": "R08",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R08",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R08",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x4v254f",
+      "id": "21",
+      "bbox": [
+        151,
+        484,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "CNMC  2023년 말 가계조사, 2024.06.28 발표",
+      "textPreview": "CNMC  2023년 말 가계조사, 2024.06.28 발표",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CNMC  2023년 말 가계조사, 2024.06.28 발표"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CNMC  2023년 말 가계조사, 2024.06.28 발표",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CNMC  2023년 말 가계조사, 2024.06.28 발표",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0fudk3q",
+      "id": "22",
+      "bbox": [
+        69,
+        522,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R09",
+      "textPreview": "R09",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R09",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R09",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szmd4fm5",
+      "id": "23",
+      "bbox": [
+        151,
+        522,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "CPUC  Net Energy Metering and Net Billing",
+      "textPreview": "CPUC  Net Energy Metering and Net Billing",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CPUC  Net Energy Metering and Net Billing"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CPUC  Net Energy Metering and Net Billing",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CPUC  Net Energy Metering and Net Billing",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f2xcfalw",
+      "id": "24",
+      "bbox": [
+        69,
+        560,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R10",
+      "textPreview": "R10",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R10",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R10",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u1ov6p4b",
+      "id": "25",
+      "bbox": [
+        151,
+        560,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "ERCOT  ADER Pilot, Phase 3.3, 2026.06.03",
+      "textPreview": "ERCOT  ADER Pilot, Phase 3.3, 2026.06.03",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ERCOT  ADER Pilot, Phase 3.3, 2026.06.03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ERCOT  ADER Pilot, Phase 3.3, 2026.06.03",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ERCOT  ADER Pilot, Phase 3.3, 2026.06.03",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

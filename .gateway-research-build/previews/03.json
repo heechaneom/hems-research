@@ -1,0 +1,1010 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fzhk16",
+    "id": "fzhk16",
+    "slide": 3,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cneton2d",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "기존 논리에서 수정해야 할 다섯 가지",
+      "textPreview": "기존 논리에서 수정해야 할 다섯 가지",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "기존 논리에서 수정해야 할 다섯 가지"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "기존 논리에서 수정해야 할 다섯 가지",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기존 논리에서 수정해야 할 다섯 가지",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rm5sfils",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "4대 관문기술 틀은 유지하되, 사업 범위와 차별성의 근거를 좁혔다",
+      "textPreview": "4대 관문기술 틀은 유지하되, 사업 범위와 차별성의 근거를 좁혔다",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4대 관문기술 틀은 유지하되, 사업 범위와 차별성의 근거를 좁혔다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4대 관문기술 틀은 유지하되, 사업 범위와 차별성의 근거를 좁혔다",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4대 관문기술 틀은 유지하되, 사업 범위와 차별성의 근거를 좁혔다",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qlwbmdk7",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pknad83m",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4jutknm1",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R04 Enedis · R10 ERCOT · R16 1KOMMA5° · R15 gridX · R22 UL Solutions · R03 NESO",
+      "textPreview": "근거  R04 Enedis · R10 ERCOT · R16 1KOMMA5° · R15 gridX · R22 UL Solutions · R03 NESO",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R04 Enedis · R10 ERCOT · R16 1KOMMA5° · R15 gridX · R22 UL Solutions · R03 NESO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R04 Enedis · R10 ERCOT · R16 1KOMMA5° · R15 gridX · R22 UL Solutions · R03 NESO",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R04 Enedis · R10 ERCOT · R16 1KOMMA5° · R15 gridX · R22 UL Solutions · R03 NESO",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/etwrql8z",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        382
+      ],
+      "text": "기존 자료의 주요 전제 | 추가 확인 결과 | 전략에 반영할 변화\n프랑스 급탕 스케줄 대규모 재설정 | Linky 접점 연결 기기는 자동 추종 | 고정 타이머·혼합 설비만 선별\n다른 브랜드 통합은 경쟁사 공백 | 복수 제조사 연동 제품이 이미 존재 | 연결 후 실제 제어·시험에 집중\n텍사스 ADER의 전면 시장화 | 2026.06 Phase 3.3도 Pilot | 등록 파트너 확보 전 수익 제외\n소프트웨어가 증설 문제 해결 | PCS 인증·현장 조건에 따라 다름 | 인증 제품과 경제성 비교\n여러 프로그램 수익을 동시 합산 | 시간·용량·방향별 중복 규칙 존재 | 허용 계약만 편익에 반영",
+      "textPreview": "기존 자료의 주요 전제 | 추가 확인 결과 | 전략에 반영할 변화 | 프랑스 급탕 스케줄 대규모 재설정 | Linky 접점 연결 기기는 자동 추종 | 고정 타이머·혼합 설비만 선별 | 다른 브랜드 통합은 경쟁사 공백 | 복수 제조사 연동 제품이 ...",
+      "rows": 6,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            342,
+            63.67
+          ],
+          "text": "기존 자료의 주요 전제",
+          "textPreview": "기존 자료의 주요 전제",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기존 자료의 주요 전제",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기존 자료의 주요 전제",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            408,
+            223,
+            403,
+            63.67
+          ],
+          "text": "추가 확인 결과",
+          "textPreview": "추가 확인 결과",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "추가 확인 결과",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "추가 확인 결과",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            811,
+            223,
+            403,
+            63.67
+          ],
+          "text": "전략에 반영할 변화",
+          "textPreview": "전략에 반영할 변화",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "전략에 반영할 변화",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "전략에 반영할 변화",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            286.67,
+            342,
+            63.67
+          ],
+          "text": "프랑스 급탕 스케줄 대규모 재설정",
+          "textPreview": "프랑스 급탕 스케줄 대규모 재설정",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "프랑스 급탕 스케줄 대규모 재설정",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "프랑스 급탕 스케줄 대규모 재설정",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            408,
+            286.67,
+            403,
+            63.67
+          ],
+          "text": "Linky 접점 연결 기기는 자동 추종",
+          "textPreview": "Linky 접점 연결 기기는 자동 추종",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Linky 접점 연결 기기는 자동 추종",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Linky 접점 연결 기기는 자동 추종",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            811,
+            286.67,
+            403,
+            63.67
+          ],
+          "text": "고정 타이머·혼합 설비만 선별",
+          "textPreview": "고정 타이머·혼합 설비만 선별",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "고정 타이머·혼합 설비만 선별",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "고정 타이머·혼합 설비만 선별",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            350.33,
+            342,
+            63.67
+          ],
+          "text": "다른 브랜드 통합은 경쟁사 공백",
+          "textPreview": "다른 브랜드 통합은 경쟁사 공백",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "다른 브랜드 통합은 경쟁사 공백",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "다른 브랜드 통합은 경쟁사 공백",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            408,
+            350.33,
+            403,
+            63.67
+          ],
+          "text": "복수 제조사 연동 제품이 이미 존재",
+          "textPreview": "복수 제조사 연동 제품이 이미 존재",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "복수 제조사 연동 제품이 이미 존재",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "복수 제조사 연동 제품이 이미 존재",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            811,
+            350.33,
+            403,
+            63.67
+          ],
+          "text": "연결 후 실제 제어·시험에 집중",
+          "textPreview": "연결 후 실제 제어·시험에 집중",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "연결 후 실제 제어·시험에 집중",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "연결 후 실제 제어·시험에 집중",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            414,
+            342,
+            63.67
+          ],
+          "text": "텍사스 ADER의 전면 시장화",
+          "textPreview": "텍사스 ADER의 전면 시장화",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "텍사스 ADER의 전면 시장화",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "텍사스 ADER의 전면 시장화",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            408,
+            414,
+            403,
+            63.67
+          ],
+          "text": "2026.06 Phase 3.3도 Pilot",
+          "textPreview": "2026.06 Phase 3.3도 Pilot",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2026.06 Phase 3.3도 Pilot",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2026.06 Phase 3.3도 Pilot",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            811,
+            414,
+            403,
+            63.67
+          ],
+          "text": "등록 파트너 확보 전 수익 제외",
+          "textPreview": "등록 파트너 확보 전 수익 제외",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "등록 파트너 확보 전 수익 제외",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "등록 파트너 확보 전 수익 제외",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            66,
+            477.67,
+            342,
+            63.67
+          ],
+          "text": "소프트웨어가 증설 문제 해결",
+          "textPreview": "소프트웨어가 증설 문제 해결",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "소프트웨어가 증설 문제 해결",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "소프트웨어가 증설 문제 해결",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            408,
+            477.67,
+            403,
+            63.67
+          ],
+          "text": "PCS 인증·현장 조건에 따라 다름",
+          "textPreview": "PCS 인증·현장 조건에 따라 다름",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "PCS 인증·현장 조건에 따라 다름",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "PCS 인증·현장 조건에 따라 다름",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            811,
+            477.67,
+            403,
+            63.67
+          ],
+          "text": "인증 제품과 경제성 비교",
+          "textPreview": "인증 제품과 경제성 비교",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "인증 제품과 경제성 비교",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "인증 제품과 경제성 비교",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            66,
+            541.33,
+            342,
+            63.67
+          ],
+          "text": "여러 프로그램 수익을 동시 합산",
+          "textPreview": "여러 프로그램 수익을 동시 합산",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "여러 프로그램 수익을 동시 합산",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "여러 프로그램 수익을 동시 합산",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            408,
+            541.33,
+            403,
+            63.67
+          ],
+          "text": "시간·용량·방향별 중복 규칙 존재",
+          "textPreview": "시간·용량·방향별 중복 규칙 존재",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "시간·용량·방향별 중복 규칙 존재",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "시간·용량·방향별 중복 규칙 존재",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            811,
+            541.33,
+            403,
+            63.67
+          ],
+          "text": "허용 계약만 편익에 반영",
+          "textPreview": "허용 계약만 편익에 반영",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "허용 계약만 편익에 반영",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "허용 계약만 편익에 반영",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

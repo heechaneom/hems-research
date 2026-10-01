@@ -1,0 +1,926 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7ovdq2",
+    "id": "7ovdq2",
+    "slide": 31,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/re1s7ud8",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "부록  제도별 제한 대상이 서로 다르다",
+      "textPreview": "부록  제도별 제한 대상이 서로 다르다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "부록  제도별 제한 대상이 서로 다르다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "부록  제도별 제한 대상이 서로 다르다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "부록  제도별 제한 대상이 서로 다르다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfa9gzud",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "하나의 “국가별 전력 제한값”으로 추상화하면 잘못 제어할 수 있다",
+      "textPreview": "하나의 “국가별 전력 제한값”으로 추상화하면 잘못 제어할 수 있다",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "하나의 “국가별 전력 제한값”으로 추상화하면 잘못 제어할 수 있다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "하나의 “국가별 전력 제한값”으로 추상화하면 잘못 제어할 수 있다",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "하나의 “국가별 전력 제한값”으로 추상화하면 잘못 제어할 수 있다",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgja94vy",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "31",
+      "textPreview": "31",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "31"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "31",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "31",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehsri9cj",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f21sbed4",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R01 BNetzA · R23 ENA · R22 UL Solutions · R03 NESO · R10 ERCOT",
+      "textPreview": "근거  R01 BNetzA · R23 ENA · R22 UL Solutions · R03 NESO · R10 ERCOT",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R01 BNetzA · R23 ENA · R22 UL Solutions · R03 NESO · R10 ERCOT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R01 BNetzA · R23 ENA · R22 UL Solutions · R03 NESO · R10 ERCOT",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R01 BNetzA · R23 ENA · R22 UL Solutions · R03 NESO · R10 ERCOT",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/twnux03a",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        377
+      ],
+      "text": "제도·표준 | 구분해야 하는 대상 | 구현 시 확인할 것\n독일 §14a | 대상 제어가능 설비의 계통 수전\n일반 가전·PV 역송과 구분 | 설비 조합·설치 시점·DSO 방식\n영국 G100 | 접속점의 수전·역송 제한 체계 | 해당 판·접속 조건·고장 동작\n미국 PCS | 해당 인증 범위의 전력·회로 제한 | 현지 법규 채택·유틸리티·현장 승인\n영국 DFS / 텍사스 ADER | 서비스·계약별 자원 참여·정산 | 동의·계량·기준선·중복 참여",
+      "textPreview": "제도·표준 | 구분해야 하는 대상 | 구현 시 확인할 것 | 독일 §14a | 대상 제어가능 설비의 계통 수전 | 일반 가전·PV 역송과 구분 | 설비 조합·설치 시점·DSO 방식 | 영국 G100 | 접속점의 수전·역송 제한 체계 | 해당 판·...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            274,
+            75.4
+          ],
+          "text": "제도·표준",
+          "textPreview": "제도·표준",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "제도·표준",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "제도·표준",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            340,
+            223,
+            498,
+            75.4
+          ],
+          "text": "구분해야 하는 대상",
+          "textPreview": "구분해야 하는 대상",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "구분해야 하는 대상",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "구분해야 하는 대상",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            838,
+            223,
+            376,
+            75.4
+          ],
+          "text": "구현 시 확인할 것",
+          "textPreview": "구현 시 확인할 것",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "구현 시 확인할 것",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "구현 시 확인할 것",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            298.4,
+            274,
+            75.4
+          ],
+          "text": "독일 §14a",
+          "textPreview": "독일 §14a",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "독일 §14a",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "독일 §14a",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            340,
+            298.4,
+            498,
+            75.4
+          ],
+          "text": "대상 제어가능 설비의 계통 수전\n일반 가전·PV 역송과 구분",
+          "textPreview": "대상 제어가능 설비의 계통 수전 | 일반 가전·PV 역송과 구분",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "대상 제어가능 설비의 계통 수전",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "대상 제어가능 설비의 계통 수전",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "일반 가전·PV 역송과 구분",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "일반 가전·PV 역송과 구분",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            838,
+            298.4,
+            376,
+            75.4
+          ],
+          "text": "설비 조합·설치 시점·DSO 방식",
+          "textPreview": "설비 조합·설치 시점·DSO 방식",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "설비 조합·설치 시점·DSO 방식",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "설비 조합·설치 시점·DSO 방식",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            373.8,
+            274,
+            75.4
+          ],
+          "text": "영국 G100",
+          "textPreview": "영국 G100",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "영국 G100",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "영국 G100",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            340,
+            373.8,
+            498,
+            75.4
+          ],
+          "text": "접속점의 수전·역송 제한 체계",
+          "textPreview": "접속점의 수전·역송 제한 체계",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "접속점의 수전·역송 제한 체계",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "접속점의 수전·역송 제한 체계",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            838,
+            373.8,
+            376,
+            75.4
+          ],
+          "text": "해당 판·접속 조건·고장 동작",
+          "textPreview": "해당 판·접속 조건·고장 동작",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "해당 판·접속 조건·고장 동작",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "해당 판·접속 조건·고장 동작",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            449.2,
+            274,
+            75.4
+          ],
+          "text": "미국 PCS",
+          "textPreview": "미국 PCS",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "미국 PCS",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "미국 PCS",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            340,
+            449.2,
+            498,
+            75.4
+          ],
+          "text": "해당 인증 범위의 전력·회로 제한",
+          "textPreview": "해당 인증 범위의 전력·회로 제한",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "해당 인증 범위의 전력·회로 제한",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "해당 인증 범위의 전력·회로 제한",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            838,
+            449.2,
+            376,
+            75.4
+          ],
+          "text": "현지 법규 채택·유틸리티·현장 승인",
+          "textPreview": "현지 법규 채택·유틸리티·현장 승인",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "현지 법규 채택·유틸리티·현장 승인",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "현지 법규 채택·유틸리티·현장 승인",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            66,
+            524.6,
+            274,
+            75.4
+          ],
+          "text": "영국 DFS / 텍사스 ADER",
+          "textPreview": "영국 DFS / 텍사스 ADER",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "영국 DFS / 텍사스 ADER",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "영국 DFS / 텍사스 ADER",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            340,
+            524.6,
+            498,
+            75.4
+          ],
+          "text": "서비스·계약별 자원 참여·정산",
+          "textPreview": "서비스·계약별 자원 참여·정산",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "서비스·계약별 자원 참여·정산",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "서비스·계약별 자원 참여·정산",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            838,
+            524.6,
+            376,
+            75.4
+          ],
+          "text": "동의·계량·기준선·중복 참여",
+          "textPreview": "동의·계량·기준선·중복 참여",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "동의·계량·기준선·중복 참여",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "동의·계량·기준선·중복 참여",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

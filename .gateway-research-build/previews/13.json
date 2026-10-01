@@ -1,0 +1,1034 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ujxyoh",
+    "id": "ujxyoh",
+    "slide": 13,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqx8bip0",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "4대 관문기술의 개발 범위",
+      "textPreview": "4대 관문기술의 개발 범위",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4대 관문기술의 개발 범위"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4대 관문기술의 개발 범위",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4대 관문기술의 개발 범위",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r694nql",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "관문기술: 고객 도입이나 반복 판매를 막는 문제를 해결하는 공통 기술",
+      "textPreview": "관문기술: 고객 도입이나 반복 판매를 막는 문제를 해결하는 공통 기술",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "관문기술: 고객 도입이나 반복 판매를 막는 문제를 해결하는 공통 기술"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "관문기술: 고객 도입이나 반복 판매를 막는 문제를 해결하는 공통 기술",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "관문기술: 고객 도입이나 반복 판매를 막는 문제를 해결하는 공통 기술",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5sfqd876",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "13",
+      "textPreview": "13",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "13",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ul4ryt8j",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmx87yp4",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+      "textPreview": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/pkn2lsba",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        382
+      ],
+      "text": "관문기술 | 남길 기술적 핵심 | 2027년 선택\nGT1  설치 검증 자동화 | 제어능력 탐색, 안전한 응답 시험\n기기·계측·정책 버전별 증적 | 직접 개발\n독일 설치 파트너\nGT3  쾌적 제약 열 제어 | 가용 전력·에너지와 불확실성\n응답 확인과 회복 운전 | 직접 개발\n영국 소매사·HP OEM\nGT2  전력 제한 허브 | 계통·회로·상별 제약 안의 부하 배분 | 인증 HW 제휴\n증설비가 높은 현장 선별\nGT4  다중 계약·편익 검증 | 제어권 충돌 처리, 허용 중복 규칙\n계약별 기록과 고객 순편익 | 공통 기능으로 구현\n시장 정산은 파트너",
+      "textPreview": "관문기술 | 남길 기술적 핵심 | 2027년 선택 | GT1  설치 검증 자동화 | 제어능력 탐색, 안전한 응답 시험 | 기기·계측·정책 버전별 증적 | 직접 개발 | 독일 설치 파트너 | GT3  쾌적 제약 열 제어 | 가용 전력·에너지와 불확...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            338,
+            76.4
+          ],
+          "text": "관문기술",
+          "textPreview": "관문기술",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "관문기술",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "관문기술",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            404,
+            223,
+            470,
+            76.4
+          ],
+          "text": "남길 기술적 핵심",
+          "textPreview": "남길 기술적 핵심",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "남길 기술적 핵심",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "남길 기술적 핵심",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            874,
+            223,
+            340,
+            76.4
+          ],
+          "text": "2027년 선택",
+          "textPreview": "2027년 선택",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2027년 선택",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2027년 선택",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            299.4,
+            338,
+            76.4
+          ],
+          "text": "GT1  설치 검증 자동화",
+          "textPreview": "GT1  설치 검증 자동화",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT1  설치 검증 자동화",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT1  설치 검증 자동화",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            404,
+            299.4,
+            470,
+            76.4
+          ],
+          "text": "제어능력 탐색, 안전한 응답 시험\n기기·계측·정책 버전별 증적",
+          "textPreview": "제어능력 탐색, 안전한 응답 시험 | 기기·계측·정책 버전별 증적",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "제어능력 탐색, 안전한 응답 시험",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "제어능력 탐색, 안전한 응답 시험",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "기기·계측·정책 버전별 증적",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기기·계측·정책 버전별 증적",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            874,
+            299.4,
+            340,
+            76.4
+          ],
+          "text": "직접 개발\n독일 설치 파트너",
+          "textPreview": "직접 개발 | 독일 설치 파트너",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "직접 개발",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "직접 개발",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "독일 설치 파트너",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "독일 설치 파트너",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            375.8,
+            338,
+            76.4
+          ],
+          "text": "GT3  쾌적 제약 열 제어",
+          "textPreview": "GT3  쾌적 제약 열 제어",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT3  쾌적 제약 열 제어",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT3  쾌적 제약 열 제어",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            404,
+            375.8,
+            470,
+            76.4
+          ],
+          "text": "가용 전력·에너지와 불확실성\n응답 확인과 회복 운전",
+          "textPreview": "가용 전력·에너지와 불확실성 | 응답 확인과 회복 운전",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "가용 전력·에너지와 불확실성",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "가용 전력·에너지와 불확실성",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "응답 확인과 회복 운전",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "응답 확인과 회복 운전",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            874,
+            375.8,
+            340,
+            76.4
+          ],
+          "text": "직접 개발\n영국 소매사·HP OEM",
+          "textPreview": "직접 개발 | 영국 소매사·HP OEM",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "직접 개발",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "직접 개발",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "영국 소매사·HP OEM",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "영국 소매사·HP OEM",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            452.2,
+            338,
+            76.4
+          ],
+          "text": "GT2  전력 제한 허브",
+          "textPreview": "GT2  전력 제한 허브",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT2  전력 제한 허브",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT2  전력 제한 허브",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            404,
+            452.2,
+            470,
+            76.4
+          ],
+          "text": "계통·회로·상별 제약 안의 부하 배분",
+          "textPreview": "계통·회로·상별 제약 안의 부하 배분",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "계통·회로·상별 제약 안의 부하 배분",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "계통·회로·상별 제약 안의 부하 배분",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            874,
+            452.2,
+            340,
+            76.4
+          ],
+          "text": "인증 HW 제휴\n증설비가 높은 현장 선별",
+          "textPreview": "인증 HW 제휴 | 증설비가 높은 현장 선별",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "인증 HW 제휴",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "인증 HW 제휴",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "증설비가 높은 현장 선별",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "증설비가 높은 현장 선별",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            66,
+            528.6,
+            338,
+            76.4
+          ],
+          "text": "GT4  다중 계약·편익 검증",
+          "textPreview": "GT4  다중 계약·편익 검증",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT4  다중 계약·편익 검증",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT4  다중 계약·편익 검증",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            404,
+            528.6,
+            470,
+            76.4
+          ],
+          "text": "제어권 충돌 처리, 허용 중복 규칙\n계약별 기록과 고객 순편익",
+          "textPreview": "제어권 충돌 처리, 허용 중복 규칙 | 계약별 기록과 고객 순편익",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "제어권 충돌 처리, 허용 중복 규칙",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "제어권 충돌 처리, 허용 중복 규칙",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "계약별 기록과 고객 순편익",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "계약별 기록과 고객 순편익",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            874,
+            528.6,
+            340,
+            76.4
+          ],
+          "text": "공통 기능으로 구현\n시장 정산은 파트너",
+          "textPreview": "공통 기능으로 구현 | 시장 정산은 파트너",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "공통 기능으로 구현",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "공통 기능으로 구현",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "시장 정산은 파트너",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "시장 정산은 파트너",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

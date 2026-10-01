@@ -1,0 +1,980 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/85qtzs",
+    "id": "85qtzs",
+    "slide": 22,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hsjah0na",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "12주 검증: 사업성과 기술성을 함께 판정",
+      "textPreview": "12주 검증: 사업성과 기술성을 함께 판정",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "12주 검증: 사업성과 기술성을 함께 판정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "12주 검증: 사업성과 기술성을 함께 판정",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "12주 검증: 사업성과 기술성을 함께 판정",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upsr6loz",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "표본은 탐색 실증 규모이며, 출시 성능 검증은 2027년 계절 실증에서 확대",
+      "textPreview": "표본은 탐색 실증 규모이며, 출시 성능 검증은 2027년 계절 실증에서 확대",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "표본은 탐색 실증 규모이며, 출시 성능 검증은 2027년 계절 실증에서 확대"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "표본은 탐색 실증 규모이며, 출시 성능 검증은 2027년 계절 실증에서 확대",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "표본은 탐색 실증 규모이며, 출시 성능 검증은 2027년 계절 실증에서 확대",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fq1sfq5k",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "22",
+      "textPreview": "22",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "22"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "22",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "22",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s3a94b6t",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/w3m1gv6h",
+      "id": "5",
+      "bbox": [
+        64,
+        216,
+        1152,
+        386
+      ],
+      "text": "기간 | 수행 내용 | 계속할 조건\n1–3주 | 국가별 고객 10명·설치자 5명 인터뷰\n기기 접근·데이터·요금 계약 확인 | 유료 실증 의향 파트너 2곳\n4–6주 | 지원 10기종 설치 시험\n기존 HEMS와 설정·검증 시간 비교 | 설정 시간 50% 감소 가능성\n7–10주 | 독일·영국 각 10호 탐색 실증\n교차 운전·고객 수동개입 기록 | 순편익 양수, 쾌적 조건 유지\n11–12주 | 가격·설치 공수·문의 비용 확인\n계절 확대 실증과 제품화 판단 | 유료 계약 또는 명확한 구매 조건",
+      "textPreview": "기간 | 수행 내용 | 계속할 조건 | 1–3주 | 국가별 고객 10명·설치자 5명 인터뷰 | 기기 접근·데이터·요금 계약 확인 | 유료 실증 의향 파트너 2곳 | 4–6주 | 지원 10기종 설치 시험 | 기존 HEMS와 설정·검증 시간 비교 |...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            216,
+            180,
+            77.2
+          ],
+          "text": "기간",
+          "textPreview": "기간",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기간",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기간",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            244,
+            216,
+            566,
+            77.2
+          ],
+          "text": "수행 내용",
+          "textPreview": "수행 내용",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "수행 내용",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "수행 내용",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            810,
+            216,
+            406,
+            77.2
+          ],
+          "text": "계속할 조건",
+          "textPreview": "계속할 조건",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "계속할 조건",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "계속할 조건",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            293.2,
+            180,
+            77.2
+          ],
+          "text": "1–3주",
+          "textPreview": "1–3주",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1–3주",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1–3주",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            244,
+            293.2,
+            566,
+            77.2
+          ],
+          "text": "국가별 고객 10명·설치자 5명 인터뷰\n기기 접근·데이터·요금 계약 확인",
+          "textPreview": "국가별 고객 10명·설치자 5명 인터뷰 | 기기 접근·데이터·요금 계약 확인",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "국가별 고객 10명·설치자 5명 인터뷰",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "국가별 고객 10명·설치자 5명 인터뷰",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "기기 접근·데이터·요금 계약 확인",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기기 접근·데이터·요금 계약 확인",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            810,
+            293.2,
+            406,
+            77.2
+          ],
+          "text": "유료 실증 의향 파트너 2곳",
+          "textPreview": "유료 실증 의향 파트너 2곳",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "유료 실증 의향 파트너 2곳",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "유료 실증 의향 파트너 2곳",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            370.4,
+            180,
+            77.2
+          ],
+          "text": "4–6주",
+          "textPreview": "4–6주",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4–6주",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4–6주",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            244,
+            370.4,
+            566,
+            77.2
+          ],
+          "text": "지원 10기종 설치 시험\n기존 HEMS와 설정·검증 시간 비교",
+          "textPreview": "지원 10기종 설치 시험 | 기존 HEMS와 설정·검증 시간 비교",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "지원 10기종 설치 시험",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지원 10기종 설치 시험",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "기존 HEMS와 설정·검증 시간 비교",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기존 HEMS와 설정·검증 시간 비교",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            810,
+            370.4,
+            406,
+            77.2
+          ],
+          "text": "설정 시간 50% 감소 가능성",
+          "textPreview": "설정 시간 50% 감소 가능성",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "설정 시간 50% 감소 가능성",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "설정 시간 50% 감소 가능성",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            447.6,
+            180,
+            77.2
+          ],
+          "text": "7–10주",
+          "textPreview": "7–10주",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "7–10주",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "7–10주",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            244,
+            447.6,
+            566,
+            77.2
+          ],
+          "text": "독일·영국 각 10호 탐색 실증\n교차 운전·고객 수동개입 기록",
+          "textPreview": "독일·영국 각 10호 탐색 실증 | 교차 운전·고객 수동개입 기록",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "독일·영국 각 10호 탐색 실증",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "독일·영국 각 10호 탐색 실증",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "교차 운전·고객 수동개입 기록",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "교차 운전·고객 수동개입 기록",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            810,
+            447.6,
+            406,
+            77.2
+          ],
+          "text": "순편익 양수, 쾌적 조건 유지",
+          "textPreview": "순편익 양수, 쾌적 조건 유지",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "순편익 양수, 쾌적 조건 유지",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "순편익 양수, 쾌적 조건 유지",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            524.8,
+            180,
+            77.2
+          ],
+          "text": "11–12주",
+          "textPreview": "11–12주",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "11–12주",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "11–12주",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            244,
+            524.8,
+            566,
+            77.2
+          ],
+          "text": "가격·설치 공수·문의 비용 확인\n계절 확대 실증과 제품화 판단",
+          "textPreview": "가격·설치 공수·문의 비용 확인 | 계절 확대 실증과 제품화 판단",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "가격·설치 공수·문의 비용 확인",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "가격·설치 공수·문의 비용 확인",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "계절 확대 실증과 제품화 판단",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "계절 확대 실증과 제품화 판단",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            810,
+            524.8,
+            406,
+            77.2
+          ],
+          "text": "유료 계약 또는 명확한 구매 조건",
+          "textPreview": "유료 계약 또는 명확한 구매 조건",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "유료 계약 또는 명확한 구매 조건",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "유료 계약 또는 명확한 구매 조건",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/618r21on",
+      "id": "6",
+      "bbox": [
+        66,
+        622,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "접근 권한 미확보·고객 순편익 음수·반복 안전 제약 위반이면 해당 기능 또는 시장 범위를 축소.",
+      "textPreview": "접근 권한 미확보·고객 순편익 음수·반복 안전 제약 위반이면 해당 기능 또는 시장 범위를 축소.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "접근 권한 미확보·고객 순편익 음수·반복 안전 제약 위반이면 해당 기능 또는 시장 범위를 축소."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "접근 권한 미확보·고객 순편익 음수·반복 안전 제약 위반이면 해당 기능 또는 시장 범위를 축소.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "접근 권한 미확보·고객 순편익 음수·반복 안전 제약 위반이면 해당 기능 또는 시장 범위를 축소.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,960 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/hd15xl",
+    "id": "hd15xl",
+    "slide": 32,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z2psv2d",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "부록  표준 지원과 실제 제어 가능성의 차이",
+      "textPreview": "부록  표준 지원과 실제 제어 가능성의 차이",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "부록  표준 지원과 실제 제어 가능성의 차이"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "부록  표준 지원과 실제 제어 가능성의 차이",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "부록  표준 지원과 실제 제어 가능성의 차이",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyt8jq1s",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "기기·펌웨어·권한·지역 조건을 조합별로 검증하는 능력이 필요",
+      "textPreview": "기기·펌웨어·권한·지역 조건을 조합별로 검증하는 능력이 필요",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "기기·펌웨어·권한·지역 조건을 조합별로 검증하는 능력이 필요"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "기기·펌웨어·권한·지역 조건을 조합별로 검증하는 능력이 필요",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기기·펌웨어·권한·지역 조건을 조합별로 검증하는 능력이 필요",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mx07qlk7",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "32",
+      "textPreview": "32",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "32"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "32",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "32",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwrqhgjm",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0vipob21",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R28 CSA · R26 EEBUS · R27 EEBUS · R29 EU 집행위",
+      "textPreview": "근거  R28 CSA · R26 EEBUS · R27 EEBUS · R29 EU 집행위",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R28 CSA · R26 EEBUS · R27 EEBUS · R29 EU 집행위"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R28 CSA · R26 EEBUS · R27 EEBUS · R29 EU 집행위",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R28 CSA · R26 EEBUS · R27 EEBUS · R29 EU 집행위",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/uxszm5sj",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        339
+      ],
+      "text": "확인 사항 | 의미 | R&D에 반영할 일\nMatter 1.5 에너지 확장 | 요금·계량·계통 정보 교환 기능\n2025.11 발표 | 표준 기능 존재와 설치기기 지원을\n별도 호환 시험으로 확인\nEEBUS 전력 제한 | LPC·LPP 등 용도별 제한 기능 | 모든 기기에서 동일 기능·응답을\n보장한다고 가정하지 않음\nEU Cyber Resilience Act | 주요 의무 2027.12.11 적용\n보고 의무 2026.09.11부터 | 보안 업데이트·취약점 대응·\n지원기간 비용을 제품 설계에 포함",
+      "textPreview": "확인 사항 | 의미 | R&D에 반영할 일 | Matter 1.5 에너지 확장 | 요금·계량·계통 정보 교환 기능 | 2025.11 발표 | 표준 기능 존재와 설치기기 지원을 | 별도 호환 시험으로 확인 | EEBUS 전력 제한 | LPC·LPP...",
+      "rows": 4,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            316,
+            84.75
+          ],
+          "text": "확인 사항",
+          "textPreview": "확인 사항",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "확인 사항",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "확인 사항",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            382,
+            223,
+            416,
+            84.75
+          ],
+          "text": "의미",
+          "textPreview": "의미",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "의미",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "의미",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            798,
+            223,
+            416,
+            84.75
+          ],
+          "text": "R&D에 반영할 일",
+          "textPreview": "R&D에 반영할 일",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "R&D에 반영할 일",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "R&D에 반영할 일",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            307.75,
+            316,
+            84.75
+          ],
+          "text": "Matter 1.5 에너지 확장",
+          "textPreview": "Matter 1.5 에너지 확장",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Matter 1.5 에너지 확장",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Matter 1.5 에너지 확장",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            382,
+            307.75,
+            416,
+            84.75
+          ],
+          "text": "요금·계량·계통 정보 교환 기능\n2025.11 발표",
+          "textPreview": "요금·계량·계통 정보 교환 기능 | 2025.11 발표",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "요금·계량·계통 정보 교환 기능",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "요금·계량·계통 정보 교환 기능",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "2025.11 발표",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2025.11 발표",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            798,
+            307.75,
+            416,
+            84.75
+          ],
+          "text": "표준 기능 존재와 설치기기 지원을\n별도 호환 시험으로 확인",
+          "textPreview": "표준 기능 존재와 설치기기 지원을 | 별도 호환 시험으로 확인",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "표준 기능 존재와 설치기기 지원을",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "표준 기능 존재와 설치기기 지원을",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "별도 호환 시험으로 확인",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "별도 호환 시험으로 확인",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            392.5,
+            316,
+            84.75
+          ],
+          "text": "EEBUS 전력 제한",
+          "textPreview": "EEBUS 전력 제한",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "EEBUS 전력 제한",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "EEBUS 전력 제한",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            382,
+            392.5,
+            416,
+            84.75
+          ],
+          "text": "LPC·LPP 등 용도별 제한 기능",
+          "textPreview": "LPC·LPP 등 용도별 제한 기능",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "LPC·LPP 등 용도별 제한 기능",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "LPC·LPP 등 용도별 제한 기능",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            798,
+            392.5,
+            416,
+            84.75
+          ],
+          "text": "모든 기기에서 동일 기능·응답을\n보장한다고 가정하지 않음",
+          "textPreview": "모든 기기에서 동일 기능·응답을 | 보장한다고 가정하지 않음",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "모든 기기에서 동일 기능·응답을",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "모든 기기에서 동일 기능·응답을",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "보장한다고 가정하지 않음",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "보장한다고 가정하지 않음",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            477.25,
+            316,
+            84.75
+          ],
+          "text": "EU Cyber Resilience Act",
+          "textPreview": "EU Cyber Resilience Act",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "EU Cyber Resilience Act",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "EU Cyber Resilience Act",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            382,
+            477.25,
+            416,
+            84.75
+          ],
+          "text": "주요 의무 2027.12.11 적용\n보고 의무 2026.09.11부터",
+          "textPreview": "주요 의무 2027.12.11 적용 | 보고 의무 2026.09.11부터",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "주요 의무 2027.12.11 적용",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "주요 의무 2027.12.11 적용",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "보고 의무 2026.09.11부터",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "보고 의무 2026.09.11부터",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            798,
+            477.25,
+            416,
+            84.75
+          ],
+          "text": "보안 업데이트·취약점 대응·\n지원기간 비용을 제품 설계에 포함",
+          "textPreview": "보안 업데이트·취약점 대응· | 지원기간 비용을 제품 설계에 포함",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "보안 업데이트·취약점 대응·",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "보안 업데이트·취약점 대응·",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "지원기간 비용을 제품 설계에 포함",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지원기간 비용을 제품 설계에 포함",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yt07m1kv",
+      "id": "7",
+      "bbox": [
+        70,
+        588,
+        1100,
+        31
+      ],
+      "geometry": "rect",
+      "text": "출하 이후에도 펌웨어·설정·시험 기록을 관리해야 설치 자동화의 가치가 유지된다.",
+      "textPreview": "출하 이후에도 펌웨어·설정·시험 기록을 관리해야 설치 자동화의 가치가 유지된다.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "출하 이후에도 펌웨어·설정·시험 기록을 관리해야 설치 자동화의 가치가 유지된다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "출하 이후에도 펌웨어·설정·시험 기록을 관리해야 설치 자동화의 가치가 유지된다.",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "출하 이후에도 펌웨어·설정·시험 기록을 관리해야 설치 자동화의 가치가 유지된다.",
+              "fontSize": 24,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

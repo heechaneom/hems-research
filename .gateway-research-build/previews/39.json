@@ -1,0 +1,1623 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/29ple1",
+    "id": "29ple1",
+    "slide": 39,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bqtcfmhw",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "조사 근거 3  인증·실증·표준·선행기술",
+      "textPreview": "조사 근거 3  인증·실증·표준·선행기술",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조사 근거 3  인증·실증·표준·선행기술"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조사 근거 3  인증·실증·표준·선행기술",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조사 근거 3  인증·실증·표준·선행기술",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cb2d8rih",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+      "textPreview": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcbuhwz2",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "39",
+      "textPreview": "39",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "39"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "39",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "39",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ydkva10n",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zetcjmh8",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R21 ConnectDER · R22 UL Solutions · R23 ENA · R24 Nesta·CNZ · R25 Nesta · R26 EEBUS · R27 EEBUS · R28 CSA · R29 EU 집행위 · R30 특허 공개문헌",
+      "textPreview": "근거  R21 ConnectDER · R22 UL Solutions · R23 ENA · R24 Nesta·CNZ · R25 Nesta · R26 EEBUS · R27 EEBUS · R28 CSA · R29 EU 집행위 · R30 특허 공개문헌",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R21 ConnectDER · R22 UL Solutions · R23 ENA · R24 Nesta·CNZ · R25 Nesta · R26 EEBUS · R27 EEBUS · R28 CSA · R29 EU 집행위 · R30 특허 공개문헌"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R21 ConnectDER · R22 UL Solutions · R23 ENA · R24 Nesta·CNZ · R25 Nesta · R26 EEBUS · R27 EEBUS · R28 CSA · R29 EU 집행위 · R30 특허 공개문헌",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R21 ConnectDER · R22 UL Solutions · R23 ENA · R24 Nesta·CNZ · R25 Nesta · R26 EEBUS · R27 EEBUS · R28 CSA · R29 EU 집행위 · R30 특허 공개문헌",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf2dcrit",
+      "id": "6",
+      "bbox": [
+        69,
+        218,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R21",
+      "textPreview": "R21",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R21"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R21",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R21",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgbulwze",
+      "id": "7",
+      "bbox": [
+        151,
+        218,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "ConnectDER  Solar MSA v5.2 설치 매뉴얼",
+      "textPreview": "ConnectDER  Solar MSA v5.2 설치 매뉴얼",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ConnectDER  Solar MSA v5.2 설치 매뉴얼"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ConnectDER  Solar MSA v5.2 설치 매뉴얼",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ConnectDER  Solar MSA v5.2 설치 매뉴얼",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehgbyx0j",
+      "id": "8",
+      "bbox": [
+        69,
+        256,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R22",
+      "textPreview": "R22",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R22"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R22",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R22",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fi9c72h4",
+      "id": "9",
+      "bbox": [
+        151,
+        256,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "UL Solutions  Power Control Systems for DER",
+      "textPreview": "UL Solutions  Power Control Systems for DER",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "UL Solutions  Power Control Systems for DER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "UL Solutions  Power Control Systems for DER",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "UL Solutions  Power Control Systems for DER",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jilwjqlw",
+      "id": "10",
+      "bbox": [
+        69,
+        294,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R23",
+      "textPreview": "R23",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R23"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R23",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R23",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ihcfal4b",
+      "id": "11",
+      "bbox": [
+        151,
+        294,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "ENA  G100 Issue 2 Amendment 2, 2023",
+      "textPreview": "ENA  G100 Issue 2 Amendment 2, 2023",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENA  G100 Issue 2 Amendment 2, 2023"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENA  G100 Issue 2 Amendment 2, 2023",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENA  G100 Issue 2 Amendment 2, 2023",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5k3yl03m",
+      "id": "12",
+      "bbox": [
+        69,
+        332,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R24",
+      "textPreview": "R24",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R24"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R24",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R24",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kjuxcvm1",
+      "id": "13",
+      "bbox": [
+        151,
+        332,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Nesta·CNZ  HeatFlex UK, 2024 실증",
+      "textPreview": "Nesta·CNZ  HeatFlex UK, 2024 실증",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Nesta·CNZ  HeatFlex UK, 2024 실증"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Nesta·CNZ  HeatFlex UK, 2024 실증",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Nesta·CNZ  HeatFlex UK, 2024 실증",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ve1wf6lk",
+      "id": "14",
+      "bbox": [
+        69,
+        370,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R25",
+      "textPreview": "R25",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R25"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R25",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R25",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsf614z",
+      "id": "15",
+      "bbox": [
+        151,
+        370,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Nesta  HeatFlex 기술·실증 보고서",
+      "textPreview": "Nesta  HeatFlex 기술·실증 보고서",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Nesta  HeatFlex 기술·실증 보고서"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Nesta  HeatFlex 기술·실증 보고서",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Nesta  HeatFlex 기술·실증 보고서",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xg3ehg3q",
+      "id": "16",
+      "bbox": [
+        69,
+        408,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R26",
+      "textPreview": "R26",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R26"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R26",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R26",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfax8bm5",
+      "id": "17",
+      "bbox": [
+        151,
+        408,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "EEBUS  Solutions & Use Cases",
+      "textPreview": "EEBUS  Solutions & Use Cases",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EEBUS  Solutions & Use Cases"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EEBUS  Solutions & Use Cases",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EEBUS  Solutions & Use Cases",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nq1wb6lo",
+      "id": "18",
+      "bbox": [
+        69,
+        446,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R27",
+      "textPreview": "R27",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R27"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R27",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R27",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mpsf2143",
+      "id": "19",
+      "bbox": [
+        151,
+        446,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "EEBUS  Limitation of Power Consumption v1.0",
+      "textPreview": "EEBUS  Limitation of Power Consumption v1.0",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EEBUS  Limitation of Power Consumption v1.0"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EEBUS  Limitation of Power Consumption v1.0",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EEBUS  Limitation of Power Consumption v1.0",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ql8fe1ov",
+      "id": "20",
+      "bbox": [
+        69,
+        484,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R28",
+      "textPreview": "R28",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R28"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R28",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R28",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rmhgn6pg",
+      "id": "21",
+      "bbox": [
+        151,
+        484,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "CSA  Matter 1.5 에너지 관리 확장, 2025.11.20",
+      "textPreview": "CSA  Matter 1.5 에너지 관리 확장, 2025.11.20",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CSA  Matter 1.5 에너지 관리 확장, 2025.11.20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CSA  Matter 1.5 에너지 관리 확장, 2025.11.20",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CSA  Matter 1.5 에너지 관리 확장, 2025.11.20",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cnqxgb61",
+      "id": "22",
+      "bbox": [
+        69,
+        522,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R29",
+      "textPreview": "R29",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R29"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R29",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R29",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dozypw7m",
+      "id": "23",
+      "bbox": [
+        151,
+        522,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "EU 집행위  Cyber Resilience Act 적용 일정",
+      "textPreview": "EU 집행위  Cyber Resilience Act 적용 일정",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "EU 집행위  Cyber Resilience Act 적용 일정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "EU 집행위  Cyber Resilience Act 적용 일정",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EU 집행위  Cyber Resilience Act 적용 일정",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epsfi1or",
+      "id": "24",
+      "bbox": [
+        69,
+        560,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R30",
+      "textPreview": "R30",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R30",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R30",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zq1gr65c",
+      "id": "25",
+      "bbox": [
+        151,
+        560,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "특허 공개문헌  US10191102B2, CT 극성 자동 보정",
+      "textPreview": "특허 공개문헌  US10191102B2, CT 극성 자동 보정",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "특허 공개문헌  US10191102B2, CT 극성 자동 보정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "특허 공개문헌  US10191102B2, CT 극성 자동 보정",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "특허 공개문헌  US10191102B2, CT 극성 자동 보정",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

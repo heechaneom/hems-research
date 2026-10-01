@@ -1,0 +1,1623 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/7j0k8o",
+    "id": "7j0k8o",
+    "slide": 38,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9o7md8za",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "조사 근거 2  지역 경제성과 경쟁 제품",
+      "textPreview": "조사 근거 2  지역 경제성과 경쟁 제품",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "조사 근거 2  지역 경제성과 경쟁 제품"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "조사 근거 2  지역 경제성과 경쟁 제품",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "조사 근거 2  지역 경제성과 경쟁 제품",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlwn2d0j",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+      "textPreview": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "각 번호의 원문 URL은 해당 슬라이드 발표자 노트에 수록. 조사 기준일 2026.09.30",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nm54bih4",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "38",
+      "textPreview": "38",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "38"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "38",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "38",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0je503id",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1knm98zy",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R11 IRS · R12 DEWA · R13 SERA · R14 KAHRAMAA · R15 gridX · R16 1KOMMA5° · R17 Kraken · R18 Enphase · R19 Enphase · R20 SPAN",
+      "textPreview": "근거  R11 IRS · R12 DEWA · R13 SERA · R14 KAHRAMAA · R15 gridX · R16 1KOMMA5° · R17 Kraken · R18 Enphase · R19 Enphase · R20 SPAN",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R11 IRS · R12 DEWA · R13 SERA · R14 KAHRAMAA · R15 gridX · R16 1KOMMA5° · R17 Kraken · R18 Enphase · R19 Enphase · R20 SPAN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R11 IRS · R12 DEWA · R13 SERA · R14 KAHRAMAA · R15 gridX · R16 1KOMMA5° · R17 Kraken · R18 Enphase · R19 Enphase · R20 SPAN",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R11 IRS · R12 DEWA · R13 SERA · R14 KAHRAMAA · R15 gridX · R16 1KOMMA5° · R17 Kraken · R18 Enphase · R19 Enphase · R20 SPAN",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehwnyt0n",
+      "id": "6",
+      "bbox": [
+        69,
+        218,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R11",
+      "textPreview": "R11",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R11",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R11",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi547yh8",
+      "id": "7",
+      "bbox": [
+        151,
+        218,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "IRS  Residential Clean Energy Credit",
+      "textPreview": "IRS  Residential Clean Energy Credit",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "IRS  Residential Clean Energy Credit"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "IRS  Residential Clean Energy Credit",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "IRS  Residential Clean Energy Credit",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfi5cnyx",
+      "id": "8",
+      "bbox": [
+        69,
+        256,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R12",
+      "textPreview": "R12",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R12"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R12",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R12",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgr6lszi",
+      "id": "9",
+      "bbox": [
+        151,
+        256,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "DEWA  Slab Tariff, 연료조정요금 2026.09",
+      "textPreview": "DEWA  Slab Tariff, 연료조정요금 2026.09",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DEWA  Slab Tariff, 연료조정요금 2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DEWA  Slab Tariff, 연료조정요금 2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DEWA  Slab Tariff, 연료조정요금 2026.09",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9oz65wva",
+      "id": "10",
+      "bbox": [
+        69,
+        294,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R13",
+      "textPreview": "R13",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R13"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R13",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R13",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8n65wbup",
+      "id": "11",
+      "bbox": [
+        151,
+        294,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "SERA  Electricity Service Guide, 요금표 p.67",
+      "textPreview": "SERA  Electricity Service Guide, 요금표 p.67",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SERA  Electricity Service Guide, 요금표 p.67"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SERA  Electricity Service Guide, 요금표 p.67",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SERA  Electricity Service Guide, 요금표 p.67",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nmxo36dk",
+      "id": "12",
+      "bbox": [
+        69,
+        332,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R14",
+      "textPreview": "R14",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R14",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R14",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlonu1cz",
+      "id": "13",
+      "bbox": [
+        151,
+        332,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "KAHRAMAA  BeSolar net billing 안내",
+      "textPreview": "KAHRAMAA  BeSolar net billing 안내",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "KAHRAMAA  BeSolar net billing 안내"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "KAHRAMAA  BeSolar net billing 안내",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "KAHRAMAA  BeSolar net billing 안내",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkf61wve",
+      "id": "14",
+      "bbox": [
+        69,
+        370,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R15",
+      "textPreview": "R15",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R15",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R15",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z65srut",
+      "id": "15",
+      "bbox": [
+        151,
+        370,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "gridX  Optimized Heat Pump Operation, 2026.06.02",
+      "textPreview": "gridX  Optimized Heat Pump Operation, 2026.06.02",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "gridX  Optimized Heat Pump Operation, 2026.06.02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "gridX  Optimized Heat Pump Operation, 2026.06.02",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "gridX  Optimized Heat Pump Operation, 2026.06.02",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyxozmd8",
+      "id": "16",
+      "bbox": [
+        69,
+        408,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R16",
+      "textPreview": "R16",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R16",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R16",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxonqhcn",
+      "id": "17",
+      "bbox": [
+        151,
+        408,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "1KOMMA5°  Heartbeat 호환 목록, 2026.08.25",
+      "textPreview": "1KOMMA5°  Heartbeat 호환 목록, 2026.08.25",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1KOMMA5°  Heartbeat 호환 목록, 2026.08.25"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1KOMMA5°  Heartbeat 호환 목록, 2026.08.25",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1KOMMA5°  Heartbeat 호환 목록, 2026.08.25",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gj6dgvi",
+      "id": "18",
+      "bbox": [
+        69,
+        446,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R17",
+      "textPreview": "R17",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R17"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R17",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R17",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfqp4vux",
+      "id": "19",
+      "bbox": [
+        151,
+        446,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Kraken  Electrifying domestic heating, 2025.08.21",
+      "textPreview": "Kraken  Electrifying domestic heating, 2025.08.21",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kraken  Electrifying domestic heating, 2025.08.21"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kraken  Electrifying domestic heating, 2025.08.21",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kraken  Electrifying domestic heating, 2025.08.21",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4bihwj6l",
+      "id": "20",
+      "bbox": [
+        69,
+        484,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R18",
+      "textPreview": "R18",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R18"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R18",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R18",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcripon6",
+      "id": "21",
+      "bbox": [
+        151,
+        484,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Enphase  IQ Energy Router 독일·오스트리아 출시, 2023.06",
+      "textPreview": "Enphase  IQ Energy Router 독일·오스트리아 출시, 2023.06",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Enphase  IQ Energy Router 독일·오스트리아 출시, 2023.06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Enphase  IQ Energy Router 독일·오스트리아 출시, 2023.06",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Enphase  IQ Energy Router 독일·오스트리아 출시, 2023.06",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/290zutof",
+      "id": "22",
+      "bbox": [
+        69,
+        522,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R19",
+      "textPreview": "R19",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R19"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R19",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R19",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3a90ne50",
+      "id": "23",
+      "bbox": [
+        151,
+        522,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Enphase  Daikin Altherma 3 설정 가이드",
+      "textPreview": "Enphase  Daikin Altherma 3 설정 가이드",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Enphase  Daikin Altherma 3 설정 가이드"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Enphase  Daikin Altherma 3 설정 가이드",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Enphase  Daikin Altherma 3 설정 가이드",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7ihsj69",
+      "id": "24",
+      "bbox": [
+        69,
+        560,
+        72,
+        32
+      ],
+      "geometry": "rect",
+      "text": "R20",
+      "textPreview": "R20",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "R20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "R20",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "R20",
+              "fontSize": 20,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h8rilo7u",
+      "id": "25",
+      "bbox": [
+        151,
+        560,
+        1050,
+        32
+      ],
+      "geometry": "rect",
+      "text": "SPAN  PowerUp 및 배전반 에너지 제어",
+      "textPreview": "SPAN  PowerUp 및 배전반 에너지 제어",
+      "resolvedFontSize": 21,
+      "resolvedTextStyle": {
+        "fontSize": 21,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SPAN  PowerUp 및 배전반 에너지 제어"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SPAN  PowerUp 및 배전반 에너지 제어",
+          "resolvedTextStyle": {
+            "fontSize": 21,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SPAN  PowerUp 및 배전반 에너지 제어",
+              "fontSize": 21,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

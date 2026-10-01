@@ -1,0 +1,854 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/3vmdiu",
+    "id": "3vmdiu",
+    "slide": 8,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8f6d87mt",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "프랑스·네덜란드: 제도 변화가 운전을 바꾼다",
+      "textPreview": "프랑스·네덜란드: 제도 변화가 운전을 바꾼다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "프랑스·네덜란드: 제도 변화가 운전을 바꾼다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "프랑스·네덜란드: 제도 변화가 운전을 바꾼다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "프랑스·네덜란드: 제도 변화가 운전을 바꾼다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nexcz258",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "요금 데이터 갱신만으로 끝내지 않고 급탕·냉난방 운전까지 연결",
+      "textPreview": "요금 데이터 갱신만으로 끝내지 않고 급탕·냉난방 운전까지 연결",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "요금 데이터 갱신만으로 끝내지 않고 급탕·냉난방 운전까지 연결"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "요금 데이터 갱신만으로 끝내지 않고 급탕·냉난방 운전까지 연결",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "요금 데이터 갱신만으로 끝내지 않고 급탕·냉난방 운전까지 연결",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdov6x4n",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4ze5w3a",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3qdcrmp",
+      "id": "5",
+      "bbox": [
+        64,
+        219,
+        548,
+        58
+      ],
+      "geometry": "rect",
+      "text": "프랑스  스케줄 변경 자동화",
+      "textPreview": "프랑스  스케줄 변경 자동화",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "프랑스  스케줄 변경 자동화"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "프랑스  스케줄 변경 자동화",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "프랑스  스케줄 변경 자동화",
+              "fontSize": 31,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vihw3m54",
+      "id": "6",
+      "bbox": [
+        64,
+        291,
+        545,
+        315
+      ],
+      "geometry": "rect",
+      "text": "확인: 1,100만 고객의 비첨두 시간대가\n2025.11–2027.10 순차 변경\n\n대상: 고정 타이머로 급탕·난방하는 집\n\n제안: 공식 계약 정보를 확인한 뒤\n기기 스케줄을 변경하고 결과 검증\n\n요금 변경 대응은 지역화 기능으로 개발",
+      "textPreview": "확인: 1,100만 고객의 비첨두 시간대가 | 2025.11–2027.10 순차 변경 |  | 대상: 고정 타이머로 급탕·난방하는 집 |  | 제안: 공식 계약 정보를 확인한 뒤 | 기기 스케줄을 변경하고 결과 검증 |  | 요금 변경 대응은 지...",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "확인: 1,100만 고객의 비첨두 시간대가"
+          },
+          {
+            "index": 2,
+            "text": "2025.11–2027.10 순차 변경"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "대상: 고정 타이머로 급탕·난방하는 집"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "제안: 공식 계약 정보를 확인한 뒤"
+          },
+          {
+            "index": 7,
+            "text": "기기 스케줄을 변경하고 결과 검증"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "요금 변경 대응은 지역화 기능으로 개발"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "확인: 1,100만 고객의 비첨두 시간대가",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "확인: 1,100만 고객의 비첨두 시간대가",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "2025.11–2027.10 순차 변경",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2025.11–2027.10 순차 변경",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "대상: 고정 타이머로 급탕·난방하는 집",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "대상: 고정 타이머로 급탕·난방하는 집",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "제안: 공식 계약 정보를 확인한 뒤",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "제안: 공식 계약 정보를 확인한 뒤",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "기기 스케줄을 변경하고 결과 검증",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기기 스케줄을 변경하고 결과 검증",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "요금 변경 대응은 지역화 기능으로 개발",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "요금 변경 대응은 지역화 기능으로 개발",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ah8vah4j",
+      "id": "7",
+      "bbox": [
+        656,
+        219,
+        548,
+        58
+      ],
+      "geometry": "rect",
+      "text": "네덜란드  태양광을 열로 저장",
+      "textPreview": "네덜란드  태양광을 열로 저장",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "네덜란드  태양광을 열로 저장"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "네덜란드  태양광을 열로 저장",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "네덜란드  태양광을 열로 저장",
+              "fontSize": 31,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58je9w36",
+      "id": "8",
+      "bbox": [
+        656,
+        291,
+        545,
+        315
+      ],
+      "geometry": "rect",
+      "text": "확인: 2027.1.1 상계제도 종료 예정\n\n대상: PV와 급탕탱크·HP 보유 가구\n\n제안: 잉여 태양광으로 급탕·예열하고\n필요한 경우 배터리와 함께 최적화\n\n핵심 연구: 집별로 쓸 수 있는 열 유연성",
+      "textPreview": "확인: 2027.1.1 상계제도 종료 예정 |  | 대상: PV와 급탕탱크·HP 보유 가구 |  | 제안: 잉여 태양광으로 급탕·예열하고 | 필요한 경우 배터리와 함께 최적화 |  | 핵심 연구: 집별로 쓸 수 있는 열 유연성",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "확인: 2027.1.1 상계제도 종료 예정"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "대상: PV와 급탕탱크·HP 보유 가구"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "제안: 잉여 태양광으로 급탕·예열하고"
+          },
+          {
+            "index": 6,
+            "text": "필요한 경우 배터리와 함께 최적화"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "핵심 연구: 집별로 쓸 수 있는 열 유연성"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "확인: 2027.1.1 상계제도 종료 예정",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "확인: 2027.1.1 상계제도 종료 예정",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "대상: PV와 급탕탱크·HP 보유 가구",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "대상: PV와 급탕탱크·HP 보유 가구",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "제안: 잉여 태양광으로 급탕·예열하고",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "제안: 잉여 태양광으로 급탕·예열하고",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "필요한 경우 배터리와 함께 최적화",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "필요한 경우 배터리와 함께 최적화",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "핵심 연구: 집별로 쓸 수 있는 열 유연성",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "핵심 연구: 집별로 쓸 수 있는 열 유연성",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k7qdgrml",
+      "id": "9",
+      "bbox": [
+        66,
+        622,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "자가소비 확대의 경제성은 수출 보상·수수료·열손실에 따라 달라짐. 배터리 구매를 전제하지 않음.",
+      "textPreview": "자가소비 확대의 경제성은 수출 보상·수수료·열손실에 따라 달라짐. 배터리 구매를 전제하지 않음.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "자가소비 확대의 경제성은 수출 보상·수수료·열손실에 따라 달라짐. 배터리 구매를 전제하지 않음."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "자가소비 확대의 경제성은 수출 보상·수수료·열손실에 따라 달라짐. 배터리 구매를 전제하지 않음.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "자가소비 확대의 경제성은 수출 보상·수수료·열손실에 따라 달라짐. 배터리 구매를 전제하지 않음.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

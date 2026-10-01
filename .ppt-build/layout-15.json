@@ -1,0 +1,877 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/jfg5i9",
+    "id": "jfg5i9",
+    "slide": 15,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wrq5o3it",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "C·E. 백업 제어와 전력 허브는 선택적으로 확장",
+      "textPreview": "C·E. 백업 제어와 전력 허브는 선택적으로 확장",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "C·E. 백업 제어와 전력 허브는 선택적으로 확장"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "C·E. 백업 제어와 전력 허브는 선택적으로 확장",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "C·E. 백업 제어와 전력 허브는 선택적으로 확장",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vqh4vi18",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "배터리 셀 신규 개발보다 기존 인증 전력장치와 가전 제어의 결합을 먼저 검증",
+      "textPreview": "배터리 셀 신규 개발보다 기존 인증 전력장치와 가전 제어의 결합을 먼저 검증",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "배터리 셀 신규 개발보다 기존 인증 전력장치와 가전 제어의 결합을 먼저 검증"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "배터리 셀 신규 개발보다 기존 인증 전력장치와 가전 제어의 결합을 먼저 검증",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "배터리 셀 신규 개발보다 기존 인증 전력장치와 가전 제어의 결합을 먼저 검증",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap8nmd0n",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "15",
+      "textPreview": "15",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "15"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "15",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "15",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gj61sja",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfa5snip",
+      "id": "5",
+      "bbox": [
+        64,
+        219,
+        548,
+        58
+      ],
+      "geometry": "rect",
+      "text": "C  백업 지속시간 관리",
+      "textPreview": "C  백업 지속시간 관리",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "C  백업 지속시간 관리"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "C  백업 지속시간 관리",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "C  백업 지속시간 관리",
+              "fontSize": 31,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je14zi14",
+      "id": "6",
+      "bbox": [
+        64,
+        291,
+        545,
+        315
+      ],
+      "geometry": "rect",
+      "text": "고객이 보호할 냉장·조명·냉방을 선택\n\n배터리 잔량·온도·부하별 운전 제약으로\n지속시간과 불확실성 범위를 제시\n\n목표: 동일 배터리로 중요부하\n유지시간 20% 증가\n\n정전 예측 자체를 판매 가치로 삼지 않음",
+      "textPreview": "고객이 보호할 냉장·조명·냉방을 선택 |  | 배터리 잔량·온도·부하별 운전 제약으로 | 지속시간과 불확실성 범위를 제시 |  | 목표: 동일 배터리로 중요부하 | 유지시간 20% 증가 |  | 정전 예측 자체를 판매 가치로 삼지 않음",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "고객이 보호할 냉장·조명·냉방을 선택"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "배터리 잔량·온도·부하별 운전 제약으로"
+          },
+          {
+            "index": 4,
+            "text": "지속시간과 불확실성 범위를 제시"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "목표: 동일 배터리로 중요부하"
+          },
+          {
+            "index": 7,
+            "text": "유지시간 20% 증가"
+          },
+          {
+            "index": 8,
+            "text": ""
+          },
+          {
+            "index": 9,
+            "text": "정전 예측 자체를 판매 가치로 삼지 않음"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "고객이 보호할 냉장·조명·냉방을 선택",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "고객이 보호할 냉장·조명·냉방을 선택",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "배터리 잔량·온도·부하별 운전 제약으로",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "배터리 잔량·온도·부하별 운전 제약으로",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "지속시간과 불확실성 범위를 제시",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지속시간과 불확실성 범위를 제시",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "목표: 동일 배터리로 중요부하",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "목표: 동일 배터리로 중요부하",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "유지시간 20% 증가",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "유지시간 20% 증가",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "정전 예측 자체를 판매 가치로 삼지 않음",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "정전 예측 자체를 판매 가치로 삼지 않음",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idsnqd0j",
+      "id": "7",
+      "bbox": [
+        656,
+        219,
+        548,
+        58
+      ],
+      "geometry": "rect",
+      "text": "E  교체형 전력 허브",
+      "textPreview": "E  교체형 전력 허브",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "E  교체형 전력 허브"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "E  교체형 전력 허브",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "E  교체형 전력 허브",
+              "fontSize": 31,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1kfmpoj6",
+      "id": "8",
+      "bbox": [
+        656,
+        291,
+        545,
+        315
+      ],
+      "geometry": "rect",
+      "text": "기존 분전 구조에 적용 가능한\n계측·제어 모듈을 인증사와 공동 설계\n\n차단·계통 분리 기능은 인증 장치가 담당\n\n목표: 배선·설치 공수 30% 단축\n\n신규 배터리·인버터 전체 개발은\n7명 과제의 초기 범위에서 제외",
+      "textPreview": "기존 분전 구조에 적용 가능한 | 계측·제어 모듈을 인증사와 공동 설계 |  | 차단·계통 분리 기능은 인증 장치가 담당 |  | 목표: 배선·설치 공수 30% 단축 |  | 신규 배터리·인버터 전체 개발은 | 7명 과제의 초기 범위에서 제외",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "기존 분전 구조에 적용 가능한"
+          },
+          {
+            "index": 2,
+            "text": "계측·제어 모듈을 인증사와 공동 설계"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "차단·계통 분리 기능은 인증 장치가 담당"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "목표: 배선·설치 공수 30% 단축"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "신규 배터리·인버터 전체 개발은"
+          },
+          {
+            "index": 9,
+            "text": "7명 과제의 초기 범위에서 제외"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "기존 분전 구조에 적용 가능한",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기존 분전 구조에 적용 가능한",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "계측·제어 모듈을 인증사와 공동 설계",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "계측·제어 모듈을 인증사와 공동 설계",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "차단·계통 분리 기능은 인증 장치가 담당",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "차단·계통 분리 기능은 인증 장치가 담당",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "목표: 배선·설치 공수 30% 단축",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "목표: 배선·설치 공수 30% 단축",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "신규 배터리·인버터 전체 개발은",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "신규 배터리·인버터 전체 개발은",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "7명 과제의 초기 범위에서 제외",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "7명 과제의 초기 범위에서 제외",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0j65gjil",
+      "id": "9",
+      "bbox": [
+        66,
+        622,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "모든 수치는 실증 전 목표. 백업 전환 성능·부하 우선순위는 인증 HW 구성과 고객 계약에 종속.",
+      "textPreview": "모든 수치는 실증 전 목표. 백업 전환 성능·부하 우선순위는 인증 HW 구성과 고객 계약에 종속.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "모든 수치는 실증 전 목표. 백업 전환 성능·부하 우선순위는 인증 HW 구성과 고객 계약에 종속."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "모든 수치는 실증 전 목표. 백업 전환 성능·부하 우선순위는 인증 HW 구성과 고객 계약에 종속.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "모든 수치는 실증 전 목표. 백업 전환 성능·부하 우선순위는 인증 HW 구성과 고객 계약에 종속.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

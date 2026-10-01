@@ -1,0 +1,873 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/lw70j1",
+    "id": "lw70j1",
+    "slide": 5,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3a10rqxg",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "독일: 설치 완료를 검증하는 비용을 줄인다",
+      "textPreview": "독일: 설치 완료를 검증하는 비용을 줄인다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "독일: 설치 완료를 검증하는 비용을 줄인다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "독일: 설치 완료를 검증하는 비용을 줄인다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "독일: 설치 완료를 검증하는 비용을 줄인다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oba1kvel",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "첫 구매자 후보는 가정 소비자보다 설치업체·Energy Pack OEM",
+      "textPreview": "첫 구매자 후보는 가정 소비자보다 설치업체·Energy Pack OEM",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "첫 구매자 후보는 가정 소비자보다 설치업체·Energy Pack OEM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "첫 구매자 후보는 가정 소비자보다 설치업체·Energy Pack OEM",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "첫 구매자 후보는 가정 소비자보다 설치업체·Energy Pack OEM",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcjit0f6",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qdsjm5wr",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/be10vaxc",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "§14a는 대상 설비의 수전 제어다. 일반 가전과 PV 역송 전체를 한꺼번에 제한하는 제도가 아니다.\n근거  R01 BNetzA · R26 EEBUS",
+      "textPreview": "§14a는 대상 설비의 수전 제어다. 일반 가전과 PV 역송 전체를 한꺼번에 제한하는 제도가 아니다. | 근거  R01 BNetzA · R26 EEBUS",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "§14a는 대상 설비의 수전 제어다. 일반 가전과 PV 역송 전체를 한꺼번에 제한하는 제도가 아니다."
+          },
+          {
+            "index": 2,
+            "text": "근거  R01 BNetzA · R26 EEBUS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "§14a는 대상 설비의 수전 제어다. 일반 가전과 PV 역송 전체를 한꺼번에 제한하는 제도가 아니다.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "§14a는 대상 설비의 수전 제어다. 일반 가전과 PV 역송 전체를 한꺼번에 제한하는 제도가 아니다.",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "근거  R01 BNetzA · R26 EEBUS",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R01 BNetzA · R26 EEBUS",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfu1ofex",
+      "id": "6",
+      "bbox": [
+        66,
+        230,
+        544,
+        51
+      ],
+      "geometry": "rect",
+      "text": "확인한 제도와 고객 문제",
+      "textPreview": "확인한 제도와 고객 문제",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "확인한 제도와 고객 문제"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "확인한 제도와 고객 문제",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "확인한 제도와 고객 문제",
+              "fontSize": 30,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dg3ix0fi",
+      "id": "7",
+      "bbox": [
+        66,
+        295,
+        544,
+        330
+      ],
+      "geometry": "rect",
+      "text": "2024년 이후 신규 설치 등 조건에 따라\n히트펌프·EV 충전·저장장치 등이 적용\n\nEMS가 여러 대상 설비를 조정할 수 있음\n\n현장 문제 가설\n계측 방향·제어권·통신·설정이 맞는지\n기기별로 확인하는 시간이 길다.",
+      "textPreview": "2024년 이후 신규 설치 등 조건에 따라 | 히트펌프·EV 충전·저장장치 등이 적용 |  | EMS가 여러 대상 설비를 조정할 수 있음 |  | 현장 문제 가설 | 계측 방향·제어권·통신·설정이 맞는지 | 기기별로 확인하는 시간이 길다.",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2024년 이후 신규 설치 등 조건에 따라"
+          },
+          {
+            "index": 2,
+            "text": "히트펌프·EV 충전·저장장치 등이 적용"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "EMS가 여러 대상 설비를 조정할 수 있음"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "현장 문제 가설"
+          },
+          {
+            "index": 7,
+            "text": "계측 방향·제어권·통신·설정이 맞는지"
+          },
+          {
+            "index": 8,
+            "text": "기기별로 확인하는 시간이 길다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2024년 이후 신규 설치 등 조건에 따라",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2024년 이후 신규 설치 등 조건에 따라",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "히트펌프·EV 충전·저장장치 등이 적용",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "히트펌프·EV 충전·저장장치 등이 적용",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "EMS가 여러 대상 설비를 조정할 수 있음",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "EMS가 여러 대상 설비를 조정할 수 있음",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "현장 문제 가설",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "현장 문제 가설",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "계측 방향·제어권·통신·설정이 맞는지",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "계측 방향·제어권·통신·설정이 맞는지",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "기기별로 확인하는 시간이 길다.",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기기별로 확인하는 시간이 길다.",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhcjq5w3",
+      "id": "8",
+      "bbox": [
+        657,
+        230,
+        544,
+        51
+      ],
+      "geometry": "rect",
+      "text": "판매할 모듈과 검증 방법",
+      "textPreview": "판매할 모듈과 검증 방법",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "판매할 모듈과 검증 방법"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "판매할 모듈과 검증 방법",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "판매할 모듈과 검증 방법",
+              "fontSize": 30,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z2l0zax8",
+      "id": "9",
+      "bbox": [
+        657,
+        295,
+        544,
+        330
+      ],
+      "geometry": "rect",
+      "text": "기기 연결 후 명령·응답 시험 수행\n\n지원 조합별 설치 완료 보고서 생성\n\n수익 방식: 설치 건별 또는 OEM 탑재료\n\n측정: 작업시간, 재방문, 실패 원인\n비교: 현재 설치 앱과 기존 HEMS",
+      "textPreview": "기기 연결 후 명령·응답 시험 수행 |  | 지원 조합별 설치 완료 보고서 생성 |  | 수익 방식: 설치 건별 또는 OEM 탑재료 |  | 측정: 작업시간, 재방문, 실패 원인 | 비교: 현재 설치 앱과 기존 HEMS",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "기기 연결 후 명령·응답 시험 수행"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "지원 조합별 설치 완료 보고서 생성"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "수익 방식: 설치 건별 또는 OEM 탑재료"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "측정: 작업시간, 재방문, 실패 원인"
+          },
+          {
+            "index": 8,
+            "text": "비교: 현재 설치 앱과 기존 HEMS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "기기 연결 후 명령·응답 시험 수행",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기기 연결 후 명령·응답 시험 수행",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "지원 조합별 설치 완료 보고서 생성",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지원 조합별 설치 완료 보고서 생성",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "수익 방식: 설치 건별 또는 OEM 탑재료",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "수익 방식: 설치 건별 또는 OEM 탑재료",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "측정: 작업시간, 재방문, 실패 원인",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "측정: 작업시간, 재방문, 실패 원인",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "비교: 현재 설치 앱과 기존 HEMS",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "비교: 현재 설치 앱과 기존 HEMS",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

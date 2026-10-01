@@ -1,0 +1,800 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/pi5ums",
+    "id": "pi5ums",
+    "slide": 30,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwfmt0f6",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "부록: 출처와 경쟁 제품 확인",
+      "textPreview": "부록: 출처와 경쟁 제품 확인",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "부록: 출처와 경쟁 제품 확인"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "부록: 출처와 경쟁 제품 확인",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "부록: 출처와 경쟁 제품 확인",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yt43ilgv",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록",
+      "textPreview": "상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zud4rqxg",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "30",
+      "textPreview": "30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crmlgvyp",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsvmp0za",
+      "id": "5",
+      "bbox": [
+        69,
+        216,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "01  DEWA · Cooling",
+      "textPreview": "01  DEWA · Cooling",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01  DEWA · Cooling"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01  DEWA · Cooling",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01  DEWA · Cooling",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q543elgj",
+      "id": "6",
+      "bbox": [
+        69,
+        264,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "02  통계청 · 2024 인구주택총조사, 표 36",
+      "textPreview": "02  통계청 · 2024 인구주택총조사, 표 36",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02  통계청 · 2024 인구주택총조사, 표 36"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02  통계청 · 2024 인구주택총조사, 표 36",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02  통계청 · 2024 인구주택총조사, 표 36",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bqd4nqh4",
+      "id": "7",
+      "bbox": [
+        69,
+        312,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "03  Eskom · 전력계통 현황, 2026.09.25",
+      "textPreview": "03  Eskom · 전력계통 현황, 2026.09.25",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03  Eskom · 전력계통 현황, 2026.09.25"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03  Eskom · 전력계통 현황, 2026.09.25",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03  Eskom · 전력계통 현황, 2026.09.25",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wnq5sfyt",
+      "id": "8",
+      "bbox": [
+        69,
+        360,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "04  미국 DOE · Virtual Power Plants Projects",
+      "textPreview": "04  미국 DOE · Virtual Power Plants Projects",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04  미국 DOE · Virtual Power Plants Projects"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04  미국 DOE · Virtual Power Plants Projects",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04  미국 DOE · Virtual Power Plants Projects",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xozm1kfe",
+      "id": "9",
+      "bbox": [
+        69,
+        408,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "05  SMA · Sunny Home Manager 2.0",
+      "textPreview": "05  SMA · Sunny Home Manager 2.0",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05  SMA · Sunny Home Manager 2.0"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05  SMA · Sunny Home Manager 2.0",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "05  SMA · Sunny Home Manager 2.0",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4jidkby",
+      "id": "10",
+      "bbox": [
+        69,
+        456,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "06  Tesla · Savings Mode",
+      "textPreview": "06  Tesla · Savings Mode",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06  Tesla · Savings Mode"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06  Tesla · Savings Mode",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06  Tesla · Savings Mode",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83ah4fud",
+      "id": "11",
+      "bbox": [
+        69,
+        504,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "07  Octopus · Heat pump FAQ",
+      "textPreview": "07  Octopus · Heat pump FAQ",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07  Octopus · Heat pump FAQ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07  Octopus · Heat pump FAQ",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07  Octopus · Heat pump FAQ",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7210bats",
+      "id": "12",
+      "bbox": [
+        69,
+        552,
+        1134,
+        39
+      ],
+      "geometry": "rect",
+      "text": "08  Schneider · Residential products",
+      "textPreview": "08  Schneider · Residential products",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08  Schneider · Residential products"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08  Schneider · Residential products",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08  Schneider · Residential products",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

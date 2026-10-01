@@ -1,0 +1,980 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4xllw8",
+    "id": "4xllw8",
+    "slide": 26,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ad07uxk",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "확대 기준은 과제 착수 때 수치로 합의한다",
+      "textPreview": "확대 기준은 과제 착수 때 수치로 합의한다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "확대 기준은 과제 착수 때 수치로 합의한다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "확대 기준은 과제 착수 때 수치로 합의한다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "확대 기준은 과제 착수 때 수치로 합의한다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bmhgze5",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "초기 목표 제안. 사전 기준선·측정 오차·현장 조건을 확인한 후 확정",
+      "textPreview": "초기 목표 제안. 사전 기준선·측정 오차·현장 조건을 확인한 후 확정",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "초기 목표 제안. 사전 기준선·측정 오차·현장 조건을 확인한 후 확정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "초기 목표 제안. 사전 기준선·측정 오차·현장 조건을 확인한 후 확정",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "초기 목표 제안. 사전 기준선·측정 오차·현장 조건을 확인한 후 확정",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcvi94fq",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "26",
+      "textPreview": "26",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "26"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "26",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "26",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y5kzapg3",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6t03uxo",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+      "textPreview": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "사업 제안 · 수치가 있는 경우 별도 표시한 가정 또는 목표",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/1w3210fy",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        380
+      ],
+      "text": "과제 | 확대 판단 기준 제안 | 보류·축소 조건\nGT1 | 설정·시험 중앙시간 40% 이상 단축\n재방문 증가 없음, 유료 도입 의향 | 지원 범위 확대 비용이 절감액 초과\nGT3 | 단순 타이머 대비 순편익 추정\n하한도 양수, 온도 이탈 악화 없음 | 추가 편익이 운영·지원비보다 작음\nGT2 | 고장시험 통과, 현지 승인 경로 확보\n설치 총비용이 비교 대안보다 유리 | 인증 일정·원가로 경쟁 불가\nGT4 | 중복 지급·명령 충돌을 검출\n파트너 정산 결과 차이를 설명 | 데이터·계약 접근을 확보하지 못함",
+      "textPreview": "과제 | 확대 판단 기준 제안 | 보류·축소 조건 | GT1 | 설정·시험 중앙시간 40% 이상 단축 | 재방문 증가 없음, 유료 도입 의향 | 지원 범위 확대 비용이 절감액 초과 | GT3 | 단순 타이머 대비 순편익 추정 | 하한도 양수, 온...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            228,
+            76
+          ],
+          "text": "과제",
+          "textPreview": "과제",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "과제",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "과제",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            294,
+            223,
+            550,
+            76
+          ],
+          "text": "확대 판단 기준 제안",
+          "textPreview": "확대 판단 기준 제안",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "확대 판단 기준 제안",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "확대 판단 기준 제안",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            844,
+            223,
+            370,
+            76
+          ],
+          "text": "보류·축소 조건",
+          "textPreview": "보류·축소 조건",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "보류·축소 조건",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "보류·축소 조건",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            299,
+            228,
+            76
+          ],
+          "text": "GT1",
+          "textPreview": "GT1",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT1",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT1",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            294,
+            299,
+            550,
+            76
+          ],
+          "text": "설정·시험 중앙시간 40% 이상 단축\n재방문 증가 없음, 유료 도입 의향",
+          "textPreview": "설정·시험 중앙시간 40% 이상 단축 | 재방문 증가 없음, 유료 도입 의향",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "설정·시험 중앙시간 40% 이상 단축",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "설정·시험 중앙시간 40% 이상 단축",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "재방문 증가 없음, 유료 도입 의향",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "재방문 증가 없음, 유료 도입 의향",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            844,
+            299,
+            370,
+            76
+          ],
+          "text": "지원 범위 확대 비용이 절감액 초과",
+          "textPreview": "지원 범위 확대 비용이 절감액 초과",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "지원 범위 확대 비용이 절감액 초과",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지원 범위 확대 비용이 절감액 초과",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            375,
+            228,
+            76
+          ],
+          "text": "GT3",
+          "textPreview": "GT3",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT3",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT3",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            294,
+            375,
+            550,
+            76
+          ],
+          "text": "단순 타이머 대비 순편익 추정\n하한도 양수, 온도 이탈 악화 없음",
+          "textPreview": "단순 타이머 대비 순편익 추정 | 하한도 양수, 온도 이탈 악화 없음",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "단순 타이머 대비 순편익 추정",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "단순 타이머 대비 순편익 추정",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "하한도 양수, 온도 이탈 악화 없음",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "하한도 양수, 온도 이탈 악화 없음",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            844,
+            375,
+            370,
+            76
+          ],
+          "text": "추가 편익이 운영·지원비보다 작음",
+          "textPreview": "추가 편익이 운영·지원비보다 작음",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "추가 편익이 운영·지원비보다 작음",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "추가 편익이 운영·지원비보다 작음",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            451,
+            228,
+            76
+          ],
+          "text": "GT2",
+          "textPreview": "GT2",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT2",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT2",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            294,
+            451,
+            550,
+            76
+          ],
+          "text": "고장시험 통과, 현지 승인 경로 확보\n설치 총비용이 비교 대안보다 유리",
+          "textPreview": "고장시험 통과, 현지 승인 경로 확보 | 설치 총비용이 비교 대안보다 유리",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "고장시험 통과, 현지 승인 경로 확보",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "고장시험 통과, 현지 승인 경로 확보",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "설치 총비용이 비교 대안보다 유리",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "설치 총비용이 비교 대안보다 유리",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            844,
+            451,
+            370,
+            76
+          ],
+          "text": "인증 일정·원가로 경쟁 불가",
+          "textPreview": "인증 일정·원가로 경쟁 불가",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "인증 일정·원가로 경쟁 불가",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "인증 일정·원가로 경쟁 불가",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            66,
+            527,
+            228,
+            76
+          ],
+          "text": "GT4",
+          "textPreview": "GT4",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT4",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT4",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            294,
+            527,
+            550,
+            76
+          ],
+          "text": "중복 지급·명령 충돌을 검출\n파트너 정산 결과 차이를 설명",
+          "textPreview": "중복 지급·명령 충돌을 검출 | 파트너 정산 결과 차이를 설명",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "중복 지급·명령 충돌을 검출",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "중복 지급·명령 충돌을 검출",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "파트너 정산 결과 차이를 설명",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "파트너 정산 결과 차이를 설명",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            844,
+            527,
+            370,
+            76
+          ],
+          "text": "데이터·계약 접근을 확보하지 못함",
+          "textPreview": "데이터·계약 접근을 확보하지 못함",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "데이터·계약 접근을 확보하지 못함",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "데이터·계약 접근을 확보하지 못함",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

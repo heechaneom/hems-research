@@ -1,0 +1,827 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/b9z164",
+    "id": "b9z164",
+    "slide": 6,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovip0nyt",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "독일: 설치업체의 복잡성을 줄이는 제품",
+      "textPreview": "독일: 설치업체의 복잡성을 줄이는 제품",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "독일: 설치업체의 복잡성을 줄이는 제품"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "독일: 설치업체의 복잡성을 줄이는 제품",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "독일: 설치업체의 복잡성을 줄이는 제품",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3u98r2h8",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "동적요금·히트펌프·EV·계통제어를 한 현장에서 다뤄야 하는 고객",
+      "textPreview": "동적요금·히트펌프·EV·계통제어를 한 현장에서 다뤄야 하는 고객",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "동적요금·히트펌프·EV·계통제어를 한 현장에서 다뤄야 하는 고객"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "동적요금·히트펌프·EV·계통제어를 한 현장에서 다뤄야 하는 고객",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "동적요금·히트펌프·EV·계통제어를 한 현장에서 다뤄야 하는 고객",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2t07yxgn",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dkbqxcza",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cjip47y5",
+      "id": "5",
+      "bbox": [
+        64,
+        219,
+        548,
+        58
+      ],
+      "geometry": "rect",
+      "text": "고객과 기존 대안",
+      "textPreview": "고객과 기존 대안",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "고객과 기존 대안"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "고객과 기존 대안",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "고객과 기존 대안",
+              "fontSize": 31,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bi98v2hk",
+      "id": "6",
+      "bbox": [
+        64,
+        291,
+        545,
+        315
+      ],
+      "geometry": "rect",
+      "text": "지불자 후보: Energy Pack 설치업체·OEM\n\n기존 대안: 기기별 앱과 매뉴얼,\n이미 판매 중인 HEMS\n\n문제 가설: 연결은 가능해도\n배선·제어 권한·설정 검증이 번거롭다.",
+      "textPreview": "지불자 후보: Energy Pack 설치업체·OEM |  | 기존 대안: 기기별 앱과 매뉴얼, | 이미 판매 중인 HEMS |  | 문제 가설: 연결은 가능해도 | 배선·제어 권한·설정 검증이 번거롭다.",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 7,
+        "lines": [
+          {
+            "index": 1,
+            "text": "지불자 후보: Energy Pack 설치업체·OEM"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "기존 대안: 기기별 앱과 매뉴얼,"
+          },
+          {
+            "index": 4,
+            "text": "이미 판매 중인 HEMS"
+          },
+          {
+            "index": 5,
+            "text": ""
+          },
+          {
+            "index": 6,
+            "text": "문제 가설: 연결은 가능해도"
+          },
+          {
+            "index": 7,
+            "text": "배선·제어 권한·설정 검증이 번거롭다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "지불자 후보: Energy Pack 설치업체·OEM",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지불자 후보: Energy Pack 설치업체·OEM",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "기존 대안: 기기별 앱과 매뉴얼,",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기존 대안: 기기별 앱과 매뉴얼,",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "이미 판매 중인 HEMS",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "이미 판매 중인 HEMS",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "문제 가설: 연결은 가능해도",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "문제 가설: 연결은 가능해도",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "배선·제어 권한·설정 검증이 번거롭다.",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "배선·제어 권한·설정 검증이 번거롭다.",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh072xgz",
+      "id": "7",
+      "bbox": [
+        656,
+        219,
+        548,
+        58
+      ],
+      "geometry": "rect",
+      "text": "제안: 설치 자동화 모듈",
+      "textPreview": "제안: 설치 자동화 모듈",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "fontSize": 31,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "제안: 설치 자동화 모듈"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "제안: 설치 자동화 모듈",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "제안: 설치 자동화 모듈",
+              "fontSize": 31,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lobq1czm",
+      "id": "8",
+      "bbox": [
+        656,
+        291,
+        545,
+        315
+      ],
+      "geometry": "rect",
+      "text": "지원 기기를 발견하고 제어 능력을 확인\n\n승인된 지역 규칙으로 설정을 생성\n\n통신·계측·계통 명령 시험 후\n설치 완료 보고서를 자동 발급\n\n1차 목표: 설정·검증 시간 50% 단축",
+      "textPreview": "지원 기기를 발견하고 제어 능력을 확인 |  | 승인된 지역 규칙으로 설정을 생성 |  | 통신·계측·계통 명령 시험 후 | 설치 완료 보고서를 자동 발급 |  | 1차 목표: 설정·검증 시간 50% 단축",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "fontSize": 27,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "지원 기기를 발견하고 제어 능력을 확인"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "승인된 지역 규칙으로 설정을 생성"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "통신·계측·계통 명령 시험 후"
+          },
+          {
+            "index": 6,
+            "text": "설치 완료 보고서를 자동 발급"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "1차 목표: 설정·검증 시간 50% 단축"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "지원 기기를 발견하고 제어 능력을 확인",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지원 기기를 발견하고 제어 능력을 확인",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "승인된 지역 규칙으로 설정을 생성",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "승인된 지역 규칙으로 설정을 생성",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "통신·계측·계통 명령 시험 후",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "통신·계측·계통 명령 시험 후",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "설치 완료 보고서를 자동 발급",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "설치 완료 보고서를 자동 발급",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "1차 목표: 설정·검증 시간 50% 단축",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1차 목표: 설정·검증 시간 50% 단축",
+              "fontSize": 27,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0n2987y1",
+      "id": "9",
+      "bbox": [
+        66,
+        622,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "§14a는 모든 가전 대상이 아님. 2024년 이후 신규 설치 등 적용 조건을 확인하며, 목표치는 제안값.",
+      "textPreview": "§14a는 모든 가전 대상이 아님. 2024년 이후 신규 설치 등 적용 조건을 확인하며, 목표치는 제안값.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "§14a는 모든 가전 대상이 아님. 2024년 이후 신규 설치 등 적용 조건을 확인하며, 목표치는 제안값."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "§14a는 모든 가전 대상이 아님. 2024년 이후 신규 설치 등 적용 조건을 확인하며, 목표치는 제안값.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "§14a는 모든 가전 대상이 아님. 2024년 이후 신규 설치 등 적용 조건을 확인하며, 목표치는 제안값.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

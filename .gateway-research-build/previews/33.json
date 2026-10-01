@@ -1,0 +1,873 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4xw6ol",
+    "id": "4xw6ol",
+    "slide": 33,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/szix03md",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "부록  편익 검증과 시장 정산을 구분한다",
+      "textPreview": "부록  편익 검증과 시장 정산을 구분한다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "부록  편익 검증과 시장 정산을 구분한다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "부록  편익 검증과 시장 정산을 구분한다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "부록  편익 검증과 시장 정산을 구분한다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ry9g7y5s",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "같은 집에서 제어하지 않았을 때의 전기요금은 직접 관측할 수 없다",
+      "textPreview": "같은 집에서 제어하지 않았을 때의 전기요금은 직접 관측할 수 없다",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "같은 집에서 제어하지 않았을 때의 전기요금은 직접 관측할 수 없다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "같은 집에서 제어하지 않았을 때의 전기요금은 직접 관측할 수 없다",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "같은 집에서 제어하지 않았을 때의 전기요금은 직접 관측할 수 없다",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6x0fyt47",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "33",
+      "textPreview": "33",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "33"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "33",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "33",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14byd8nu",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g32h43m9",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R24 Nesta·CNZ · R25 Nesta · R03 NESO",
+      "textPreview": "근거  R24 Nesta·CNZ · R25 Nesta · R03 NESO",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R24 Nesta·CNZ · R25 Nesta · R03 NESO"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R24 Nesta·CNZ · R25 Nesta · R03 NESO",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R24 Nesta·CNZ · R25 Nesta · R03 NESO",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f29gby54",
+      "id": "6",
+      "bbox": [
+        66,
+        230,
+        544,
+        51
+      ],
+      "geometry": "rect",
+      "text": "고객 순편익 검증",
+      "textPreview": "고객 순편익 검증",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "고객 순편익 검증"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "고객 순편익 검증",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "고객 순편익 검증",
+              "fontSize": 30,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e10z2t4j",
+      "id": "7",
+      "bbox": [
+        66,
+        295,
+        544,
+        330
+      ],
+      "geometry": "rect",
+      "text": "날씨·재실·요금이 비슷한 대조 운전\n또는 무작위 배정·교차 설계 사용\n\n예열과 회복 기간까지 전체 비용 포함\n열관성의 잔류 효과를 분리\n\n평균뿐 아니라 분산·불확실성 제시\n온도 이탈·거부·결측을 함께 보고",
+      "textPreview": "날씨·재실·요금이 비슷한 대조 운전 | 또는 무작위 배정·교차 설계 사용 |  | 예열과 회복 기간까지 전체 비용 포함 | 열관성의 잔류 효과를 분리 |  | 평균뿐 아니라 분산·불확실성 제시 | 온도 이탈·거부·결측을 함께 보고",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 8,
+        "lines": [
+          {
+            "index": 1,
+            "text": "날씨·재실·요금이 비슷한 대조 운전"
+          },
+          {
+            "index": 2,
+            "text": "또는 무작위 배정·교차 설계 사용"
+          },
+          {
+            "index": 3,
+            "text": ""
+          },
+          {
+            "index": 4,
+            "text": "예열과 회복 기간까지 전체 비용 포함"
+          },
+          {
+            "index": 5,
+            "text": "열관성의 잔류 효과를 분리"
+          },
+          {
+            "index": 6,
+            "text": ""
+          },
+          {
+            "index": 7,
+            "text": "평균뿐 아니라 분산·불확실성 제시"
+          },
+          {
+            "index": 8,
+            "text": "온도 이탈·거부·결측을 함께 보고"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "날씨·재실·요금이 비슷한 대조 운전",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "날씨·재실·요금이 비슷한 대조 운전",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "또는 무작위 배정·교차 설계 사용",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "또는 무작위 배정·교차 설계 사용",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "예열과 회복 기간까지 전체 비용 포함",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "예열과 회복 기간까지 전체 비용 포함",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "열관성의 잔류 효과를 분리",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "열관성의 잔류 효과를 분리",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 7,
+          "text": "평균뿐 아니라 분산·불확실성 제시",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "평균뿐 아니라 분산·불확실성 제시",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "온도 이탈·거부·결측을 함께 보고",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "온도 이탈·거부·결측을 함께 보고",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psbyh8n6",
+      "id": "8",
+      "bbox": [
+        657,
+        230,
+        544,
+        51
+      ],
+      "geometry": "rect",
+      "text": "프로그램 정산",
+      "textPreview": "프로그램 정산",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "프로그램 정산"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "프로그램 정산",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "프로그램 정산",
+              "fontSize": 30,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o72h8nml",
+      "id": "9",
+      "bbox": [
+        657,
+        295,
+        544,
+        330
+      ],
+      "geometry": "rect",
+      "text": "사업자가 정한 공식 기준선 적용\n\n인정 계량기·구간·이벤트 조건 확인\n\n고객 요금 절감과 시장 보상 별도 표시\n동일 자원·시간의 이중 집계 차단\n\n추정 절감액을 확정 정산액처럼\n표시하지 않음",
+      "textPreview": "사업자가 정한 공식 기준선 적용 |  | 인정 계량기·구간·이벤트 조건 확인 |  | 고객 요금 절감과 시장 보상 별도 표시 | 동일 자원·시간의 이중 집계 차단 |  | 추정 절감액을 확정 정산액처럼 | 표시하지 않음",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 9,
+        "lines": [
+          {
+            "index": 1,
+            "text": "사업자가 정한 공식 기준선 적용"
+          },
+          {
+            "index": 2,
+            "text": ""
+          },
+          {
+            "index": 3,
+            "text": "인정 계량기·구간·이벤트 조건 확인"
+          },
+          {
+            "index": 4,
+            "text": ""
+          },
+          {
+            "index": 5,
+            "text": "고객 요금 절감과 시장 보상 별도 표시"
+          },
+          {
+            "index": 6,
+            "text": "동일 자원·시간의 이중 집계 차단"
+          },
+          {
+            "index": 7,
+            "text": ""
+          },
+          {
+            "index": 8,
+            "text": "추정 절감액을 확정 정산액처럼"
+          },
+          {
+            "index": 9,
+            "text": "표시하지 않음"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "사업자가 정한 공식 기준선 적용",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "사업자가 정한 공식 기준선 적용",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "인정 계량기·구간·이벤트 조건 확인",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "인정 계량기·구간·이벤트 조건 확인",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 5,
+          "text": "고객 요금 절감과 시장 보상 별도 표시",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "고객 요금 절감과 시장 보상 별도 표시",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 6,
+          "text": "동일 자원·시간의 이중 집계 차단",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "동일 자원·시간의 이중 집계 차단",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 8,
+          "text": "추정 절감액을 확정 정산액처럼",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "추정 절감액을 확정 정산액처럼",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 9,
+          "text": "표시하지 않음",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "표시하지 않음",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

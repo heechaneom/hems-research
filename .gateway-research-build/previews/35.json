@@ -1,0 +1,1046 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/onrme7",
+    "id": "onrme7",
+    "slide": 35,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdwf2hsn",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "부록  기존 12개 아이디어의 처리 방향",
+      "textPreview": "부록  기존 12개 아이디어의 처리 방향",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "부록  기존 12개 아이디어의 처리 방향"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "부록  기존 12개 아이디어의 처리 방향",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "부록  기존 12개 아이디어의 처리 방향",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9g7yxwre",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "제공 HTML의 후보를 공통 과제·지역 확장·보류 대상으로 재배치",
+      "textPreview": "제공 HTML의 후보를 공통 과제·지역 확장·보류 대상으로 재배치",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "제공 HTML의 후보를 공통 과제·지역 확장·보류 대상으로 재배치"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "제공 HTML의 후보를 공통 과제·지역 확장·보류 대상으로 재배치",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "제공 HTML의 후보를 공통 과제·지역 확장·보류 대상으로 재배치",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8fyx4rat",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "35",
+      "textPreview": "35",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "35"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "35",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "35",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za5gr29w",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ypwfyxsr",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R00 제공 HTML",
+      "textPreview": "근거  R00 제공 HTML",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R00 제공 HTML"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R00 제공 HTML",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R00 제공 HTML",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/4vu1w7id",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        385
+      ],
+      "text": "기존 후보 | 이번 반영 | 재검토 조건\nT1 자동 시운전 · T2 규칙 코드화 | GT1 핵심 + 국가별 설정 모듈 | 지원 조합의 현장 시간 절감\nT3 열 유연성 · T11 성능 관리 | GT3 핵심 + 응답·원격 진단 | 타이머 대비 순편익·지원비\nT4 전력 제한 · T5 증설 회피 | GT2 인증 HW 제휴 | 실제 공사 견적·승인 경로\nT7 제어권 · T8 편익 검증 | GT4 공통 운영 기능 | 파트너 계약·데이터 접근\nT6 백업 · T9 레거시\nT10 V2H · T12 임대형 소형팩 | 지역 옵션 또는 초기 보류 | 설치권·보증·인증·추가 HW\n구매자와 원가 확인",
+      "textPreview": "기존 후보 | 이번 반영 | 재검토 조건 | T1 자동 시운전 · T2 규칙 코드화 | GT1 핵심 + 국가별 설정 모듈 | 지원 조합의 현장 시간 절감 | T3 열 유연성 · T11 성능 관리 | GT3 핵심 + 응답·원격 진단 | 타이머 대비...",
+      "rows": 6,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            455,
+            64.17
+          ],
+          "text": "기존 후보",
+          "textPreview": "기존 후보",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기존 후보",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기존 후보",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            521,
+            223,
+            319,
+            64.17
+          ],
+          "text": "이번 반영",
+          "textPreview": "이번 반영",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "이번 반영",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "이번 반영",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            840,
+            223,
+            374,
+            64.17
+          ],
+          "text": "재검토 조건",
+          "textPreview": "재검토 조건",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "재검토 조건",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "재검토 조건",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            287.17,
+            455,
+            64.17
+          ],
+          "text": "T1 자동 시운전 · T2 규칙 코드화",
+          "textPreview": "T1 자동 시운전 · T2 규칙 코드화",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "T1 자동 시운전 · T2 규칙 코드화",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "T1 자동 시운전 · T2 규칙 코드화",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            521,
+            287.17,
+            319,
+            64.17
+          ],
+          "text": "GT1 핵심 + 국가별 설정 모듈",
+          "textPreview": "GT1 핵심 + 국가별 설정 모듈",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT1 핵심 + 국가별 설정 모듈",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT1 핵심 + 국가별 설정 모듈",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            840,
+            287.17,
+            374,
+            64.17
+          ],
+          "text": "지원 조합의 현장 시간 절감",
+          "textPreview": "지원 조합의 현장 시간 절감",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "지원 조합의 현장 시간 절감",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지원 조합의 현장 시간 절감",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            351.33,
+            455,
+            64.17
+          ],
+          "text": "T3 열 유연성 · T11 성능 관리",
+          "textPreview": "T3 열 유연성 · T11 성능 관리",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "T3 열 유연성 · T11 성능 관리",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "T3 열 유연성 · T11 성능 관리",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            521,
+            351.33,
+            319,
+            64.17
+          ],
+          "text": "GT3 핵심 + 응답·원격 진단",
+          "textPreview": "GT3 핵심 + 응답·원격 진단",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT3 핵심 + 응답·원격 진단",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT3 핵심 + 응답·원격 진단",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            840,
+            351.33,
+            374,
+            64.17
+          ],
+          "text": "타이머 대비 순편익·지원비",
+          "textPreview": "타이머 대비 순편익·지원비",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "타이머 대비 순편익·지원비",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "타이머 대비 순편익·지원비",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            415.5,
+            455,
+            64.17
+          ],
+          "text": "T4 전력 제한 · T5 증설 회피",
+          "textPreview": "T4 전력 제한 · T5 증설 회피",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "T4 전력 제한 · T5 증설 회피",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "T4 전력 제한 · T5 증설 회피",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            521,
+            415.5,
+            319,
+            64.17
+          ],
+          "text": "GT2 인증 HW 제휴",
+          "textPreview": "GT2 인증 HW 제휴",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT2 인증 HW 제휴",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT2 인증 HW 제휴",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            840,
+            415.5,
+            374,
+            64.17
+          ],
+          "text": "실제 공사 견적·승인 경로",
+          "textPreview": "실제 공사 견적·승인 경로",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "실제 공사 견적·승인 경로",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "실제 공사 견적·승인 경로",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            66,
+            479.67,
+            455,
+            64.17
+          ],
+          "text": "T7 제어권 · T8 편익 검증",
+          "textPreview": "T7 제어권 · T8 편익 검증",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "T7 제어권 · T8 편익 검증",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "T7 제어권 · T8 편익 검증",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            521,
+            479.67,
+            319,
+            64.17
+          ],
+          "text": "GT4 공통 운영 기능",
+          "textPreview": "GT4 공통 운영 기능",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "GT4 공통 운영 기능",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "GT4 공통 운영 기능",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            840,
+            479.67,
+            374,
+            64.17
+          ],
+          "text": "파트너 계약·데이터 접근",
+          "textPreview": "파트너 계약·데이터 접근",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "파트너 계약·데이터 접근",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "파트너 계약·데이터 접근",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 6,
+          "column": 1,
+          "bbox": [
+            66,
+            543.83,
+            455,
+            64.17
+          ],
+          "text": "T6 백업 · T9 레거시\nT10 V2H · T12 임대형 소형팩",
+          "textPreview": "T6 백업 · T9 레거시 | T10 V2H · T12 임대형 소형팩",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "T6 백업 · T9 레거시",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "T6 백업 · T9 레거시",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "T10 V2H · T12 임대형 소형팩",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "T10 V2H · T12 임대형 소형팩",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 6,
+          "column": 2,
+          "bbox": [
+            521,
+            543.83,
+            319,
+            64.17
+          ],
+          "text": "지역 옵션 또는 초기 보류",
+          "textPreview": "지역 옵션 또는 초기 보류",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "지역 옵션 또는 초기 보류",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지역 옵션 또는 초기 보류",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 6,
+          "column": 3,
+          "bbox": [
+            840,
+            543.83,
+            374,
+            64.17
+          ],
+          "text": "설치권·보증·인증·추가 HW\n구매자와 원가 확인",
+          "textPreview": "설치권·보증·인증·추가 HW | 구매자와 원가 확인",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "설치권·보증·인증·추가 HW",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "설치권·보증·인증·추가 HW",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "구매자와 원가 확인",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "구매자와 원가 확인",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

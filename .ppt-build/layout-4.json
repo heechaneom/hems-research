@@ -1,0 +1,908 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/bu9c3l",
+    "id": "bu9c3l",
+    "slide": 4,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvu9gnih",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "국가별 기회: 유럽 4개국",
+      "textPreview": "국가별 기회: 유럽 4개국",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "국가별 기회: 유럽 4개국"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "국가별 기회: 유럽 4개국",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "국가별 기회: 유럽 4개국",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ful8nihc",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "공식 제도·소비자 조사에 근거한 문제와 사업 가설을 구분",
+      "textPreview": "공식 제도·소비자 조사에 근거한 문제와 사업 가설을 구분",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "공식 제도·소비자 조사에 근거한 문제와 사업 가설을 구분"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "공식 제도·소비자 조사에 근거한 문제와 사업 가설을 구분",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "공식 제도·소비자 조사에 근거한 문제와 사업 가설을 구분",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/etsred0r",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "04",
+      "textPreview": "04",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "04",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "04",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p03qtsze",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/5g7yds7e",
+      "id": "5",
+      "bbox": [
+        64,
+        216,
+        1152,
+        390
+      ],
+      "text": "국가·대상 | 확인한 변화 | 지불 이유에 대한 가설\n독일 / HP·EV 보유 주택 | 동적요금 제공 의무, §14a 제어 | 설치업체가 연동·검증 비용 지불\n영국 / 전기난방·EV 가구 | TOU 미가입자 중 전환 의향 17% | 요금사업자가 절감 신뢰·운영을 구매\n프랑스 / 급탕·전기난방 가구 | 2025–2027 비첨두 시간대 변경 | 기존 기기 설정 변경을 원격으로 처리\n네덜란드 / PV 보유 가구 | 2027.1.1 상계제도 종료 | 자가소비 확대를 위한 열부하 제어",
+      "textPreview": "국가·대상 | 확인한 변화 | 지불 이유에 대한 가설 | 독일 / HP·EV 보유 주택 | 동적요금 제공 의무, §14a 제어 | 설치업체가 연동·검증 비용 지불 | 영국 / 전기난방·EV 가구 | TOU 미가입자 중 전환 의향 17% | 요금사...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            216,
+            300,
+            78
+          ],
+          "text": "국가·대상",
+          "textPreview": "국가·대상",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "국가·대상",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "국가·대상",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            364,
+            216,
+            430,
+            78
+          ],
+          "text": "확인한 변화",
+          "textPreview": "확인한 변화",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "확인한 변화",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "확인한 변화",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            794,
+            216,
+            422,
+            78
+          ],
+          "text": "지불 이유에 대한 가설",
+          "textPreview": "지불 이유에 대한 가설",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "지불 이유에 대한 가설",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지불 이유에 대한 가설",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            294,
+            300,
+            78
+          ],
+          "text": "독일 / HP·EV 보유 주택",
+          "textPreview": "독일 / HP·EV 보유 주택",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "독일 / HP·EV 보유 주택",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "독일 / HP·EV 보유 주택",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            364,
+            294,
+            430,
+            78
+          ],
+          "text": "동적요금 제공 의무, §14a 제어",
+          "textPreview": "동적요금 제공 의무, §14a 제어",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "동적요금 제공 의무, §14a 제어",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "동적요금 제공 의무, §14a 제어",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            794,
+            294,
+            422,
+            78
+          ],
+          "text": "설치업체가 연동·검증 비용 지불",
+          "textPreview": "설치업체가 연동·검증 비용 지불",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "설치업체가 연동·검증 비용 지불",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "설치업체가 연동·검증 비용 지불",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            372,
+            300,
+            78
+          ],
+          "text": "영국 / 전기난방·EV 가구",
+          "textPreview": "영국 / 전기난방·EV 가구",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "영국 / 전기난방·EV 가구",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "영국 / 전기난방·EV 가구",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            364,
+            372,
+            430,
+            78
+          ],
+          "text": "TOU 미가입자 중 전환 의향 17%",
+          "textPreview": "TOU 미가입자 중 전환 의향 17%",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "TOU 미가입자 중 전환 의향 17%",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "TOU 미가입자 중 전환 의향 17%",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            794,
+            372,
+            422,
+            78
+          ],
+          "text": "요금사업자가 절감 신뢰·운영을 구매",
+          "textPreview": "요금사업자가 절감 신뢰·운영을 구매",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "요금사업자가 절감 신뢰·운영을 구매",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "요금사업자가 절감 신뢰·운영을 구매",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            450,
+            300,
+            78
+          ],
+          "text": "프랑스 / 급탕·전기난방 가구",
+          "textPreview": "프랑스 / 급탕·전기난방 가구",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "프랑스 / 급탕·전기난방 가구",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "프랑스 / 급탕·전기난방 가구",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            364,
+            450,
+            430,
+            78
+          ],
+          "text": "2025–2027 비첨두 시간대 변경",
+          "textPreview": "2025–2027 비첨두 시간대 변경",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2025–2027 비첨두 시간대 변경",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2025–2027 비첨두 시간대 변경",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            794,
+            450,
+            422,
+            78
+          ],
+          "text": "기존 기기 설정 변경을 원격으로 처리",
+          "textPreview": "기존 기기 설정 변경을 원격으로 처리",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기존 기기 설정 변경을 원격으로 처리",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기존 기기 설정 변경을 원격으로 처리",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            528,
+            300,
+            78
+          ],
+          "text": "네덜란드 / PV 보유 가구",
+          "textPreview": "네덜란드 / PV 보유 가구",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "네덜란드 / PV 보유 가구",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "네덜란드 / PV 보유 가구",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            364,
+            528,
+            430,
+            78
+          ],
+          "text": "2027.1.1 상계제도 종료",
+          "textPreview": "2027.1.1 상계제도 종료",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2027.1.1 상계제도 종료",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2027.1.1 상계제도 종료",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            794,
+            528,
+            422,
+            78
+          ],
+          "text": "자가소비 확대를 위한 열부하 제어",
+          "textPreview": "자가소비 확대를 위한 열부하 제어",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "자가소비 확대를 위한 열부하 제어",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "자가소비 확대를 위한 열부하 제어",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3yl8rih8",
+      "id": "6",
+      "bbox": [
+        66,
+        622,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "TOU: 시간대별 요금. 제도 변화가 곧 구매수요를 의미하지는 않으며, 지불 의향은 현지 검증 대상.",
+      "textPreview": "TOU: 시간대별 요금. 제도 변화가 곧 구매수요를 의미하지는 않으며, 지불 의향은 현지 검증 대상.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "TOU: 시간대별 요금. 제도 변화가 곧 구매수요를 의미하지는 않으며, 지불 의향은 현지 검증 대상."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "TOU: 시간대별 요금. 제도 변화가 곧 구매수요를 의미하지는 않으며, 지불 의향은 현지 검증 대상.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "TOU: 시간대별 요금. 제도 변화가 곧 구매수요를 의미하지는 않으며, 지불 의향은 현지 검증 대상.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

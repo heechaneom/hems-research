@@ -1,0 +1,748 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/4q67mp",
+    "id": "4q67mp",
+    "slide": 13,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkri1s76",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "A. 설치 자동화: 연결 후 검증까지 제품화",
+      "textPreview": "A. 설치 자동화: 연결 후 검증까지 제품화",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A. 설치 자동화: 연결 후 검증까지 제품화"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A. 설치 자동화: 연결 후 검증까지 제품화",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A. 설치 자동화: 연결 후 검증까지 제품화",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6h0zqxof",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "판매 단위: 게이트웨이·계측 인터페이스·설치 SW 라이선스",
+      "textPreview": "판매 단위: 게이트웨이·계측 인터페이스·설치 SW 라이선스",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "판매 단위: 게이트웨이·계측 인터페이스·설치 SW 라이선스"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "판매 단위: 게이트웨이·계측 인터페이스·설치 SW 라이선스",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "판매 단위: 게이트웨이·계측 인터페이스·설치 SW 라이선스",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7i90z2p0",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "13",
+      "textPreview": "13",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "13",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfihon69",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5grixs7u",
+      "id": "5",
+      "bbox": [
+        66,
+        224,
+        1135,
+        42
+      ],
+      "geometry": "rect",
+      "text": "새로 연구할 것",
+      "textPreview": "새로 연구할 것",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "fontSize": 29,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "새로 연구할 것"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "새로 연구할 것",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "새로 연구할 것",
+              "fontSize": 29,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idgzmdoj",
+      "id": "6",
+      "bbox": [
+        66,
+        272,
+        1135,
+        80
+      ],
+      "geometry": "rect",
+      "text": "기기 설명 정보를 공통 형식으로 변환하고, 작은 시험 신호로 제어 방향·응답·계측 관계를 확인",
+      "textPreview": "기기 설명 정보를 공통 형식으로 변환하고, 작은 시험 신호로 제어 방향·응답·계측 관계를 확인",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "기기 설명 정보를 공통 형식으로 변환하고, 작은 시험 신호로 제어 방향·응답·계측 관계를 확인"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "기기 설명 정보를 공통 형식으로 변환하고, 작은 시험 신호로 제어 방향·응답·계측 관계를 확인",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기기 설명 정보를 공통 형식으로 변환하고, 작은 시험 신호로 제어 방향·응답·계측 관계를 확인",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jep0vip4",
+      "id": "7",
+      "bbox": [
+        66,
+        354,
+        1135,
+        42
+      ],
+      "geometry": "rect",
+      "text": "HW와 SW의 결합",
+      "textPreview": "HW와 SW의 결합",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "fontSize": 29,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HW와 SW의 결합"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HW와 SW의 결합",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HW와 SW의 결합",
+              "fontSize": 29,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbyhk36d",
+      "id": "8",
+      "bbox": [
+        66,
+        402,
+        1135,
+        80
+      ],
+      "geometry": "rect",
+      "text": "통신 어댑터·계측 입력을 가진 모듈에 기기 발견, 설정 생성, 오류 진단, 시험 이력을 탑재",
+      "textPreview": "통신 어댑터·계측 입력을 가진 모듈에 기기 발견, 설정 생성, 오류 진단, 시험 이력을 탑재",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "통신 어댑터·계측 입력을 가진 모듈에 기기 발견, 설정 생성, 오류 진단, 시험 이력을 탑재"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "통신 어댑터·계측 입력을 가진 모듈에 기기 발견, 설정 생성, 오류 진단, 시험 이력을 탑재",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "통신 어댑터·계측 입력을 가진 모듈에 기기 발견, 설정 생성, 오류 진단, 시험 이력을 탑재",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc7it87y",
+      "id": "9",
+      "bbox": [
+        66,
+        484,
+        1135,
+        42
+      ],
+      "geometry": "rect",
+      "text": "검증 목표와 범위",
+      "textPreview": "검증 목표와 범위",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "fontSize": 29,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "검증 목표와 범위"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "검증 목표와 범위",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "검증 목표와 범위",
+              "fontSize": 29,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5cr61cf6",
+      "id": "10",
+      "bbox": [
+        66,
+        532,
+        1135,
+        80
+      ],
+      "geometry": "rect",
+      "text": "지원 기기 10종의 설정·검증 시간 50% 단축, 지원 조합 자동 설정 성공률 95% 이상",
+      "textPreview": "지원 기기 10종의 설정·검증 시간 50% 단축, 지원 조합 자동 설정 성공률 95% 이상",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "지원 기기 10종의 설정·검증 시간 50% 단축, 지원 조합 자동 설정 성공률 95% 이상"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "지원 기기 10종의 설정·검증 시간 50% 단축, 지원 조합 자동 설정 성공률 95% 이상",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지원 기기 10종의 설정·검증 시간 50% 단축, 지원 조합 자동 설정 성공률 95% 이상",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4bi5s7y1",
+      "id": "11",
+      "bbox": [
+        66,
+        622,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "목표치 제안. 전기 배선·안전검사는 전문가가 수행하며, “10분 설치”는 전체 전기공사 시간으로 주장하지 않음.",
+      "textPreview": "목표치 제안. 전기 배선·안전검사는 전문가가 수행하며, “10분 설치”는 전체 전기공사 시간으로 주장하지 않음.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "목표치 제안. 전기 배선·안전검사는 전문가가 수행하며, “10분 설치”는 전체 전기공사 시간으로 주장하지 않음."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "목표치 제안. 전기 배선·안전검사는 전문가가 수행하며, “10분 설치”는 전체 전기공사 시간으로 주장하지 않음.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "목표치 제안. 전기 배선·안전검사는 전문가가 수행하며, “10분 설치”는 전체 전기공사 시간으로 주장하지 않음.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

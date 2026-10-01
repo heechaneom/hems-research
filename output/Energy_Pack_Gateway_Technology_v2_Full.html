@@ -1,0 +1,648 @@
+<title>Energy Pack Gateway Technology v2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: 단일 읽기 컬럼(본문 ~68ch) + 넓은 표는 자체 가로 스크롤. 계통 도면 느낌의 청회색 잉크 + 구리색 강조 */
+:root{
+  --paper:#f5f6f4; --panel:#ffffff; --ink:#18212b; --muted:#56616d; --line:#d6dbe0;
+  --accent:#1d4f91; --accent-soft:#e3ebf6; --copper:#a35a1f; --copper-soft:#f6eadf;
+  --ok:#2d6a4f; --ok-soft:#e1efe7; --warn:#8a5a00; --warn-soft:#f7ecd2; --bad:#9b2c2c; --bad-soft:#f5e1e1;
+  --f-display:"IBM Plex Sans KR","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --f-body:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#12171d; --panel:#19212a; --ink:#e3e8ee; --muted:#9aa6b2; --line:#2e3945;
+  --accent:#8fb4ea; --accent-soft:#1f2f45; --copper:#e0a06a; --copper-soft:#3a2a1c;
+  --ok:#8fd1ae; --ok-soft:#1d3228; --warn:#e8c26a; --warn-soft:#3a3018; --bad:#f0a0a0; --bad-soft:#3d2222; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#12171d; --panel:#19212a; --ink:#e3e8ee; --muted:#9aa6b2; --line:#2e3945;
+  --accent:#8fb4ea; --accent-soft:#1f2f45; --copper:#e0a06a; --copper-soft:#3a2a1c;
+  --ok:#8fd1ae; --ok-soft:#1d3228; --warn:#e8c26a; --warn-soft:#3a3018; --bad:#f0a0a0; --bad-soft:#3d2222; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15.5px;line-height:1.72;padding-inline:20px;padding-block:0 64px}
+.wrap{max-width:1180px;margin:0 auto}
+.prose{max-width:74ch}
+header.top{padding-block:48px 28px;border-bottom:2px solid var(--ink);display:grid;gap:10px}
+.eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--f-display);font-weight:700;font-size:clamp(28px,4.4vw,44px);line-height:1.2;margin:0;text-wrap:balance}
+h1 small{display:block;font-size:.5em;font-weight:500;color:var(--muted);margin-top:8px}
+h2{font-family:var(--f-display);font-size:25px;line-height:1.3;margin:0 0 6px;text-wrap:balance}
+h3{font-family:var(--f-display);font-size:18.5px;margin:0;text-wrap:balance}
+h4{font-family:var(--f-display);font-size:15px;margin:0}
+section{padding-block:44px 8px;display:grid;gap:18px}
+.sec-no{font-family:var(--f-mono);color:var(--copper);font-size:13px;letter-spacing:.06em}
+p{margin:0}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--copper);outline-offset:2px}
+.r{font-family:var(--f-mono);font-size:10.5px;vertical-align:super;text-decoration:none;color:var(--accent);padding-inline:1px}
+.lead{font-size:17px}
+.muted{color:var(--muted)}
+.meta{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:13px;color:var(--muted)}
+nav.toc{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px;padding-block:14px;border-bottom:1px solid var(--line)}
+nav.toc a{text-decoration:none;color:var(--ink)}
+nav.toc a span{font-family:var(--f-mono);color:var(--copper);margin-right:4px}
+
+.answer{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--copper);padding:22px 24px;display:grid;gap:12px}
+.answer .q{font-family:var(--f-mono);font-size:12px;color:var(--copper);letter-spacing:.05em;text-transform:uppercase}
+.answer .a{font-family:var(--f-display);font-size:20px;font-weight:600;line-height:1.5}
+
+.grid{display:grid;gap:14px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.g3{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.card{background:var(--panel);border:1px solid var(--line);padding:18px 20px;display:grid;gap:8px;align-content:start;min-width:0}
+.card .tag{font-family:var(--f-mono);font-size:11.5px;color:var(--muted);letter-spacing:.05em}
+.gw{border-top:3px solid var(--accent)}
+.gw .code{font-family:var(--f-mono);font-size:13px;color:var(--accent);font-weight:500}
+ul.tight{margin:0;padding-left:1.15em;display:grid;gap:3px}
+ul.tight li::marker{color:var(--muted)}
+
+.tbl{overflow-x:auto;border:1px solid var(--line);background:var(--panel)}
+table{border-collapse:collapse;width:100%;font-size:13.5px;line-height:1.55}
+th,td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}
+th{font-family:var(--f-display);font-weight:600;background:var(--accent-soft);position:sticky;top:0;font-size:13px;white-space:nowrap}
+td:first-child{font-weight:600;font-family:var(--f-display)}
+tr:last-child td{border-bottom:0}
+.w-country{min-width:1500px}
+.w-tech{min-width:1700px}
+.w-comp{min-width:1180px}
+.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+td .k{display:block;font-family:var(--f-mono);font-size:11.5px;color:var(--muted);font-weight:400}
+
+.pill{display:inline-block;font-size:11.5px;font-family:var(--f-mono);padding:1px 8px;border-radius:10px;white-space:nowrap}
+.p-hi{background:var(--ok-soft);color:var(--ok)}
+.p-mid{background:var(--warn-soft);color:var(--warn)}
+.p-lo{background:var(--bad-soft);color:var(--bad)}
+.dot{font-family:var(--f-mono);text-align:center}
+.dot.f{color:var(--accent)} .dot.h{color:var(--copper)} .dot.n{color:var(--line)}
+
+.chain{display:grid;grid-template-columns:repeat(7,minmax(150px,1fr));gap:0;min-width:1100px}
+.chain>div{padding:12px 14px;border:1px solid var(--line);border-right:0;background:var(--panel);font-size:13px;display:grid;gap:6px;align-content:start}
+.chain>div:last-child{border-right:1px solid var(--line)}
+.chain .h{font-family:var(--f-mono);font-size:11px;color:var(--copper);letter-spacing:.04em;text-transform:uppercase}
+.chain.head>div{background:var(--accent-soft);font-family:var(--f-display);font-weight:600}
+.chainrow{display:grid;gap:0}
+
+details.tech{background:var(--panel);border:1px solid var(--line)}
+details.tech>summary{cursor:pointer;padding:14px 18px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:baseline;list-style:none}
+details.tech>summary::-webkit-details-marker{display:none}
+details.tech>summary::before{content:"+";font-family:var(--f-mono);color:var(--copper);width:12px}
+details.tech[open]>summary::before{content:"–"}
+details.tech .id{font-family:var(--f-mono);color:var(--accent);font-weight:500}
+details.tech .body{padding:4px 20px 20px;display:grid;gap:0}
+dl.ten{display:grid;grid-template-columns:minmax(150px,210px) 1fr;margin:0;border-top:1px solid var(--line)}
+dl.ten dt,dl.ten dd{padding:9px 0;border-bottom:1px solid var(--line);margin:0;font-size:14px}
+dl.ten dt{font-weight:600;color:var(--muted);padding-right:14px;font-family:var(--f-display)}
+@media (max-width:640px){dl.ten{grid-template-columns:1fr} dl.ten dt{border-bottom:0;padding-bottom:0}}
+
+.note{font-size:13px;color:var(--muted);border-left:2px solid var(--line);padding-left:12px}
+.callout{background:var(--copper-soft);padding:14px 18px;font-size:14.5px}
+ol.src{font-size:12.5px;line-height:1.6;padding-left:2.4em;display:grid;gap:2px;margin:0;word-break:break-all}
+ol.src li::marker{font-family:var(--f-mono);color:var(--muted)}
+.bars{display:grid;gap:8px}
+.bar{display:grid;grid-template-columns:minmax(120px,210px) 1fr 70px;gap:10px;align-items:center;font-size:13px}
+.bar .t{height:12px;background:var(--accent-soft);position:relative}
+.bar .t i{position:absolute;inset:0 auto 0 0;background:var(--accent)}
+.bar .v{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:right}
+@media (max-width:520px){.bar{grid-template-columns:1fr 60px}.bar .t{grid-column:1/-1;order:3}}
+</style>
+
+<style>
+.tl{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:0;border:1px solid var(--line);background:var(--panel)}
+.tl>div{padding:14px 16px;border-right:1px solid var(--line);display:grid;gap:6px;align-content:start;font-size:13.5px}
+.tl>div:last-child{border-right:0}
+.tl .when{font-family:var(--f-mono);font-size:12px;color:var(--copper);font-weight:500}
+.tl .what{font-family:var(--f-display);font-weight:600;font-size:15px}
+.quote{font-family:var(--f-display);font-size:15px;border-left:3px solid var(--line);padding:4px 0 4px 14px;color:var(--ink)}
+.tag-new{font-family:var(--f-mono);font-size:10.5px;background:var(--copper-soft);color:var(--copper);padding:1px 6px;border-radius:8px;vertical-align:middle;white-space:nowrap}
+.fill{background:var(--warn-soft);color:var(--warn);font-family:var(--f-mono);font-size:12px;padding:1px 6px;white-space:nowrap}
+</style>
+
+<div class="wrap">
+<header class="top">
+  <div class="eyebrow">Energy Pack / HEMS 신사업·신기술 발굴 · Full 버전 v2 · 2026.09.30</div>
+  <h1>Energy Pack 2027–2030 Gateway Technology
+    <small>회의 요구사항 + ChatGPT 논의 + 국가별 조사를 하나로 통합한 CTO 보고 원안</small></h1>
+  <div class="meta">
+    <span>보고 순서(회의 합의): 사업·Region·매출 → Pain Point → 기존 기술·Evidence → 신기술 → 로드맵 → 인력</span>
+    <span>근거 자료 76건 · <span class="tag-new">NEW</span> = v1 대비 추가·수정</span>
+  </div>
+</header>
+
+<nav class="toc" aria-label="목차">
+  <a href="#s0"><span>0</span>결론</a>
+  <a href="#s1"><span>1</span>회의 요구사항</a>
+  <a href="#s2"><span>2</span>사업·Region·매출</a>
+  <a href="#s3"><span>3</span>국가별 Pain Point</a>
+  <a href="#s4"><span>4</span>근본 장벽</a>
+  <a href="#s5"><span>5</span>기존 기술·Evidence</a>
+  <a href="#s6"><span>6</span>가설 검증</a>
+  <a href="#s7"><span>7</span>경쟁사</a>
+  <a href="#s8"><span>8</span>신기술 13개</a>
+  <a href="#s9"><span>9</span>기술별 상세</a>
+  <a href="#s10"><span>10</span>Gateway·가치사슬</a>
+  <a href="#s11"><span>11</span>로드맵·인력</a>
+  <a href="#s12"><span>12</span>출처</a>
+</nav>
+
+<!-- 0 -->
+<section id="s0">
+  <div class="sec-no">0 · 결론</div>
+  <div class="answer">
+    <div class="q">"내년에 이 과제로 무엇을 할 것인가"에 대한 답</div>
+    <div class="a">예측 정확도 개선이 아니라, <span style="color:var(--copper)">Energy Pack을 설치하는 순간 스스로 연결·설정되고, 계통 한도 안에서 냉난방까지 불편 없이 운전하며, 그 절감을 증명하는</span> HW+AI 관문기술 4개를 2027–2028년에 확보한다.</div>
+  </div>
+  <div class="prose" style="display:grid;gap:12px">
+    <p><b>시장이 안 크는 이유</b>는 기술 성능이 아니라 <b>Integration Tax(통합 비용)</b>입니다. 보조금과 Net Metering이 사라지면서 Energy Pack의 가치는 여러 기기를 계통 규칙·요금에 맞춰 함께 움직일 때만 생깁니다. 그런데 그 결합(설치·연동·검증·권한·정산) 비용이 결합으로 얻는 가치보다 큽니다.</p>
+    <ul class="tight">
+      <li>미국 주택 PV+ESS 비용의 58%가 soft cost<a class="r" href="#src37">37</a>, 독일 HP+PV HEMS 통합 2–8k€<a class="r" href="#src9">9</a>, 영국 MCS HP 설치자 약 9,000명<a class="r" href="#src15">15</a></li>
+      <li>영국 소비자 49%가 TOU로 절약된다고 보지만 미가입자 전환 의향은 17%. 이유는 “절감 보장 없음·귀찮음·잘 모름”<a class="r" href="#src13">13</a> → 회의에서 나온 “렌탈·구독 저항, 선불 투자 후 ROI를 눈으로 보고 싶다”와 같은 문제</li>
+      <li>북미 DER 중 VPP 등록은 5분의 1 미만<a class="r" href="#src38">38</a>. ERCOT은 가정 VPP 한도를 200→500MW로 늘렸지만 실제 적격 용량은 약 108MW<a class="r" href="#src69">69</a> → 수요가 아니라 연결이 병목</li>
+    </ul>
+  </div>
+  <div class="grid g2">
+    <div class="card gw"><div class="code">GT-1 · 설치</div><h3>Zero-Touch Commissioning</h3><p>혼합 제조사 기기를 연결하면 시험 신호로 배선·상·제어권을 스스로 확인하고, 국가 규칙에 맞는 설정과 준공 보고서를 자동 생성. 회의의 “DIY로 10분 연결” 목표에 해당.</p></div>
+    <div class="card gw"><div class="code">GT-2 · HW</div><h3>Grid-Envelope Power Hub</h3><p>Energy Pack 전용 게이트웨이·계측·회로제어 HW. §14a·G100·100A 패널 한도를 지키며 전력 배분. 회의의 “SW에 국한하지 말고 HW까지”에 해당.</p></div>
+    <div class="card gw"><div class="code">GT-3 · 본질</div><h3>Comfort-Bounded Thermal Flex</h3><p>자사 HP·에어컨을 쾌적 보장이 붙은 가상 배터리로. 회의에서 정의한 Energy Pack의 본질 “Comfort를 해치지 않으면서 에너지 줄이기” 그 자체.</p></div>
+    <div class="card gw"><div class="code">GT-4 · 돈</div><h3>Multi-Party Control &amp; Verified Value</h3><p>실제 절감을 반사실 기준선으로 증명·정산하고 소매사·VPP·DSO 명령을 중재. 회의의 “고객이 돈을 낼 이유, 절감 수수료 분배” 모델의 기술 기반.</p></div>
+  </div>
+  <div class="callout"><b>10월 말 CTO 보고에서 요청할 결정</b>: ① 과제 지속, 단 신기술 범위를 GT-1·GT-3 중심으로 재정의 ② 7명 재배치(11장) ③ 12주 내 독일·영국 파트너 실증 착수와 “계속/축소” 판단 기준 합의</div>
+</section>
+
+<!-- 1 -->
+<section id="s1">
+  <div class="sec-no">1 · 회의 요구사항 정리 <span class="tag-new">NEW</span></div>
+  <h2>회의에서 요구한 것과 이 보고서의 대응</h2>
+  <p class="prose muted">출처: 「스마트 코티지 및 에너지 팩 기술 통합 방안 논의」 녹취(약 75분)와 이후 ChatGPT 논의. 음성인식 오류가 많아 발언 의도 중심으로 정리했습니다.</p>
+  <div class="tbl"><table style="min-width:980px">
+    <thead><tr><th>#</th><th>회의 요구·발언 요지</th><th>이 보고서의 대응</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>Smart Cottage / Energy Pack / Smart Home 용어·관계를 정리. 사업 관점과 기술 관점을 나눠서 한 장에</td><td>2장 사업 구조도</td></tr>
+      <tr><td>2</td><td>CTO는 모든 보고에 숫자를 요구 → Region별 예상 매출 기재. 미국에는 Smart Cottage를 팔지 않음</td><td>2장 Region·매출 입력표(외부 시장 지표 + 사업부 입력칸)</td></tr>
+      <tr><td>3</td><td>알고리즘 약 10개 중 1–7은 기존 기술(개발연도 표기 후 적용), 8–9는 Region별 업데이트, 그 이후 “신기술”이 없음 → “내년에 과제하면 뭐 할 건데”에 답이 없음</td><td>5장 기술 3단 분류, 8장 신기술 13개</td></tr>
+      <tr><td>4</td><td>PV 예측 90→95%, 부하 예측 같은 것은 더 이상 메인이 아님</td><td>후보에서 제외, 기존 기술(Enabler)로 내림</td></tr>
+      <tr><td>5</td><td>레퍼런스 없는 지역을 AI 학습으로 대신하는 Digital Twin 식 접근은 불가. 우리 힘은 실제 제어 Evidence(PV·ESS 제외 HVAC만 제어해 7–12% 절감, 실제 제어한 기기 목록)</td><td>DT 제외, 5장 Evidence를 차별화 근거로 사용</td></tr>
+      <tr><td>6</td><td>SW에 국한하지 말 것. Energy Pack 전용 ESS, 인버터에 붙이는 HW 등 보드·기구까지. 사업 헤게모니와 타사 대비 2–3년 기술 격차</td><td>GT-2 Power Hub, T13 설치규제 회피형 HP/AC, 기술별 “격차 포인트”</td></tr>
+      <tr><td>7</td><td>“왜 HEMS 사업이 돈이 안 되나”: 렌탈·구독 저항, 비용 절감이 1순위 가치, 무료여도 연결이 귀찮으면 안 씀</td><td>GT-1(연결 장벽), GT-4(절감 증명·성과형 과금)</td></tr>
+      <tr><td>8</td><td>Persona·국가별로 찍어라. 부유층 정전 지역은 “돈”보다 “불편하지 않게”가 가치. 너무 극단적인 시장 말고 중간 시장을 찾을 것</td><td>3장 국가 표, T6(정전), 걸프국 Comfort 모델</td></tr>
+      <tr><td>9</td><td>설치: 전문가 반나절 대신 DIY로 10분</td><td>GT-1, T12</td></tr>
+      <tr><td>10</td><td>유럽은 에너지 비용이 장기간 높고 HEMS가 이미 보급. 경쟁사를 이길 무기가 필요. 에어컨 설치 규제(허가·이웃 동의, 최대 6개월) 때문에 이동식·창문형이 팔림, 폭염으로 규제 완화 논의</td><td>T13 신규, 3장 프랑스 행</td></tr>
+      <tr><td>11</td><td>스타일러 사례: 시장을 여는 Trigger(미세먼지·교복)와 시장 성숙도에 따라 제품이 달라짐</td><td>4장 “Trigger와 성숙도” 표</td></tr>
+      <tr><td>12</td><td>Energy Pack의 본질 = Comfort를 해치지 않으면서 에너지 줄이기. 올인원 가설은 구성 제품 판매 추이로 검증</td><td>GT-3, 2장 가설 검증 항목</td></tr>
+      <tr><td>13</td><td>PV·ESS 구매자는 에너지비를 선불로 낸 것 → 회수 시점까지 이득을 눈으로 보고 싶음. 정부·Utility 관점(역조류·피크)과 고객 관점이 다름</td><td>GT-4(검증 정산), T7(권한 중재)</td></tr>
+      <tr><td>14</td><td>고정부(공통 HW/SW) + 변동부(국가별)로 나누고, 시장을 여는 관문기술을 찾을 것. 기술은 “전쟁의 무기”</td><td>5장 공통/Region 분리, 10장 Gateway</td></tr>
+      <tr><td>15</td><td>12월까지 계획 + 2027·2028 로드맵, 역할·PL, 7명 적정 규모, 부록에 알고리즘 상세</td><td>11장</td></tr>
+    </tbody></table></div>
+  <div class="grid g2">
+    <div class="card"><h4>ChatGPT 논의에서 가져온 것</h4><ul class="tight">
+      <li>Pain Point → 기존 한계 → 신기술 순서의 스토리 구조</li>
+      <li>국가마다 HEMS의 목적이 다르다: 유럽 비용, 북미 비용+VPP+Resilience, 중동 Comfort+Cooling</li>
+      <li>Auto-Commissioning과 HW는 특정 국가용이 아닌 글로벌 공통 관문기술</li>
+      <li>Thermal Battery(집을 가상 ESS로), 목적함수 자동 전환(Resilience), 절감 증명(Counterfactual)</li>
+      <li>팀의 기존 “전력요금 문서 Agent”를 T2와 연결</li>
+    </ul></div>
+    <div class="card"><h4>ChatGPT 논의에서 바로잡은 것</h4><ul class="tight">
+      <li>Digital Twin(견적용 포함)을 신기술 후보로 넣었던 부분 → 회의 지시에 따라 제외</li>
+      <li>Energy Autopilot 단독은 이미 Tesla·Octopus·1KOMMA5가 상용화 → 단독 후보에서 제외</li>
+      <li>“AI Energy Designer”(자동 설계·견적)는 영업 도구 성격이 강해 GT-1의 부가기능으로 흡수</li>
+      <li>녹취의 “프랑스 폭염 사망 8,000명”은 공식 집계 5,700명 이상으로 정정<a class="r" href="#src71">71</a></li>
+    </ul></div>
+  </div>
+  <div class="tl">
+    <div><span class="when">이번 주 목·금</span><span class="what">아웃라인 1차 리뷰</span><span>메인 페이지 + 본부 작성 요청 항목 분배</span></div>
+    <div><span class="when">다음 주 월 10–11시</span><span class="what">소장 리뷰</span><span>매주 리뷰로 한 장씩 확장</span></div>
+    <div><span class="when">10월 20일경</span><span class="what">CTO 보고</span><span>과제 지속·중단·인력 재배치 결정</span></div>
+    <div><span class="when">12월까지</span><span class="what">2027–28 로드맵 확정</span><span>역할·PL·7명 투입안</span></div>
+  </div>
+  <p class="note">일정은 녹취에서 들린 대로 적었습니다. 정확한 날짜는 팀 일정표로 확인해 주세요.</p>
+</section>
+
+<!-- 2 -->
+<section id="s2">
+  <div class="sec-no">2 · 사업 구조와 Region·매출 <span class="tag-new">NEW</span></div>
+  <h2>CTO 첫 장: 어디에서, 누구에게, 무엇을 팔고, 얼마를</h2>
+  <div class="grid g3">
+    <div class="card"><div class="tag">사업 ①</div><h3>Smart Cottage</h3><p>주거 공간 + 설비 결합 상품. 내부에 Energy Pack과 Smart Home 솔루션이 함께 들어감. <b>미국 판매 제외</b>(회의).</p></div>
+    <div class="card"><div class="tag">사업 ②</div><h3>Energy Pack</h3><p>PV·ESS·Heat Pump·AC(+EV 충전) 묶음. Smart Cottage에 반드시 포함되며 별도 사업으로도 전개.</p></div>
+    <div class="card"><div class="tag">공통 기술</div><h3>HEMS / Energy AI</h3><p>두 사업이 공유하는 기기 연결·운전·운영 기술. 이번 신기술(GT-1~4)이 여기에 들어감.</p></div>
+  </div>
+  <div class="tbl"><table style="min-width:1100px">
+    <thead><tr><th>Region</th><th>사업</th><th>Target 고객</th><th>외부 시장 지표(확인된 수치)</th><th>2028 예상 매출</th><th>적용 신기술</th></tr></thead>
+    <tbody>
+      <tr><td>독일</td><td>Energy Pack</td><td>HP 교체 기존 단독주택, 설치업체</td><td>HP 29.9만 대/년(80% 기존주택)<a class="r" href="#src7">7</a>, 가정 ESS 36.6만 대/년<a class="r" href="#src6">6</a></td><td><span class="fill">사업부 입력</span></td><td>GT-1·2·3</td></tr>
+      <tr><td>영국</td><td>Energy Pack</td><td>전기난방·EV 가구, 전력 소매사</td><td>HP 목표 연 45만 대(2030), BUS £7,500 보조<a class="r" href="#src14">14</a></td><td><span class="fill">사업부 입력</span></td><td>GT-1·3·4</td></tr>
+      <tr><td>네덜란드·프랑스</td><td>Energy Pack</td><td>PV 보유 가구, 온수기·난방 가구</td><td>NL 2027 상계 종료<a class="r" href="#src25">25</a>, FR 1,100만 고객 시간대 변경<a class="r" href="#src21">21</a></td><td><span class="fill">사업부 입력</span></td><td>GT-3·4, T13</td></tr>
+      <tr><td>미국(CA·TX)</td><td>Energy Pack만</td><td>PV+ESS 가구, VPP 사업자</td><td>CA 신규 NBT 고객 ESS 부착 약 70%<a class="r" href="#src31">31</a>, TX 가정 VPP 한도 500MW<a class="r" href="#src69">69</a></td><td><span class="fill">사업부 입력</span></td><td>GT-2·4, T6</td></tr>
+      <tr><td>UAE·사우디</td><td>Smart Cottage·Energy Pack</td><td>빌라 소유자, 대단지 개발사, Utility</td><td>사우디 가정 전력 161,207GWh(2024)<a class="r" href="#src70">70</a>, Dubai DSM 2030년 30% 절감<a class="r" href="#src46">46</a></td><td><span class="fill">사업부 입력</span></td><td>GT-3, T9</td></tr>
+    </tbody></table></div>
+  <p class="note">매출은 회사 출하·단가 자료가 필요해 비워 두었습니다. 외부 시장 전체를 매출로 쓰지 않도록, 사업부에 “Region별 출하 계획 × Energy Pack 부착률 × 단가”를 요청하는 것을 권합니다. 회의에서 나온 “올인원 가설”은 위 구성 제품(HP·ESS·PV) 판매 추이로 검증합니다.</p>
+</section>
+
+<!-- 3 -->
+<section id="s3">
+  <div class="sec-no">3 · 국가별 Pain Point</div>
+  <h2>국가·State별 시장 변화, Pain Point, 남은 Gap</h2>
+  <div class="tbl"><table class="w-country">
+    <thead><tr><th>국가</th><th>시장/제도 변화</th><th>고객/Utility Pain Point</th><th>현재 해결방식</th><th>아직 남은 Gap</th><th>필요한 신기술</th></tr></thead>
+    <tbody>
+    <tr><td>독일<span class="k">DE</span></td>
+      <td>• 2025년부터 모든 공급사 동적요금 의무<a class="r" href="#src1">1</a><br>• §14a: 4.2kW 초과 HP·Wallbox·ESS는 DSO 제어 대상, Modul 3 2025.4 의무, 연 110–190€~최대 360€ 절감<a class="r" href="#src2">2</a><a class="r" href="#src10">10</a><br>• Solarspitzengesetz: 음가격 시 보상 없음, 스마트미터 없으면 송출 60% 제한<a class="r" href="#src5">5</a><br>• 가정요금 38.69€/100kWh(EU 2위)<a class="r" href="#src11">11</a><br>• HP 29.9만 대(+50%)<a class="r" href="#src7">7</a> · 가정 ESS 36.6만 대(−20%)<a class="r" href="#src6">6</a><br>• 2026년부터 V2G 이중 망요금 폐지<a class="r" href="#src8">8</a></td>
+      <td>• 고객: 동적요금이 자동 제어 없으면 고정요금보다 비쌈(6개월 604€ 대 481€)<a class="r" href="#src4">4</a><br>• 설치업체: EEBus·SG-Ready·Modbus 혼용 오류, 복합 기술 인력 부족<a class="r" href="#src9">9</a><br>• DSO: 스마트미터 5.5%, §14a 기준정보 프로세스 미비<a class="r" href="#src3">3</a></td>
+      <td>SMA, 1KOMMA5 Heartbeat(1GW)<a class="r" href="#src50">50</a>, Enpal, sonnen, gridX</td>
+      <td>• 타사 기기 자동 연동·검증<br>• §14a·동적요금·60%·음가격 동시 준법<br>• HP 열 유연성</td>
+      <td>T1 · T2 · T4 · T3</td></tr>
+    <tr><td>영국<span class="k">UK</span></td>
+      <td>• 가격상한 26p/kWh + 기본료 54.8p/일(2026.10)<a class="r" href="#src12">12</a><br>• MHHS 2027.5까지 30분 정산<a class="r" href="#src16">16</a><br>• HP 2026 상반기 설치 −22%<a class="r" href="#src14">14</a><br>• 2026.8.27 플러그인 태양광 합법화<a class="r" href="#src18">18</a></td>
+      <td>• 설치자 약 9,000명<a class="r" href="#src15">15</a><br>• TOU 기대 49% vs 전환 의향 17%, 이유: 절감 보장 없음·귀찮음·잘 모름<a class="r" href="#src13">13</a><br>• EV 가정충전자 63%가 스마트충전기 보유<a class="r" href="#src72">72</a>. 그래도 즉시 충전하는 비율이 높다는 보고(ChatGPT 인용 40%, 원문 확인 필요)</td>
+      <td>Octopus Kraken(2GW)<a class="r" href="#src19">19</a>, Tesla, GivEnergy</td>
+      <td>• 공급사에 묶인 자동화<br>• 스마트 기기가 있어도 스마트하게 안 씀<br>• 임차인용 부재</td>
+      <td>T1 · T3 · T8 · T12</td></tr>
+    <tr><td>프랑스<span class="k">FR</span></td>
+      <td>• Linky 95%<a class="r" href="#src23">23</a>, Heures Creuses 낮 시간대로 순차 변경(1,100만 고객)<a class="r" href="#src21">21</a><br>• 잉여 PV 매입가 4c€/kWh<a class="r" href="#src22">22</a><br>• <span class="tag-new">NEW</span> 2025 여름 폭염 사망 5,700명+<a class="r" href="#src71">71</a> → 공동주택 개보수 의결 요건 완화, 공기-공기 HP 부가세 인하 추진<a class="r" href="#src73">73</a></td>
+      <td>• 온수기·축열난방이 옛 타이머에 고정<br>• <span class="tag-new">NEW</span> 공동주택 에어컨 설치에 관리조합 승인·도시계획 신고가 필요해 수개월 지연<a class="r" href="#src74">74</a> → 임시 이동식 에어컨으로 버팀(회의)</td>
+      <td>EDF Tempo, Enedis 신호, 이동식 AC</td>
+      <td>• 비연결 기존 기기 제어<br>• 허가 없이 설치 가능한 고효율 냉난방</td>
+      <td>T2 · T9 · T13</td></tr>
+    <tr><td>네덜란드<span class="k">NL</span></td>
+      <td>• 2027.1.1 상계제도 일괄 종료<a class="r" href="#src25">25</a>, 송출비용<a class="r" href="#src65">65</a>, 망 혼잡</td>
+      <td>• PV 수익 급락, ESS 회수기간 > 보증기간<br>• DSO 연계 대기</td>
+      <td>ESS 판매, 동적요금</td>
+      <td>• 배터리 없이 잉여 PV 흡수</td>
+      <td>T3 · T4 · T8</td></tr>
+    <tr><td>스페인·이탈리아<span class="k">ES · IT</span></td>
+      <td>• 2025.4.28 이베리아 대정전<a class="r" href="#src26">26</a> 후 배터리 수요 급증<br>• 이탈리아 도매가 €115.9/MWh<a class="r" href="#src27">27</a></td>
+      <td>• 정전 시 PV 사용 불가<br>• 3kW 계약용량으로 HP·EV 동시 사용 불가</td>
+      <td>백업 인버터</td><td>• 중요부하 생존, 계약용량 내 배분</td><td>T6 · T4 · T5</td></tr>
+    <tr><td>미국 전체<span class="k">US</span></td>
+      <td>• 25D 2025년 말 종료, TPO로 이동<a class="r" href="#src35">35</a><br>• 가정요금 18.02¢(2026)<a class="r" href="#src39">39</a><br>• VPP 33GW → 2030 80–160GW 목표<a class="r" href="#src38">38</a></td>
+      <td>• 단독주택 29.5%가 100A 이하 패널<a class="r" href="#src36">36</a><br>• soft cost 58%<a class="r" href="#src37">37</a><br>• 영업 주도 시장(회의)</td>
+      <td>SPAN·Schneider Pulse, Tesla/Enphase</td><td>• 제조사 중립 패널 증설 회피<br>• 다중 VPP 동시 운영</td><td>T5 · T1 · T7 · T8</td></tr>
+    <tr><td>California<span class="k">US-CA</span></td>
+      <td>• NBT 수출 보상 약 75%↓, ESS 부착 약 70%<a class="r" href="#src31">31</a><br>• PG&amp;E 39.25¢/kWh<a class="r" href="#src32">32</a><br>• DSGS 540MW 시험<a class="r" href="#src33">33</a>, 예산 변동<a class="r" href="#src34">34</a></td>
+      <td>• 자가소비·백업·VPP가 같은 잔량을 두고 충돌<br>• 프로그램 예산 변동으로 수익 불확실</td>
+      <td>Tesla Storm Watch<a class="r" href="#src51">51</a>, Sunrun</td><td>• 위험 기반 잔량 배분<br>• 프로그램 변경 자동 대응</td><td>T6 · T7 · T8</td></tr>
+    <tr><td>Texas<span class="k">US-TX</span></td>
+      <td>• <span class="tag-new">NEW</span> ERCOT ADER 한도 200→500MW(2026.3), 적격 약 108MW<a class="r" href="#src69">69</a><br>• Tesla Electric 월 $35 리스<a class="r" href="#src42">42</a></td>
+      <td>• Uri 450만 가구 최장 4일<a class="r" href="#src68">68</a>, Beryl 260만 고객 수일 정전<a class="r" href="#src41">41</a><br>• 폭염 정전 시 ESS만으로 냉방 불가</td>
+      <td>Tesla VPP, Sunrun/NRG</td><td>• 냉방 포함 생존시간<br>• 소매사·ERCOT 신호 중재</td><td>T6 · T3 · T7</td></tr>
+    <tr><td>UAE<span class="k">AE</span></td>
+      <td>• DEWA 누진 23–38 fils + 할증 6 fils<a class="r" href="#src44">44</a><br>• Shams Dubai 725MW<a class="r" href="#src45">45</a><br>• DEWA Smart Living이 이미 사용량 비교·이상알림·절감 팁 제공, 전 계량기 스마트화<a class="r" href="#src75">75</a></td>
+      <td>• 빌라 냉방비가 누진 상위 구간, 다수 split AC 비연결<br>• 대시보드·팁은 Utility가 이미 제공 → “보여주기”로는 차별화 불가</td>
+      <td>DEWA 앱</td><td>• 보여주기 → 자율 제어<br>• 기존 AC 제어</td><td>T9 · T3 · T8</td></tr>
+    <tr><td>사우디<span class="k">SA</span></td>
+      <td>• 0.18/0.30 SAR/kWh(월 6,000kWh 기준)<a class="r" href="#src47">47</a><br>• <span class="tag-new">NEW</span> 가정 전력 161,207GWh(2024), 91.5%가 절전 중요, 40.8%가 가정용 태양광 관심<a class="r" href="#src70">70</a></td>
+      <td>• 냉방이 가정 소비·피크의 대부분(업계 추정)<a class="r" href="#src48">48</a><br>• 낮은 요금으로 소비자 ROI 약함 → 돈보다 Comfort·편의(회의의 부유층 Persona)</td>
+      <td>효율 기준, 신도시 스마트홈</td><td>• Utility·개발사 과금 모델<br>• 방 단위 Comfort 제어</td><td>T3 · T9 · T7</td></tr>
+    <tr><td>카타르<span class="k">QA</span></td><td>• BeSolar net billing<a class="r" href="#src49">49</a></td><td>• 사우디와 유사, 시장 작음</td><td>Kahramaa</td><td>사우디와 동일</td><td>T3 · T9</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- 4 -->
+<section id="s4">
+  <div class="sec-no">4 · 근본 장벽</div>
+  <h2>기술은 있는데 시장이 안 크는 이유</h2>
+  <div class="bars" role="img" aria-label="근본 장벽이 나타난 국가 수(12개 중)">
+    <div class="bar"><span>ROI 불확실·보조금 소멸</span><span class="t"><i style="width:83%"></i></span><span class="v">10/12</span></div>
+    <div class="bar"><span>설치·연동 복잡성</span><span class="t"><i style="width:75%"></i></span><span class="v">9/12</span></div>
+    <div class="bar"><span>계통 연계 용량 제약</span><span class="t"><i style="width:58%"></i></span><span class="v">7/12</span></div>
+    <div class="bar"><span>제어권·이해관계자 분절</span><span class="t"><i style="width:58%"></i></span><span class="v">7/12</span></div>
+    <div class="bar"><span>Comfort·신뢰(override)</span><span class="t"><i style="width:50%"></i></span><span class="v">6/12</span></div>
+    <div class="bar"><span>설치 규제·비연결 기존 기기</span><span class="t"><i style="width:42%"></i></span><span class="v">5/12</span></div>
+    <div class="bar"><span>정전 Resilience</span><span class="t"><i style="width:33%"></i></span><span class="v">4/12</span></div>
+  </div>
+  <p class="note">3장 Pain Point를 저자가 분류해 센 값입니다. 정량 조사가 아닙니다.</p>
+  <h3>회의의 “Trigger와 시장 성숙도” 관점</h3>
+  <div class="tbl"><table style="min-width:900px">
+    <thead><tr><th>시장</th><th>성숙도</th><th>시장을 여는 Trigger(스타일러의 “미세먼지”에 해당)</th><th>들어갈 제품 형태</th></tr></thead>
+    <tbody>
+      <tr><td>독일·영국</td><td>성숙(HEMS 보급)</td><td>동적요금 의무·§14a·HP 전환, 설치자 부족</td><td>경쟁사를 이기는 무기: 설치 시간·준법 증명·HP 깊은 제어</td></tr>
+      <tr><td>네덜란드</td><td>전환기</td><td>2027.1.1 상계 종료(날짜가 정해진 Trigger)</td><td>배터리 없는 자가소비 패키지</td></tr>
+      <tr><td>프랑스·남유럽</td><td>초기(냉방)</td><td>폭염 사망·에어컨 규제 완화</td><td>허가 없이 설치하는 고효율 냉난방 + Energy Pack(T13)</td></tr>
+      <tr><td>Texas·California</td><td>성숙(ESS)</td><td>정전·폭염·VPP 한도 확대</td><td>백업 보증 + VPP 수익 결합</td></tr>
+      <tr><td>UAE·사우디</td><td>초기</td><td>냉방 피크·정부 절감 목표</td><td>Utility·개발사가 비용을 대는 Comfort 제어</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- 5 -->
+<section id="s5">
+  <div class="sec-no">5 · 기존 기술과 Evidence <span class="tag-new">NEW</span></div>
+  <h2>기술 3단 분류: 기존 / Region 적응 / 신기술</h2>
+  <div class="tbl"><table style="min-width:980px">
+    <thead><tr><th>#</th><th>기술</th><th>구분</th><th>상태</th><th>이번 과제에서의 역할</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>PV 발전량 예측</td><td>기존</td><td><span class="fill">개발연도 기재</span></td><td>GT-3·4의 입력(Enabler)</td></tr>
+      <tr><td>2</td><td>부하 예측</td><td>기존</td><td><span class="fill">개발연도 기재</span></td><td>Enabler</td></tr>
+      <tr><td>3</td><td>ESS 최적 제어</td><td>기존</td><td><span class="fill">개발연도 기재</span></td><td>GT-2·4에 재사용</td></tr>
+      <tr><td>4</td><td>HVAC·가전 제어(사이클·댐퍼 등 자사 기기 특화 AI)</td><td>기존</td><td><span class="fill">개발연도 기재</span></td><td>GT-3의 핵심 자산</td></tr>
+      <tr><td>5</td><td>TOU 요금 최적화</td><td>기존</td><td><span class="fill">개발연도 기재</span></td><td>Enabler</td></tr>
+      <tr><td>6</td><td>재실·스케줄링</td><td>기존</td><td><span class="fill">개발연도 기재</span></td><td>GT-3 쾌적 학습</td></tr>
+      <tr><td>7</td><td>실증 기반 절감 알고리즘</td><td>기존</td><td><span class="fill">개발연도 기재</span></td><td>GT-4 기준선 방법론</td></tr>
+      <tr><td>8</td><td>국가별 요금·규제 적응(전력요금 문서 Agent)</td><td>Region 적응</td><td>진행 중</td><td>T2 Regulation-as-Code로 확장</td></tr>
+      <tr><td>9</td><td>국가별 기기·프로토콜 연동(EEBus, SunSpec, OCPP, Matter)</td><td>Region 적응</td><td>부분</td><td>GT-1의 기반</td></tr>
+      <tr><td>10+</td><td>GT-1~4, T6·T13 등</td><td>신기술</td><td>없음</td><td>2027–2028 과제 본체</td></tr>
+    </tbody></table></div>
+  <div class="grid g2">
+    <div class="card"><h4>우리의 Evidence (회의)</h4><p>북미 실데이터에서 PV·ESS를 빼고 <b>HVAC 장비만 제어했을 때 7–12% 절감</b>을 보였고, 실제로 제어해 본 기기 종류 목록을 확보. 경쟁사는 대부분 ESS 중심이라 이 “냉난방 제어 실증”이 GT-3 격차의 출발점.</p><p class="note">녹취 음질 때문에 수치 범위가 불명확합니다. 원 실증 보고서의 수치·기간·대조군으로 확정해 주세요.</p></div>
+    <div class="card"><h4>공통부 / 변동부 (회의의 고정부·변동부)</h4><ul class="tight">
+      <li><b>공통</b>: 게이트웨이 HW, 기기 공통 표현, 능동 커미셔닝, 열 유연성 엔진, 검증·정산 엔진</li>
+      <li><b>국가별</b>: 지원 기기·프로토콜 목록, 요금·계통 규칙팩, 기후·쾌적 파라미터, 인증·정산 계약</li>
+    </ul></div>
+  </div>
+</section>
+
+<!-- 6 -->
+<section id="s6">
+  <div class="sec-no">6 · 가설 검증</div>
+  <h2>A–E 가설과 ChatGPT 후보의 판정</h2>
+  <div class="tbl"><table style="min-width:1100px">
+    <thead><tr><th>가설</th><th>이미 상용화된 것</th><th>판정</th><th>재정의</th></tr></thead>
+    <tbody>
+    <tr><td>A. Region-Adaptive Energy AI</td><td>동적요금 API·국가 요금 연동은 흔함(Kraken, Heartbeat, gridX)</td><td><span class="pill p-mid">조건부</span></td><td>“AI가 규제를 이해”가 아니라 검증된 규칙 변환 → T2</td></tr>
+    <tr><td>B. Auto-Commissioning</td><td>자사 생태계 내 앱 커미셔닝만</td><td><span class="pill p-hi">채택</span></td><td>T1 → GT-1</td></tr>
+    <tr><td>C. Energy Autopilot</td><td>Tesla·Octopus·1KOMMA5·Samsung 제공</td><td><span class="pill p-lo">단독 불가</span></td><td>T3·T7에 흡수</td></tr>
+    <tr><td>D. Resilience / VPP</td><td>Storm Watch, CA·TX VPP</td><td><span class="pill p-mid">지역 특화</span></td><td>T6 + T7</td></tr>
+    <tr><td>E. Plug&amp;Play Power Hub</td><td>미국 SPAN·Schneider·ConnectDER</td><td><span class="pill p-hi">채택(EU 우선)</span></td><td>T4 + T5 → GT-2</td></tr>
+    <tr><td>AI Thermal Battery (ChatGPT)</td><td>Pre-cooling·DR은 존재, 쾌적 보증형 용량 산출은 공백</td><td><span class="pill p-hi">채택</span></td><td>T3 → GT-3</td></tr>
+    <tr><td>Savings Proof / ROI Guarantee (ChatGPT)</td><td>대부분 추정치 표시</td><td><span class="pill p-hi">채택</span></td><td>T8 → GT-4</td></tr>
+    <tr><td>Home Energy Trader (ChatGPT)</td><td>Tesla Autobidder, Kraken 등 성숙</td><td><span class="pill p-lo">단독 불가</span></td><td>기존 ESS 최적화(Enabler)</td></tr>
+    <tr><td>Digital Twin 계열 (ChatGPT)</td><td>—</td><td><span class="pill p-lo">회의 지시로 제외</span></td><td>—</td></tr>
+    <tr><td>AI Energy Designer (ChatGPT)</td><td>설치업체 설계 SW 다수</td><td><span class="pill p-mid">부가</span></td><td>GT-1 설치 앱 기능</td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- 7 -->
+<section id="s7">
+  <div class="sec-no">7 · 경쟁사</div>
+  <h2>누가 어디까지 하고 있나</h2>
+  <p class="prose muted">● 상용 · ◐ 일부·제한적 · · 없음/미확인. 공개 제품 정보 기준.</p>
+  <div class="tbl"><table class="w-comp">
+    <thead><tr><th>업체</th><th>PV</th><th>ESS</th><th>EV</th><th>HP</th><th>HVAC</th><th>HEMS</th><th>VPP</th><th>AI 운전</th><th>아직 못 푼 부분</th></tr></thead>
+    <tbody>
+    <tr><td>Tesla</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot f">●</td><td>냉난방·타사 기기 제어 없음</td></tr>
+    <tr><td>Enphase</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td>온수기·충전기 일부만<a class="r" href="#src53">53</a></td></tr>
+    <tr><td>SolarEdge</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot h">◐</td><td>HP 열 유연성</td></tr>
+    <tr><td>Huawei</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot h">◐</td><td>HP는 SG-Ready 수준<a class="r" href="#src54">54</a></td></tr>
+    <tr><td>Sigenergy</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot h">◐</td><td>열부하 없음<a class="r" href="#src61">61</a></td></tr>
+    <tr><td>sonnen</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td>ESS 중심<a class="r" href="#src57">57</a></td></tr>
+    <tr><td>SMA</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot h">◐</td><td>설치자 전문성 의존</td></tr>
+    <tr><td>1KOMMA5 · Enpal</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td>가장 근접. 자사 채널·독일 중심, 쾌적 보장 없음<a class="r" href="#src50">50</a></td></tr>
+    <tr><td>Octopus / Kraken</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td>자사 요금 가입 전제, HW 설치 병목<a class="r" href="#src19">19</a></td></tr>
+    <tr><td>Schneider</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot h">◐</td><td>자사 조합 한정<a class="r" href="#src56">56</a></td></tr>
+    <tr><td>Siemens</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot n">·</td><td>그리드 SW·충전 중심</td></tr>
+    <tr><td>Bosch</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot n">·</td><td>PV 잉여 연동 수준</td></tr>
+    <tr><td>SPAN · ConnectDER</td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot h">◐</td><td>미국 전용<a class="r" href="#src52">52</a></td></tr>
+    <tr><td>EcoFlow · Anker</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot h">◐</td><td>계통 준법·VPP 약함</td></tr>
+    <tr><td>BYD</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td>HEMS 없음</td></tr>
+    <tr><td>Google Nest</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot h">◐</td><td>온도조절기 DR만</td></tr>
+    <tr><td>Amazon</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot n">·</td><td>대시보드·Matter 허브</td></tr>
+    <tr><td>Samsung</td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot f">●</td><td>계통 준법·전력 HW 약함<a class="r" href="#src55">55</a></td></tr>
+    <tr><td>Midea · Haier <span class="tag-new">NEW</span></td><td class="dot n">·</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot h">◐</td><td>Midea 창문형 HP·실내형 H-Pack(유럽 2026 하반기)으로 설치규제 우회 선점<a class="r" href="#src76">76</a>. HEMS·VPP 약함</td></tr>
+    <tr><td>Daikin</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot n">·</td><td>외부 HEMS 의존</td></tr>
+    <tr><td>Mitsubishi Electric</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot n">·</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot n">·</td><td>유연성 수익화 없음<a class="r" href="#src63">63</a></td></tr>
+    <tr><td>Panasonic</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot h">◐</td><td class="dot f">●</td><td class="dot f">●</td><td class="dot h">◐</td><td class="dot n">·</td><td class="dot h">◐</td><td>일본 HEMS 해외 확장 미흡</td></tr>
+    </tbody></table></div>
+  <div class="callout">공백: ① 냉난방 기기 회사에는 전력·계통 스택이 없고 ② 전력기기 회사는 열부하를 모르며 ③ 제조사 중립 통합자가 없다. <b>HP·에어컨 + Energy Pack + 계통 준법 SW를 모두 가진 회사</b>가 ①②를 동시에 메울 수 있습니다. 회의에서 나온 “자사 기기를 더 잘 제어한다 → 타사는 못 하나?” 질문의 답은 “타사는 ESS 중심이라 냉난방을 쾌적 보장과 함께 제어하지 못한다”입니다.</div>
+</section>
+
+<!-- 8 -->
+<section id="s8">
+  <div class="sec-no">8 · 신기술 후보 13개</div>
+  <h2>평가표</h2>
+  <div class="tbl"><table class="w-tech">
+    <thead><tr><th>신기술</th><th>해결 Pain Point</th><th>Target</th><th>기존 기술과 차이</th><th>AI</th><th>HW</th><th>핵심 기술</th><th>경쟁사 현황</th><th>차별화</th><th>필요성</th></tr></thead>
+    <tbody>
+    <tr><td>T1 Active-Probe Auto-Commissioning</td><td>설치 인력·시간·오류</td><td>DE UK US NL</td><td>목록 선택이 아니라 시험 신호로 실제 배선·응답 확인</td><td>시스템 식별</td><td>멀티프로토콜 GW + CT</td><td>능동 식별, 자동 준공 시험</td><td>자사 생태계 내만</td><td><span class="pill p-hi">높음</span></td><td><span class="pill p-hi">매우 높음</span></td></tr>
+    <tr><td>T2 Regulation-as-Code Compiler</td><td>요금·규제 변경</td><td>전 국가</td><td>규칙을 검증 가능한 제약으로 컴파일·버전 관리</td><td>문서→규칙 추출</td><td>불필요</td><td>형식 검증, 정책팩</td><td>수작업 지역화</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-hi">높음</span></td></tr>
+    <tr><td>T3 Comfort-Bounded Thermal Flex</td><td>냉난방 flex 미활용</td><td>DE UK NL FR TX SA AE</td><td>가정별 쾌적 한계·flex 용량 보증</td><td>열 응답·쾌적 학습</td><td>온습도 센서</td><td>확률적 envelope</td><td>Octopus·Nest 일부</td><td><span class="pill p-hi">높음</span></td><td><span class="pill p-hi">매우 높음</span></td></tr>
+    <tr><td>T4 Grid-Envelope Controller</td><td>§14a·G100·계약용량</td><td>DE UK NL IT US</td><td>연계점 한도 보장 실시간 배분</td><td>손실 최소 배분</td><td>계량기급 측정</td><td>&lt;1초 루프, 준법 로그</td><td>기기별 스로틀</td><td><span class="pill p-hi">높음</span></td><td><span class="pill p-hi">매우 높음</span></td></tr>
+    <tr><td>T5 Virtual Service Upgrade Hub</td><td>패널 증설 비용</td><td>US IT UK</td><td>retrofit 허브, 제조사 중립</td><td>선제 차단 계획</td><td>핵심(PCS)</td><td>UL 3141 PCS</td><td>SPAN·Schneider</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-hi">높음</span></td></tr>
+    <tr><td>T6 Resilience Autopilot</td><td>정전 생존</td><td>TX CA ES</td><td>부하 단위 생존시간 극대화</td><td>정전 위험</td><td>회로 차단</td><td>목적함수 자동 전환</td><td>Tesla Storm Watch</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-mid">지역 높음</span></td></tr>
+    <tr><td>T7 Control-Rights Arbiter</td><td>다자간 제어 충돌</td><td>US UK DE TX</td><td>계약 우선순위 기반 다중 참여</td><td>기회비용 배분</td><td>로컬 GW</td><td>권한 원장</td><td>공백</td><td><span class="pill p-hi">높음</span></td><td><span class="pill p-hi">높음</span></td></tr>
+    <tr><td>T8 Verified Savings &amp; Settlement</td><td>ROI 불확실, 구독 저항</td><td>전 국가</td><td>반사실 기준선 검증 절감·성과형 과금</td><td>인과추론</td><td>계량</td><td>M&amp;V, 정산</td><td>대부분 추정치</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-hi">높음</span></td></tr>
+    <tr><td>T9 Legacy Appliance Enablement</td><td>비연결 AC·온수기</td><td>AE SA QA FR</td><td>NILM + retrofit 액추에이터</td><td>부하 분리</td><td>IR·릴레이</td><td>폐루프 확인</td><td>스마트플러그</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-mid">중간</span></td></tr>
+    <tr><td>T10 Mobility-Aware V2H</td><td>EV를 가정 배터리로</td><td>DE US UK</td><td>ISO 15118-20 중립 + 이동 보증</td><td>출발 예측</td><td>DC 양방향</td><td>DC 버스 공유</td><td>Sigenergy, GM</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-mid">2028+</span></td></tr>
+    <tr><td>T11 Remote Performance Assurance</td><td>설치 후 성능 저하</td><td>UK DE</td><td>원격 자동 교정</td><td>원인 진단</td><td>기존 GW</td><td>자동 재튜닝</td><td>제조사 일부</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-mid">중간</span></td></tr>
+    <tr><td>T12 Renter Micro Pack</td><td>임차인 배제</td><td>UK DE NL FR</td><td>공사 없는 800VA PV + 소형 ESS + 가전 연동</td><td>가전 협조</td><td>플러그인 ESS</td><td>역송 방지</td><td>EcoFlow, Anker</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-mid">중간</span></td></tr>
+    <tr><td>T13 Permit-Light Plug-in HP/AC <span class="tag-new">NEW</span></td><td>에어컨 설치 규제·지연, 폭염</td><td>FR IT ES DE</td><td>실외기 허가가 필요 없는 일체형 고효율 HP/AC를 Energy Pack·PV와 연동</td><td>소음·배열 제약 하 쾌적 제어</td><td>핵심(일체형 HP, 저소음)</td><td>일체형 인버터 HP + flex 제어</td><td>Midea 창문형·H-Pack, Gradient</td><td><span class="pill p-mid">중간</span></td><td><span class="pill p-hi">높음(남유럽)</span></td></tr>
+    </tbody></table></div>
+</section>
+
+<!-- 9 -->
+<section id="s9">
+  <div class="sec-no">9 · 기술별 상세 (10개 질문)</div>
+  <h2>핵심 5개 상세 + 나머지 요약</h2>
+  <p class="prose muted">GT에 해당하는 T1·T3·T4·T7·T8과 신규 T13을 펼쳐 두었습니다. 나머지 기술의 10개 질문 답변은 v1 보고서와 PPT 17–28장에 있습니다.</p>
+
+  <details class="tech" open><summary><span class="id">T1</span><h3>Active-Probe Auto-Commissioning</h3><span class="pill p-hi">GT-1</span></summary><div class="body"><dl class="ten">
+    <dt>1. 출발 Pain Point</dt><dd>독일 통합 2–8k€·프로토콜 혼용 오류, 영국 설치자 9,000명, 미국 soft cost 58%, 회의의 “반나절 전문가 대신 DIY 10분”</dd>
+    <dt>2. 기존 HEMS로 어려운 이유</dt><dd>기기 정보를 설치자 입력에 의존. CT 방향 반전·상 오결선·릴레이 극성·제어권 미부여가 운전 후 성능 저하로 드러남</dd>
+    <dt>3. 핵심 기술</dt><dd>① 멀티프로토콜 탐색(EEBus, SunSpec, OCPP, Matter 1.4<a class="r" href="#src58">58</a>, SG-Ready) ② 작은 시험 신호(ESS 1kW, HP ±1K, EV 6↔10A)와 계량 응답으로 배선·상·지연·제어 방향 식별 ③ 국가 규칙 설정 자동 생성 ④ 준공 시험 보고서 자동 발급</dd>
+    <dt>4. AI가 필요한 이유</dt><dd>여러 기기 응답이 겹친 계량 신호를 기기별로 분리하는 시스템 식별 문제. 규칙 기반으로는 조합이 폭발</dd>
+    <dt>5. HW 필요성</dt><dd>필요. 상별 CT·동기 계측, RS485·Ethernet·Thread, 릴레이 출력을 갖춘 Energy Pack 게이트웨이(GT-2와 공용)</dd>
+    <dt>6. 고객 Value</dt><dd>설치 당일부터 정상 작동, 재방문 감소, 설치비 절감</dd>
+    <dt>7. Utility/Grid Value</dt><dd>준법 상태가 증명된 채 등록, §14a·G100 제어가 실제로 동작</dd>
+    <dt>8. 경쟁사</dt><dd>Tesla·Enphase·Huawei·Sigenergy는 자사 기기만. 1KOMMA5 Heartbeat Box는 타사 연결하나 능동 검증 미확인</dd>
+    <dt>9. 격차 포인트</dt><dd>자사 HP·AC 내부 상태 접근 + 현장에서 쌓이는 “기기 모델별 응답 서명” 라이브러리</dd>
+    <dt>10. 특허 아이디어</dt><dd>(a) 기기별 시험 신호를 시간·주파수 직교 설계해 여러 기기의 배선·상을 동시 식별 (b) 식별 결과 + 국가 규칙팩으로 준공 시험 자동 생성·판정</dd>
+  </dl></div></details>
+
+  <details class="tech" open><summary><span class="id">T3</span><h3>Comfort-Bounded Thermal Flex</h3><span class="pill p-hi">GT-3</span></summary><div class="body"><dl class="ten">
+    <dt>1. 출발 Pain Point</dt><dd>독일 HP 29.9만 대, 사우디 냉방 피크, DR override 12.9%<a class="r" href="#src59">59</a>, NL 배터리 ROI 약함, 회의의 “Comfort를 해치지 않고 줄이기”</dd>
+    <dt>2. 기존 HEMS로 어려운 이유</dt><dd>HP를 SG-Ready on/off·스케줄로만 다룸. 집마다 얼마나 줄여도 되는지 몰라 보수적으로 제어하거나 고객이 override</dd>
+    <dt>3. 핵심 기술</dt><dd>가정별 열 응답·쾌적 한계 학습 → “N시간 동안 X kW 증감 가능”을 신뢰구간으로 산출 → 한계 안에서만 예열·예냉·급탕 축열, 이탈 시 즉시 복귀. 중동은 습도(잠열) 포함, 방 단위 제어</dd>
+    <dt>4. AI가 필요한 이유</dt><dd>열용량·손실과 개인 쾌적 선호를 설치 후 운전 데이터만으로 추정. 쾌적 선호는 물리 모델로 표현 불가</dd>
+    <dt>5. HW 필요성</dt><dd>부분 필요. 온습도 센서와 HP·AC 내부 상태(압축기 주파수, 제상) 접근 — 자사 기기 강점</dd>
+    <dt>6. 고객 Value</dt><dd>배터리 없이도 PV 자가소비·요금 절감, 불편은 계약 범위 안</dd>
+    <dt>7. Utility/Grid Value</dt><dd>최대 가정 부하를 신뢰 가능한 flex 자원으로 입찰, 걸프국 냉방 피크 저감</dd>
+    <dt>8. 경쟁사</dt><dd>Octopus 자사 HP 요금 운전, Nest DR, 1KOMMA5 AC 진입. 쾌적 보증형 용량 산출은 공개 사례 없음</dd>
+    <dt>9. 격차 포인트</dt><dd>HVAC만 제어해 7–12% 절감한 자사 실증(회의) + 제조사만 가진 내부 운전 한계 데이터 + 계절 실증 누적</dd>
+    <dt>10. 특허 아이디어</dt><dd>(a) 쾌적 이탈 확률을 제약으로 한 flex 용량 산출·입찰 (b) 이벤트 중 재실자 수동 조작을 신호로 쾌적 한계 실시간 갱신</dd>
+  </dl></div></details>
+
+  <details class="tech"><summary><span class="id">T4</span><h3>Grid-Envelope Controller</h3><span class="pill p-hi">GT-2</span></summary><div class="body"><dl class="ten">
+    <dt>1. 출발 Pain Point</dt><dd>§14a 스로틀, PV 60% 제한, UK G100<a class="r" href="#src20">20</a>, NL 혼잡, IT 3kW 계약, DOE 확산<a class="r" href="#src62">62</a></dd>
+    <dt>2. 기존 HEMS로 어려운 이유</dt><dd>기기별 스로틀만 가능해 연계점 합계를 보장하지 못함 → DSO는 보수적 한도, 고객은 증설 요구</dd>
+    <dt>3. 핵심 기술</dt><dd>연계점 측정 → 동적 한도 → 비용·쾌적 손실 최소 재배분(&lt;1초) → 감사 가능한 준법 로그</dd>
+    <dt>4. AI가 필요한 이유</dt><dd>한도 축소 시 어떤 부하를 얼마나 줄일지는 T3 쾌적 envelope·EV 출발·ESS 가치에 달림</dd>
+    <dt>5. HW 필요성</dt><dd>핵심. 계량기급 측정, 빠른 제어 출력, 인증</dd>
+    <dt>6. 고객 Value</dt><dd>증설 없이 HP·EV 추가, 빠른 연계 승인, §14a 할인</dd>
+    <dt>7. Utility/Grid Value</dt><dd>flexible connection 확대(EU EMD<a class="r" href="#src29">29</a>)</dd>
+    <dt>8. 경쟁사</dt><dd>G100 장치, §14a HEMS — 대부분 PV·ESS 한도 제어에 머묾</dd>
+    <dt>9. 격차 포인트</dt><dd>자사 HP 압축기 연속 가변 제어로 손실 작은 조정</dd>
+    <dt>10. 특허 아이디어</dt><dd>동적 연계 한도 하에서 열부하 쾌적 여유와 EV 이동 여유를 공통 단위로 환산해 배분</dd>
+  </dl></div></details>
+
+  <details class="tech"><summary><span class="id">T7</span><h3>Control-Rights Arbiter</h3><span class="pill p-hi">GT-4</span></summary><div class="body"><dl class="ten">
+    <dt>1. 출발 Pain Point</dt><dd>VPP 등록 &lt;1/5, TX 소매사·ERCOT 신호 병존, DE §14a + 동적요금 동시 수신, 회의의 “정부·Utility 관점과 고객 관점이 다르다”</dd>
+    <dt>2. 기존 HEMS로 어려운 이유</dt><dd>단일 제어 주체를 가정. 충돌 시 먼저 온 신호가 이기거나 참여 자체 차단</dd>
+    <dt>3. 핵심 기술</dt><dd>로컬 권한 원장. 우선순위: DSO 규제 명령 &gt; 안전·쾌적 &gt; 약정 VPP &gt; 요금 최적화. 모든 결정을 감사 로그로 남겨 T8 정산과 연결</dd>
+    <dt>4. AI가 필요한 이유</dt><dd>동시 요청 간 기회비용 비교·배분</dd>
+    <dt>5. HW 필요성</dt><dd>로컬 실행 필요(클라우드 장애 시에도 DSO 명령 준수)</dd>
+    <dt>6. 고객 Value</dt><dd>여러 프로그램 동시 수익, 공급사 변경 시 재설정 불필요</dd>
+    <dt>7. Utility/Grid Value</dt><dd>이미 설치된 DER의 VPP 등록 확대</dd>
+    <dt>8. 경쟁사</dt><dd>공개된 상용 제품 없음</dd>
+    <dt>9. 격차 포인트</dt><dd>DSO·소매사와의 초기 표준 계약(선점 효과)</dd>
+    <dt>10. 특허 아이디어</dt><dd>다수 제어 주체의 명령을 계약 우선순위·기회비용으로 중재하고 정산 가능한 원장에 기록</dd>
+  </dl></div></details>
+
+  <details class="tech"><summary><span class="id">T8</span><h3>Verified Savings &amp; Settlement</h3><span class="pill p-hi">GT-4</span></summary><div class="body"><dl class="ten">
+    <dt>1. 출발 Pain Point</dt><dd>UK “절감 보장 없음”, DE 동적요금 역전, 회의의 “렌탈·구독 저항, 선불 투자 후 회수를 눈으로 보고 싶다, 절감 수수료 분배”</dd>
+    <dt>2. 기존 HEMS로 어려운 이유</dt><dd>대시보드는 예상 절감만. 날씨·재실이 바뀌어 실제 절감을 증명할 수 없음</dd>
+    <dt>3. 핵심 기술</dt><dd>반사실 기준선 + 무작위 제어 휴지 구간 자체 검증 + 감사 가능 정산 → 절감 보증·성과형 과금(절감액 수수료)</dd>
+    <dt>4. AI가 필요한 이유</dt><dd>가정별 반사실 추정은 인과추론 문제</dd>
+    <dt>5. HW 필요성</dt><dd>계량 데이터(GW 측정)</dd>
+    <dt>6. 고객 Value</dt><dd>“효과가 없으면 돈을 내지 않는다” — 구독 저항 해소</dd>
+    <dt>7. Utility/Grid Value</dt><dd>DR·VPP 성과 측정 비용 절감, 분쟁 감소</dd>
+    <dt>8. 경쟁사</dt><dd>VPP 기준선 방법론은 있으나 가정 통합 절감 검증은 드묾</dd>
+    <dt>9. 격차 포인트</dt><dd>대조군 데이터 누적, 기존 실증 기준선 방법론(기술 #7)</dd>
+    <dt>10. 특허 아이디어</dt><dd>제어 알고리즘이 짧은 무작위 휴지 구간을 스스로 삽입해 실시간 인과 효과를 추정·정산</dd>
+  </dl></div></details>
+
+  <details class="tech" open><summary><span class="id">T13</span><h3>Permit-Light Plug-in HP/AC</h3><span class="tag-new">NEW</span></summary><div class="body"><dl class="ten">
+    <dt>1. 출발 Pain Point</dt><dd>프랑스 2025 폭염 사망 5,700명+<a class="r" href="#src71">71</a>. 공동주택 에어컨 설치는 관리조합 승인·도시계획 신고로 수개월 지연<a class="r" href="#src74">74</a> → 소음·효율 나쁜 이동식 AC로 버팀(회의)</dd>
+    <dt>2. 기존 HEMS로 어려운 이유</dt><dd>SW 문제가 아니라 “설치 허가” 문제. HEMS는 설치된 기기가 있어야 작동</dd>
+    <dt>3. 핵심 기술</dt><dd>실외기 없이 창·벽에 설치하는 일체형 인버터 HP/AC(냉난방 겸용, 저소음) + Energy Pack·PV 연동으로 한낮 PV 냉방·피크 회피</dd>
+    <dt>4. AI가 필요한 이유</dt><dd>일체형 구조의 소음·배열 제약 안에서 쾌적을 유지하는 운전(T3 공유)</dd>
+    <dt>5. HW 필요성</dt><dd>핵심(기구·압축기·소음)</dd>
+    <dt>6. 고객 Value</dt><dd>허가 대기 없이 여름 전 설치, 이동식 대비 효율·소음 개선</dd>
+    <dt>7. Utility/Grid Value</dt><dd>여름 피크의 신규 냉방 부하를 처음부터 제어 가능한 자원으로 편입</dd>
+    <dt>8. 경쟁사</dt><dd>Midea 창문형 HP·H-Pack(유럽 2026 하반기)<a class="r" href="#src76">76</a>, Gradient(미국)</dd>
+    <dt>9. 격차 포인트</dt><dd>HW 단독으로는 Midea와 경쟁. Energy Pack·flex 제어와 묶을 때만 차별화</dd>
+    <dt>10. 특허 아이디어</dt><dd>일체형 HP의 실내 소음 한계를 제약으로 한 PV 연동 예냉 스케줄링</dd>
+  </dl></div></details>
+</section>
+
+<!-- 10 -->
+<section id="s10">
+  <div class="sec-no">10 · Gateway Technology와 가치사슬</div>
+  <h2>Country Pain Point → Business Opportunity</h2>
+  <div class="tbl"><div class="chainrow">
+    <div class="chain head"><div>Country Pain Point</div><div>Market Barrier</div><div>Unsolved Problem</div><div>Gateway Technology</div><div>Product / Energy Pack</div><div>Customer Value</div><div>Business Opportunity</div></div>
+    <div class="chain"><div><span class="h">DE · UK · US</span>설치자 부족, 통합 2–8k€, soft cost 58%</div><div>설치 1건당 비용·시간이 가치보다 큼</div><div>혼합 제조사 기기를 사람 없이 연결·검증</div><div><b>GT-1</b> Zero-Touch Commissioning (T1+T2)</div><div>Energy Pack 게이트웨이 + 설치 앱 + 국가 정책팩</div><div>설치 당일 정상 작동</div><div>설치업체·OEM 라이선스, 타사 기기 채널</div></div>
+    <div class="chain"><div><span class="h">US · DE · UK · NL · IT</span>100A 패널, §14a, G100, 혼잡</div><div>연계 용량이 전기화 속도 제한</div><div>연계점 한도를 보장하며 HP·EV·ESS 동시 사용</div><div><b>GT-2</b> Grid-Envelope Power Hub (T4+T5)</div><div>Power Hub HW</div><div>증설 없는 전기화</div><div>HW 판매 + DSO·Utility 조달</div></div>
+    <div class="chain"><div><span class="h">DE · NL · UK · TX · GCC · FR</span>냉난방이 최대 부하, override, 폭염</div><div>최대 유연 자원이 시장에 못 들어옴</div><div>쾌적을 해치지 않는 flex 용량 보증</div><div><b>GT-3</b> Comfort-Bounded Thermal Flex (T3, +T13)</div><div>자사 HP·AC + Energy Pack</div><div>배터리 없이 절감, 불편 없음</div><div>HP·AC 판매 경쟁력, flex 판매, 걸프국 B2G</div></div>
+    <div class="chain"><div><span class="h">UK · US · DE · CA · TX</span>ROI 불확실, 구독 저항, VPP 등록 &lt;1/5</div><div>가치가 증명되지 않아 구매·과금이 막힘</div><div>다자 명령 중재 + 검증 절감 정산</div><div><b>GT-4</b> Multi-Party Control &amp; Verified Value (T7+T8)</div><div>로컬 권한 중재 + 정산 서비스</div><div>효과 없으면 무료</div><div>절감 수수료 분배, 성과형 구독</div></div>
+    <div class="chain"><div><span class="h">TX · CA · ES</span>폭염·한파·대정전</div><div>백업 신뢰 부족</div><div>부하 단위 생존시간</div><div>지역 모듈: Resilience (T6)</div><div>Power Hub + grid-forming ESS</div><div>정전 중에도 신경 쓸 일 없음</div><div>프리미엄 백업 번들</div></div>
+  </div></div>
+</section>
+
+<!-- 11 -->
+<section id="s11">
+  <div class="sec-no">11 · 로드맵과 7명 투입안 <span class="tag-new">NEW</span></div>
+  <h2>2026.12까지 · 2027 · 2028</h2>
+  <div class="tl">
+    <div><span class="when">2026.10 말</span><span class="what">CTO 보고·결정</span><span>과제 지속 범위(GT-1·GT-3 중심) 확정</span></div>
+    <div><span class="when">2026.11–12</span><span class="what">준비</span><span>기존 기술 1–9 개발연도·Evidence 정리, 독일·영국 파트너 2곳, 자사 HP·AC 내부 API 접근 확보</span></div>
+    <div><span class="when">2027 상반기</span><span class="what">시제품</span><span>GT-1 게이트웨이 10기종 지원, GT-3 초기 엔진, 12주 탐색 실증(각 10호)</span></div>
+    <div><span class="when">2027 하반기</span><span class="what">계절 실증</span><span>난방 시즌 100호, GT-2 EU 3상 허브 설계, GT-4 DSO·소매사 1곳 공동 설계</span></div>
+    <div><span class="when">2028</span><span class="what">제품화·확장</span><span>Energy Pack 탑재, 미국 PCS·T6, 걸프국 냉방 B2G, T13 검토</span></div>
+  </div>
+  <div class="tbl"><table style="min-width:860px">
+    <thead><tr><th>역할</th><th>인원</th><th>책임</th><th>산출물</th></tr></thead>
+    <tbody>
+      <tr><td>PL · 사업/파트너 요구</td><td class="num">1</td><td>범위·지표·실증 파트너 계약, CTO·사업부 대응</td><td>과제 정의서, 판단 기준</td></tr>
+      <tr><td>GT-1 연동·커미셔닝</td><td class="num">2</td><td>프로토콜, 능동 식별, 준공 시험 자동화, T2 규칙팩</td><td>10기종 자동 설정</td></tr>
+      <tr><td>GT-3 열 유연성 제어</td><td class="num">2</td><td>자사 HP·AC 운전 제약, flex 용량 산출, 쾌적 학습</td><td>쾌적 보증 flex 엔진</td></tr>
+      <tr><td>GT-2 임베디드·HW</td><td class="num">1</td><td>게이트웨이·계측·인증사 연계</td><td>Power Hub 설계안</td></tr>
+      <tr><td>GT-4 실증·검증 정산</td><td class="num">1</td><td>대조 실험, 반사실 기준선, 현장 로그</td><td>검증 절감 리포트</td></tr>
+    </tbody></table></div>
+  <div class="grid g2">
+    <div class="card"><h4>12주 뒤 “계속/축소” 판단 기준(제안)</h4><ul class="tight">
+      <li>설정·검증 시간 50% 단축 가능성 확인(GT-1)</li>
+      <li>재실 중 쾌적 범위 유지율 95% + 피크 전력 20% 감소(GT-3)</li>
+      <li>유료 실증 또는 구매 조건을 제시한 파트너 1곳 이상</li>
+    </ul><p class="note">목표치는 제안값입니다.</p></div>
+    <div class="card"><h4>이 전략이 틀릴 수 있는 조건</h4><ul class="tight">
+      <li>Matter·EEBus 표준화가 빨라져 커미셔닝 난이도가 크게 낮아지는 경우</li>
+      <li>1KOMMA5·Octopus가 제조사 중립 레트로핏을 대규모 확산</li>
+      <li>자사 HP·AC 내부 API 접근을 사내에서 확보하지 못하는 경우</li>
+      <li>걸프국 Utility가 가정 DR 예산을 배정하지 않는 경우</li>
+    </ul></div>
+  </div>
+</section>
+
+<!-- 12 -->
+<section id="s12">
+  <div class="sec-no">12 · 출처</div>
+  <h2>참고 자료</h2>
+  <p class="note">1–68은 v1 보고서와 번호가 같습니다. 69–76이 이번에 추가됐습니다. † 업계·2차 자료.</p>
+  <ol class="src">
+    <li id="src1">Bundesnetzagentur, Dynamische Stromtarife — https://www.bundesnetzagentur.de/DE/Vportal/Energie/Vertragsarten/DynStromtarife/start.html</li>
+    <li id="src2">Bundesnetzagentur, §14a — https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/start.html</li>
+    <li id="src3">Utility Partners † — https://www.utility-partners.de/der-weg-zum-massenfaehigen-steuerungsrollout-ist-noch-lang/</li>
+    <li id="src4">Verivox(blackout-news) † — https://blackout-news.de/en/news/dynamic-electricity-tariffs-more-expensive-than-fixed-price-plans-despite-consumption-optimization/</li>
+    <li id="src5">pv magazine, Solarspitzengesetz — https://www.pv-magazine.com/2025/02/17/germany-introduces-new-rules-for-solar-remuneration-during-negative-prices/</li>
+    <li id="src6">pv magazine, 독일 배터리 2025 — https://www.pv-magazine.com/2026/01/12/germany-adds-6-57-gwh-of-battery-storage-in-2025-total-hits-24-gwh/ · https://www.pv-magazine.de/2026/01/06/weniger-neue-batteriespeicher-2025-installiert-aber-mit-mehr-kapazitaet/</li>
+    <li id="src7">독일 HP 2025 — https://www.renewable-energy-industry.com/news/world/article-7202-space-heating-heat-pumps-2025-in-germany-sales-rise-by-55-percent-industry-demands-clear-rules-in-the-building-energy-act</li>
+    <li id="src8">The Mobility House, V2G — https://www.mobilityhouse.com/int_en/our-company/newsroom/article/german-parliament-removes-key-barrier-to-bidirectional-charging-vehicle-to-grid-becomes-possible</li>
+    <li id="src9">heatload † — https://heatload.ing/hems-integration-2026-warmepumpe-und-pv-mit-eebus-sg-ready-und-modbus-vernetzen</li>
+    <li id="src10">Vattenfall, §14a — https://www.vattenfall.de/steuerbare-verbrauchseinrichtungen-14a-enwg</li>
+    <li id="src11">Eurostat — https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260505-1</li>
+    <li id="src12">Ofgem price cap — https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges</li>
+    <li id="src13">Ofgem 2025 flexibility survey — https://www.ofgem.gov.uk/research/tracking-energy-consumers-use-low-carbon-and-flexible-products-and-services-2025</li>
+    <li id="src14">GOV.UK HP stats June 2026 — https://www.gov.uk/government/statistics/heat-pump-deployment-statistics-june-2026/heat-pump-deployment-statistics-june-2026-summary</li>
+    <li id="src15">MCS Foundation — https://mcsfoundation.org.uk/news/heat-pump-skills-competition-puts-uk-warm-homes-ambition-at-risk-warns-new-report/</li>
+    <li id="src16">Elexon MHHS — https://www.elexon.co.uk/bsc/operational/market-wide-half-hourly-settlement/</li>
+    <li id="src17">NESO DFS — https://www.neso.energy/industry-information/balancing-services/demand-flexibility-service-dfs</li>
+    <li id="src18">Fuse Energy † — https://www.fuseenergy.com/blog/plug-in-solar-legislation</li>
+    <li id="src19">Kraken 2GW — https://www.evinfrastructurenews.com/ev-technology/ai-powered-vpp-kraken-reaches-2gw-managed-domestic-assets</li>
+    <li id="src20">Reonic G100 † — https://reonic.com/en-gb/blog/g100-export-limitation/</li>
+    <li id="src21">Enedis — https://www.enedis.fr/presse/enedis-met-en-oeuvre-la-reforme-des-heures-creuses-pour-accompagner-les-nouveaux-usages-lies</li>
+    <li id="src22">photovoltaique.info — https://www.photovoltaique.info/fr/tarifs-dachat-et-autoconsommation/tarifs-dachat/arrete-tarifaire-en-vigueur/tarifs-de-vente-et-primes-autoconsommation-100kwc/</li>
+    <li id="src23">Selectra Linky † — https://en.selectra.info/energy-france/guides/electricity/linky</li>
+    <li id="src24">CAPEB — https://www.capeb.fr/actualites/suspension-du-dispositif-maprimerenov-au-1er-janvier-2026-usnchl</li>
+    <li id="src25">Rijksoverheid — https://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur/energie-thuis/salderingsregeling</li>
+    <li id="src26">ENTSO-E Iberian report — https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/2025/iberian-blackout/Final%20Report%20on%20the%20Grid%20Incident%20in%20Spain%20and%20Portugal%20on%2028%20April%202025.pdf</li>
+    <li id="src27">The Local Italy — https://www.thelocal.it/20260917/why-are-italys-electricity-prices-among-the-highest-in-europe</li>
+    <li id="src28">SolarPower Europe — https://www.solarpowereurope.org/press-releases/new-report-eu-installs-27-1-g-wh-of-new-batteries-in-2025-as-utility-scale-storage-drives-record-growth</li>
+    <li id="src29">European Commission EMD — https://energy.ec.europa.eu/news/electricity-market-design-deadline-transposing-new-rules-national-law-2025-01-17_en</li>
+    <li id="src30">IEA Electricity 2026 — https://www.iea.org/reports/electricity-2026/flexibility</li>
+    <li id="src31">CPUC NBT — https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/nem-revisit/net-billing-tariff</li>
+    <li id="src32">Solar.com PG&amp;E † — https://www.solar.com/learn/pge-electric-rates/</li>
+    <li id="src33">Brattle VPP — https://www.brattle.com/wp-content/uploads/2025/08/Assessing-VPP-Performance-Impacts-of-a-Test-Event-in-California-1.pdf</li>
+    <li id="src34">pv magazine USA DSGS — https://pv-magazine-usa.com/2025/09/15/california-cuts-funding-for-nations-largest-virtual-power-plant/</li>
+    <li id="src35">SEIA OBBB — https://seia.org/research-resources/clean-energy-provisions-big-beautiful-bill/</li>
+    <li id="src36">ACEEE panel survey — https://www.aceee.org/sites/default/files/proceedings/ssb24/pdfs/A%20Comprehensive%20Survey%20of%20Electrical%20Panel%20Capacities%20in%20U.S.%20Single-Family%20Homes%20and%20Implications%20for%20Nationwide%20Electrification.pdf</li>
+    <li id="src37">Solar Builder † — https://solarbuildermag.com/energy-storage/soft-costs-get-lost-keeping-residential-storage-installations-profitable/</li>
+    <li id="src38">US DOE VPP Liftoff 2025 — https://liftoff.energy.gov/wp-content/uploads/2025/01/LIFTOFF_DOE_VirtualPowerPlants2025Update.pdf</li>
+    <li id="src39">Utility Dive / EIA — https://www.utilitydive.com/news/data-centers-electricity-residential-rates-eia/820342/</li>
+    <li id="src40">Utility Dive Tesla ERCOT — https://www.utilitydive.com/news/tesla-virtual-power-plants-vpp-ercot-puc-texas-grid/691713/</li>
+    <li id="src41">Texas Tribune Beryl — https://www.texastribune.org/2024/07/25/texas-power-grid-puc-centerpoint-hurricane-beryl</li>
+    <li id="src42">Electrek Tesla lease — https://electrek.co/2026/08/13/tesla-powerwall-backup-lease-tesla-electric-texas/</li>
+    <li id="src43">Texas Energy Fund TBPP — https://www.txenergyfund.texas.gov/TBPP</li>
+    <li id="src44">DEWA slab tariff — https://www.dewa.gov.ae/en/consumer/billing/slab-tariff</li>
+    <li id="src45">SurgePV Shams Dubai † — https://www.surgepv.com/solar-compliance/uae/guides/dewa-shams-dubai</li>
+    <li id="src46">Dubai DSM 2050 — https://dubaisce.gov.ae/en/dsmstrategy2050/</li>
+    <li id="src47">SERA tariff — https://www.sera.gov.sa/en/consumer/electric-tariff/electric-tariff-categories/consumption-tariff</li>
+    <li id="src48">ScienceDirect 2025 사우디 · vision2030.ai † — https://www.sciencedirect.com/science/article/abs/pii/S0957178725000852 · https://vision2030.ai/encyclopedia/saudi-arabia-electricity-consumption/</li>
+    <li id="src49">Kahramaa BeSolar — https://www.km.qa/RenewableEnergy/Pages/BeSolar.aspx</li>
+    <li id="src50">1KOMMA5 1GW — https://www.ess-news.com/2026/05/21/1komma5-achieves-1-gw-of-shiftable-load-with-its-virtual-power-plant-globally/</li>
+    <li id="src51">Tesla Storm Watch — https://www.tesla.com/support/energy/powerwall/mobile-app/storm-watch</li>
+    <li id="src52">Canary Media SPAN — https://www.canarymedia.com/articles/electrification/span-edge-smart-panel-utility-meter</li>
+    <li id="src53">Enphase IQ EM — https://investor.enphase.com/news-releases/news-release-details/enphase-energy-launches-iq-energy-management-australia-and-new</li>
+    <li id="src54">pv Europe Huawei — https://www.pveurope.eu/planning/huawei-fusionsolar-rebrands-emma-smart-assistant</li>
+    <li id="src55">Samsung SmartThings Energy — https://partners.smartthings.com/press-release/new-smartthings-energy-features-take-home-energy-management-to-next-level</li>
+    <li id="src56">Schneider Wiser — https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-launches-ai-powered-home-energy-management-feature-for-wiser-home-66d6bac4d6b0eff3580dc113/</li>
+    <li id="src57">sonnen VPP — https://sonnengroup.com/press/europes-largest-vpp/</li>
+    <li id="src58">CSA Matter 1.4 — https://csa-iot.org/newsroom/matter-1-4-enables-more-capable-smart-homes/</li>
+    <li id="src59">Smart thermostat review (ScienceDirect) — https://www.sciencedirect.com/science/article/pii/S2666792425000307</li>
+    <li id="src60">POWER Voltus–Octopus — https://www.powermag.com/flexibility-as-a-service-gains-u-s-foothold-with-new-voltus-octopus-partnership/</li>
+    <li id="src61">Sigenergy — https://www.sigenergy.com/en/products/sigenstor</li>
+    <li id="src62">DOE review (Applied Energy) — https://www.sciencedirect.com/science/article/pii/S030626192600824X</li>
+    <li id="src63">Mitsubishi Electric §14a — https://www.mitsubishi-les.com/en-de/knowledge/section-14-a-enwg-and-its-significance-21120.html</li>
+    <li id="src64">EcoFlow OCEAN Pro — https://energy.ecoflow.com/us/products/ocean-pro-home-solar-battery</li>
+    <li id="src65">gridX † — https://www.gridx.ai/knowledge/what-is-net-metering-in-the-netherlands-salderingsregeling</li>
+    <li id="src66">CPUC Rule 21 — https://www.cpuc.ca.gov/Rule21/</li>
+    <li id="src67">Carbon Brief Warm Homes Plan — https://www.carbonbrief.org/qa-what-uks-warm-homes-plan-means-for-climate-change-and-energy-bills</li>
+    <li id="src68">TPPF Uri — https://www.texaspolicy.com/fool-me-twice-why-the-texas-grid-is-still-vulnerable-to-winter-storms/</li>
+    <li id="src69">ERCOT Market Notice M-A030226-01, ADER 한도 변경 — https://www.ercot.com/services/comm/mkt_notices/M-A030226-01</li>
+    <li id="src70">GASTAT, Household Energy Statistics 2024 — https://www.stats.gov.sa/en/w/news/125</li>
+    <li id="src71">Santé publique France, Summer 2025 review — https://www.santepubliquefrance.fr/en/climat/fortes-chaleurs-canicule/national-bulletin/heat-and-health-a-review-summer-2025</li>
+    <li id="src72">Ofgem FANZ Survey 2025 Main Report — https://www.ofgem.gov.uk/sites/default/files/2026-05/Flexibility-and-Net-Zero-Survey-Findings-Report-2025.pdf</li>
+    <li id="src73">Connexion, 프랑스 폭염 대응 계획 † — https://www.connexionfrance.com/practical/france-heatwave-minister-unveils-plan-to-help-homes-and-cities-cope/796965</li>
+    <li id="src74">Connexion, 공동주택 에어컨 승인 지연 † — https://www.connexionfrance.com/practical/why-does-it-take-so-long-to-get-air-conditioning-approved-for-a-flat-in-france/804681</li>
+    <li id="src75">DEWA Smart Living / Cooling — https://www.dewa.gov.ae/en/consumer/sustainability/sustainability-and-conservation/cooling</li>
+    <li id="src76">Midea H-Pack (MCE 2026) — https://tools.prnewswire.com/en-us/live/20823/release/20260331EN23507</li>
+  </ol>
+</section>
+</div>

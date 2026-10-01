@@ -1,0 +1,687 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/3f4otu",
+    "id": "3f4otu",
+    "slide": 25,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#102A43",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je9sz61w",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "이번 보고에서 결정할 세 가지",
+      "textPreview": "이번 보고에서 결정할 세 가지",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "이번 보고에서 결정할 세 가지"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "이번 보고에서 결정할 세 가지",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "이번 보고에서 결정할 세 가지",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fi9sb2h",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "확인되지 않은 시장규모보다 검증할 고객·기술·중단 기준을 먼저 합의",
+      "textPreview": "확인되지 않은 시장규모보다 검증할 고객·기술·중단 기준을 먼저 합의",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#C5D8E7",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "확인되지 않은 시장규모보다 검증할 고객·기술·중단 기준을 먼저 합의"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "확인되지 않은 시장규모보다 검증할 고객·기술·중단 기준을 먼저 합의",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#C5D8E7"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "확인되지 않은 시장규모보다 검증할 고객·기술·중단 기준을 먼저 합의",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#C5D8E7"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gra1gj2",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "25",
+      "textPreview": "25",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#9BB7CA",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "25"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "25",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#9BB7CA"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "25",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#9BB7CA"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6h0rulkn",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#9BB7CA",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#9BB7CA"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#9BB7CA"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ri9s3q1s",
+      "id": "5",
+      "bbox": [
+        66,
+        224,
+        1135,
+        42
+      ],
+      "geometry": "rect",
+      "text": "집중 범위",
+      "textPreview": "집중 범위",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "fontSize": 29,
+        "typeface": "Malgun Gothic",
+        "color": "#E5BB66",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "집중 범위"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "집중 범위",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Malgun Gothic",
+            "color": "#E5BB66",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "집중 범위",
+              "fontSize": 29,
+              "typeface": "Malgun Gothic",
+              "color": "#E5BB66",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s3i9wv2d",
+      "id": "6",
+      "bbox": [
+        66,
+        272,
+        1135,
+        80
+      ],
+      "geometry": "rect",
+      "text": "독일·영국에서 설치 자동화와 열 유연성을 검증하고 네덜란드는 확장 시장으로 준비",
+      "textPreview": "독일·영국에서 설치 자동화와 열 유연성을 검증하고 네덜란드는 확장 시장으로 준비",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "독일·영국에서 설치 자동화와 열 유연성을 검증하고 네덜란드는 확장 시장으로 준비"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "독일·영국에서 설치 자동화와 열 유연성을 검증하고 네덜란드는 확장 시장으로 준비",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "독일·영국에서 설치 자동화와 열 유연성을 검증하고 네덜란드는 확장 시장으로 준비",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t4ra5gjy",
+      "id": "7",
+      "bbox": [
+        66,
+        357,
+        1135,
+        42
+      ],
+      "geometry": "rect",
+      "text": "투입 조건",
+      "textPreview": "투입 조건",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "fontSize": 29,
+        "typeface": "Malgun Gothic",
+        "color": "#E5BB66",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "투입 조건"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "투입 조건",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Malgun Gothic",
+            "color": "#E5BB66",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "투입 조건",
+              "fontSize": 29,
+              "typeface": "Malgun Gothic",
+              "color": "#E5BB66",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e50rylkj",
+      "id": "8",
+      "bbox": [
+        66,
+        405,
+        1135,
+        80
+      ],
+      "geometry": "rect",
+      "text": "7명 역할 배치, 제품 API·실측 데이터 접근, 현지 실증 파트너 확보",
+      "textPreview": "7명 역할 배치, 제품 API·실측 데이터 접근, 현지 실증 파트너 확보",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "7명 역할 배치, 제품 API·실측 데이터 접근, 현지 실증 파트너 확보"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "7명 역할 배치, 제품 API·실측 데이터 접근, 현지 실증 파트너 확보",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "7명 역할 배치, 제품 API·실측 데이터 접근, 현지 실증 파트너 확보",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6ts7q14",
+      "id": "9",
+      "bbox": [
+        66,
+        490,
+        1135,
+        42
+      ],
+      "geometry": "rect",
+      "text": "12주 뒤 판단",
+      "textPreview": "12주 뒤 판단",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "fontSize": 29,
+        "typeface": "Malgun Gothic",
+        "color": "#E5BB66",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "12주 뒤 판단"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "12주 뒤 판단",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Malgun Gothic",
+            "color": "#E5BB66",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "12주 뒤 판단",
+              "fontSize": 29,
+              "typeface": "Malgun Gothic",
+              "color": "#E5BB66",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jil4by9g",
+      "id": "10",
+      "bbox": [
+        66,
+        538,
+        1135,
+        80
+      ],
+      "geometry": "rect",
+      "text": "유료 구매 의향·설치 공수·추가 순편익으로 확대 또는 축소를 결정",
+      "textPreview": "유료 구매 의향·설치 공수·추가 순편익으로 확대 또는 축소를 결정",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "Malgun Gothic",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "유료 구매 의향·설치 공수·추가 순편익으로 확대 또는 축소를 결정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "유료 구매 의향·설치 공수·추가 순편익으로 확대 또는 축소를 결정",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Malgun Gothic",
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "유료 구매 의향·설치 공수·추가 순편익으로 확대 또는 축소를 결정",
+              "fontSize": 26,
+              "typeface": "Malgun Gothic",
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

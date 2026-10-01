@@ -1,0 +1,978 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/tfwkd6",
+    "id": "tfwkd6",
+    "slide": 12,
+    "layoutId": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FAFBF8",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "5f60df25-f0aa-462b-b840-bfc614ef5571",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "cf12db51-0aff-4a97-a422-dd8399522b9c",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orep4z2p",
+      "id": "1",
+      "bbox": [
+        64,
+        43,
+        1150,
+        102
+      ],
+      "geometry": "rect",
+      "text": "전력 허브도 대체 제품과 인증 경로가 존재한다",
+      "textPreview": "전력 허브도 대체 제품과 인증 경로가 존재한다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#142E42",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "전력 허브도 대체 제품과 인증 경로가 존재한다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "전력 허브도 대체 제품과 인증 경로가 존재한다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#142E42",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "전력 허브도 대체 제품과 인증 경로가 존재한다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#142E42",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nq5obul4",
+      "id": "2",
+      "bbox": [
+        66,
+        151,
+        1146,
+        62
+      ],
+      "geometry": "rect",
+      "text": "하드웨어 사업은 독자 개발보다 기존 제품 대비 추가 가치 검증이 먼저다",
+      "textPreview": "하드웨어 사업은 독자 개발보다 기존 제품 대비 추가 가치 검증이 먼저다",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "하드웨어 사업은 독자 개발보다 기존 제품 대비 추가 가치 검증이 먼저다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "하드웨어 사업은 독자 개발보다 기존 제품 대비 추가 가치 검증이 먼저다",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "하드웨어 사업은 독자 개발보다 기존 제품 대비 추가 가치 검증이 먼저다",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mpwn2pkj",
+      "id": "3",
+      "bbox": [
+        1158,
+        676,
+        64,
+        24
+      ],
+      "geometry": "rect",
+      "text": "12",
+      "textPreview": "12",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "12"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "12",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "12",
+              "fontSize": 16,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xwn6ho36",
+      "id": "4",
+      "bbox": [
+        66,
+        676,
+        1050,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Energy Pack 2027–2030  /  2026.09.30",
+      "textPreview": "Energy Pack 2027–2030  /  2026.09.30",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Energy Pack 2027–2030  /  2026.09.30"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Energy Pack 2027–2030  /  2026.09.30",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Energy Pack 2027–2030  /  2026.09.30",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvep8j21",
+      "id": "5",
+      "bbox": [
+        66,
+        626,
+        1150,
+        48
+      ],
+      "geometry": "rect",
+      "text": "근거  R20 SPAN · R21 ConnectDER · R22 UL Solutions · R23 ENA",
+      "textPreview": "근거  R20 SPAN · R21 ConnectDER · R22 UL Solutions · R23 ENA",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#5A6D77",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "근거  R20 SPAN · R21 ConnectDER · R22 UL Solutions · R23 ENA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "근거  R20 SPAN · R21 ConnectDER · R22 UL Solutions · R23 ENA",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#5A6D77"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "근거  R20 SPAN · R21 ConnectDER · R22 UL Solutions · R23 ENA",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#5A6D77"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/etsfux4v",
+      "id": "6",
+      "bbox": [
+        66,
+        223,
+        1148,
+        352
+      ],
+      "text": "비교 대상 | 이미 제공하는 역할 | 우리가 검증할 추가 가치\nSPAN | 회로별 제어·백업 부하 우선순위\n조건에 맞는 전력 증설 회피 | 온도·급탕·EV 출발시간까지 반영한\n부하 배분이 추가 편익을 주는가?\nConnectDER | 계량기 소켓 어댑터를 통한\n설비 접속 구조 단순화 | 현장 공사비가 문제인지\n운영 제약이 문제인지 구분\nUL PCS / 영국 G100 | 전력 제한·고장 시 동작을 다루는\n평가·적합성 경로 | 국가·설비별 시험 범위와\n인증 파트너 비용을 확보",
+      "textPreview": "비교 대상 | 이미 제공하는 역할 | 우리가 검증할 추가 가치 | SPAN | 회로별 제어·백업 부하 우선순위 | 조건에 맞는 전력 증설 회피 | 온도·급탕·EV 출발시간까지 반영한 | 부하 배분이 추가 편익을 주는가? | ConnectDER |...",
+      "rows": 4,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            66,
+            223,
+            272,
+            88
+          ],
+          "text": "비교 대상",
+          "textPreview": "비교 대상",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "비교 대상",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "비교 대상",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            338,
+            223,
+            456,
+            88
+          ],
+          "text": "이미 제공하는 역할",
+          "textPreview": "이미 제공하는 역할",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "이미 제공하는 역할",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "이미 제공하는 역할",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            794,
+            223,
+            420,
+            88
+          ],
+          "text": "우리가 검증할 추가 가치",
+          "textPreview": "우리가 검증할 추가 가치",
+          "fillColor": "#112A3A",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "우리가 검증할 추가 가치",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "우리가 검증할 추가 가치",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            66,
+            311,
+            272,
+            88
+          ],
+          "text": "SPAN",
+          "textPreview": "SPAN",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "SPAN",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "SPAN",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            338,
+            311,
+            456,
+            88
+          ],
+          "text": "회로별 제어·백업 부하 우선순위\n조건에 맞는 전력 증설 회피",
+          "textPreview": "회로별 제어·백업 부하 우선순위 | 조건에 맞는 전력 증설 회피",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "회로별 제어·백업 부하 우선순위",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "회로별 제어·백업 부하 우선순위",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "조건에 맞는 전력 증설 회피",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "조건에 맞는 전력 증설 회피",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            794,
+            311,
+            420,
+            88
+          ],
+          "text": "온도·급탕·EV 출발시간까지 반영한\n부하 배분이 추가 편익을 주는가?",
+          "textPreview": "온도·급탕·EV 출발시간까지 반영한 | 부하 배분이 추가 편익을 주는가?",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "온도·급탕·EV 출발시간까지 반영한",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "온도·급탕·EV 출발시간까지 반영한",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "부하 배분이 추가 편익을 주는가?",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "부하 배분이 추가 편익을 주는가?",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            66,
+            399,
+            272,
+            88
+          ],
+          "text": "ConnectDER",
+          "textPreview": "ConnectDER",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "ConnectDER",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "ConnectDER",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            338,
+            399,
+            456,
+            88
+          ],
+          "text": "계량기 소켓 어댑터를 통한\n설비 접속 구조 단순화",
+          "textPreview": "계량기 소켓 어댑터를 통한 | 설비 접속 구조 단순화",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "계량기 소켓 어댑터를 통한",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "계량기 소켓 어댑터를 통한",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "설비 접속 구조 단순화",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "설비 접속 구조 단순화",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            794,
+            399,
+            420,
+            88
+          ],
+          "text": "현장 공사비가 문제인지\n운영 제약이 문제인지 구분",
+          "textPreview": "현장 공사비가 문제인지 | 운영 제약이 문제인지 구분",
+          "fillColor": "#EEF3EF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "현장 공사비가 문제인지",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "현장 공사비가 문제인지",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "운영 제약이 문제인지 구분",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "운영 제약이 문제인지 구분",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            66,
+            487,
+            272,
+            88
+          ],
+          "text": "UL PCS / 영국 G100",
+          "textPreview": "UL PCS / 영국 G100",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "UL PCS / 영국 G100",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "UL PCS / 영국 G100",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            338,
+            487,
+            456,
+            88
+          ],
+          "text": "전력 제한·고장 시 동작을 다루는\n평가·적합성 경로",
+          "textPreview": "전력 제한·고장 시 동작을 다루는 | 평가·적합성 경로",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "전력 제한·고장 시 동작을 다루는",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "전력 제한·고장 시 동작을 다루는",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "평가·적합성 경로",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "평가·적합성 경로",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            794,
+            487,
+            420,
+            88
+          ],
+          "text": "국가·설비별 시험 범위와\n인증 파트너 비용을 확보",
+          "textPreview": "국가·설비별 시험 범위와 | 인증 파트너 비용을 확보",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "국가·설비별 시험 범위와",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "국가·설비별 시험 범위와",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "인증 파트너 비용을 확보",
+              "resolvedTextStyle": {
+                "fontSize": 25,
+                "typeface": "Malgun Gothic",
+                "color": "#142E42"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "인증 파트너 비용을 확보",
+                  "fontSize": 25,
+                  "typeface": "Malgun Gothic",
+                  "color": "#142E42"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atw769kv",
+      "id": "7",
+      "bbox": [
+        69,
+        588,
+        1110,
+        35
+      ],
+      "geometry": "rect",
+      "text": "백업 제어·증설 회피가 미개척이라는 전제로 신규 배전반을 개발하면 차별성이 약하다.",
+      "textPreview": "백업 제어·증설 회피가 미개척이라는 전제로 신규 배전반을 개발하면 차별성이 약하다.",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "Malgun Gothic",
+        "color": "#007B74",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "백업 제어·증설 회피가 미개척이라는 전제로 신규 배전반을 개발하면 차별성이 약하다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "백업 제어·증설 회피가 미개척이라는 전제로 신규 배전반을 개발하면 차별성이 약하다.",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Malgun Gothic",
+            "color": "#007B74",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "백업 제어·증설 회피가 미개척이라는 전제로 신규 배전반을 개발하면 차별성이 약하다.",
+              "fontSize": 23,
+              "typeface": "Malgun Gothic",
+              "color": "#007B74",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

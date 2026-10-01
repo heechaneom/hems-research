@@ -1,0 +1,908 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/5jzt2q",
+    "id": "5jzt2q",
+    "slide": 11,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/md47qpsv",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "경쟁 제품이 이미 제공하는 기능",
+      "textPreview": "경쟁 제품이 이미 제공하는 기능",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "경쟁 제품이 이미 제공하는 기능"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "경쟁 제품이 이미 제공하는 기능",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "경쟁 제품이 이미 제공하는 기능",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gfq1krm",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "자동운전·동적요금·전력 허브라는 이름만으로 신기술을 주장하기 어렵다",
+      "textPreview": "자동운전·동적요금·전력 허브라는 이름만으로 신기술을 주장하기 어렵다",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "자동운전·동적요금·전력 허브라는 이름만으로 신기술을 주장하기 어렵다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "자동운전·동적요금·전력 허브라는 이름만으로 신기술을 주장하기 어렵다",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "자동운전·동적요금·전력 허브라는 이름만으로 신기술을 주장하기 어렵다",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/of6psfa1",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "11",
+      "textPreview": "11",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "11"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "11",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "11",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bix83u9s",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/zylwjepg",
+      "id": "5",
+      "bbox": [
+        64,
+        216,
+        1152,
+        365
+      ],
+      "text": "경쟁 대안 | 공식 제품에서 확인한 기능 | 우리의 추가 검증 과제\nSMA Home Manager | PV·배터리·HP·EV 및 요금 연동 | 혼합 기기 설치시간·재방문 감소\nTesla Powerwall | 시간대별 가격 기반 충·방전 | 냉난방 포함 추가 순편익\nOctopus Heat Pump | 요금·전력망을 반영한 난방 운전 | 타 기기 조합에서의 성능·채널\nSchneider Home | 패널·태양광·배터리·충전 통합 | 기존주택 개조 비용·설치 범위",
+      "textPreview": "경쟁 대안 | 공식 제품에서 확인한 기능 | 우리의 추가 검증 과제 | SMA Home Manager | PV·배터리·HP·EV 및 요금 연동 | 혼합 기기 설치시간·재방문 감소 | Tesla Powerwall | 시간대별 가격 기반 충·방전 |...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            216,
+            280,
+            73
+          ],
+          "text": "경쟁 대안",
+          "textPreview": "경쟁 대안",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "경쟁 대안",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "경쟁 대안",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            344,
+            216,
+            440,
+            73
+          ],
+          "text": "공식 제품에서 확인한 기능",
+          "textPreview": "공식 제품에서 확인한 기능",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "공식 제품에서 확인한 기능",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "공식 제품에서 확인한 기능",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            784,
+            216,
+            432,
+            73
+          ],
+          "text": "우리의 추가 검증 과제",
+          "textPreview": "우리의 추가 검증 과제",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "우리의 추가 검증 과제",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "우리의 추가 검증 과제",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            289,
+            280,
+            73
+          ],
+          "text": "SMA Home Manager",
+          "textPreview": "SMA Home Manager",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "SMA Home Manager",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "SMA Home Manager",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            344,
+            289,
+            440,
+            73
+          ],
+          "text": "PV·배터리·HP·EV 및 요금 연동",
+          "textPreview": "PV·배터리·HP·EV 및 요금 연동",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "PV·배터리·HP·EV 및 요금 연동",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "PV·배터리·HP·EV 및 요금 연동",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            784,
+            289,
+            432,
+            73
+          ],
+          "text": "혼합 기기 설치시간·재방문 감소",
+          "textPreview": "혼합 기기 설치시간·재방문 감소",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "혼합 기기 설치시간·재방문 감소",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "혼합 기기 설치시간·재방문 감소",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            362,
+            280,
+            73
+          ],
+          "text": "Tesla Powerwall",
+          "textPreview": "Tesla Powerwall",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Tesla Powerwall",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Tesla Powerwall",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            344,
+            362,
+            440,
+            73
+          ],
+          "text": "시간대별 가격 기반 충·방전",
+          "textPreview": "시간대별 가격 기반 충·방전",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "시간대별 가격 기반 충·방전",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "시간대별 가격 기반 충·방전",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            784,
+            362,
+            432,
+            73
+          ],
+          "text": "냉난방 포함 추가 순편익",
+          "textPreview": "냉난방 포함 추가 순편익",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "냉난방 포함 추가 순편익",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "냉난방 포함 추가 순편익",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            435,
+            280,
+            73
+          ],
+          "text": "Octopus Heat Pump",
+          "textPreview": "Octopus Heat Pump",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Octopus Heat Pump",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Octopus Heat Pump",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            344,
+            435,
+            440,
+            73
+          ],
+          "text": "요금·전력망을 반영한 난방 운전",
+          "textPreview": "요금·전력망을 반영한 난방 운전",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "요금·전력망을 반영한 난방 운전",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "요금·전력망을 반영한 난방 운전",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            784,
+            435,
+            432,
+            73
+          ],
+          "text": "타 기기 조합에서의 성능·채널",
+          "textPreview": "타 기기 조합에서의 성능·채널",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "타 기기 조합에서의 성능·채널",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "타 기기 조합에서의 성능·채널",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            508,
+            280,
+            73
+          ],
+          "text": "Schneider Home",
+          "textPreview": "Schneider Home",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "Schneider Home",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "Schneider Home",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            344,
+            508,
+            440,
+            73
+          ],
+          "text": "패널·태양광·배터리·충전 통합",
+          "textPreview": "패널·태양광·배터리·충전 통합",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "패널·태양광·배터리·충전 통합",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "패널·태양광·배터리·충전 통합",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            784,
+            508,
+            432,
+            73
+          ],
+          "text": "기존주택 개조 비용·설치 범위",
+          "textPreview": "기존주택 개조 비용·설치 범위",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기존주택 개조 비용·설치 범위",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기존주택 개조 비용·설치 범위",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkfq54ri",
+      "id": "6",
+      "bbox": [
+        66,
+        622,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "제품별 국가·모델·연동 조건이 다름. 경쟁사에 해당 기능이 없다고 단정하지 않고 동일 조건 실측으로 비교.",
+      "textPreview": "제품별 국가·모델·연동 조건이 다름. 경쟁사에 해당 기능이 없다고 단정하지 않고 동일 조건 실측으로 비교.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "제품별 국가·모델·연동 조건이 다름. 경쟁사에 해당 기능이 없다고 단정하지 않고 동일 조건 실측으로 비교."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "제품별 국가·모델·연동 조건이 다름. 경쟁사에 해당 기능이 없다고 단정하지 않고 동일 조건 실측으로 비교.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "제품별 국가·모델·연동 조건이 다름. 경쟁사에 해당 기능이 없다고 단정하지 않고 동일 조건 실측으로 비교.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

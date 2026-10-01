@@ -1,0 +1,1144 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/t0sxgf",
+    "id": "t0sxgf",
+    "slide": 21,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gne10ryx",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "기준안은 연구개발비까지 회수하지 못한다",
+      "textPreview": "기준안은 연구개발비까지 회수하지 못한다",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "기준안은 연구개발비까지 회수하지 못한다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "기준안은 연구개발비까지 회수하지 못한다",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기준안은 연구개발비까지 회수하지 못한다",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vm50rmhc",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "물량 확대·원가 절감·기존 제품 사업 기여 중 최소 하나를 입증해야 지속 가능",
+      "textPreview": "물량 확대·원가 절감·기존 제품 사업 기여 중 최소 하나를 입증해야 지속 가능",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "물량 확대·원가 절감·기존 제품 사업 기여 중 최소 하나를 입증해야 지속 가능"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "물량 확대·원가 절감·기존 제품 사업 기여 중 최소 하나를 입증해야 지속 가능",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "물량 확대·원가 절감·기존 제품 사업 기여 중 최소 하나를 입증해야 지속 가능",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ulcjyhgr",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "21",
+      "textPreview": "21",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "21"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "21",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "21",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tk3ipwzm",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/d4bulsn6",
+      "id": "5",
+      "bbox": [
+        64,
+        216,
+        1152,
+        327
+      ],
+      "text": "2028년 가정 | 보수안 | 기준안 | 확장안\n신규 설치 | 3,000호 | 10,000호 | 30,000호\n증분 매출 | 9.54억원 | 31.80억원 | 95.40억원\n변동비 차감 후 기여이익 | 3.06억원 | 10.20억원 | 30.60억원\n가정 고정비 12.5억원 차감 | −9.44억원 | −2.30억원 | 18.10억원",
+      "textPreview": "2028년 가정 | 보수안 | 기준안 | 확장안 | 신규 설치 | 3,000호 | 10,000호 | 30,000호 | 증분 매출 | 9.54억원 | 31.80억원 | 95.40억원 | 변동비 차감 후 기여이익 | 3.06억원 | 10.20억원 |...",
+      "rows": 5,
+      "cols": 4,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            216,
+            440,
+            65.4
+          ],
+          "text": "2028년 가정",
+          "textPreview": "2028년 가정",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "2028년 가정",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "2028년 가정",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            504,
+            216,
+            238,
+            65.4
+          ],
+          "text": "보수안",
+          "textPreview": "보수안",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "보수안",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "보수안",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            742,
+            216,
+            237,
+            65.4
+          ],
+          "text": "기준안",
+          "textPreview": "기준안",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기준안",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기준안",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            979,
+            216,
+            237,
+            65.4
+          ],
+          "text": "확장안",
+          "textPreview": "확장안",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "확장안",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "확장안",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            281.4,
+            440,
+            65.4
+          ],
+          "text": "신규 설치",
+          "textPreview": "신규 설치",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "신규 설치",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "신규 설치",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            504,
+            281.4,
+            238,
+            65.4
+          ],
+          "text": "3,000호",
+          "textPreview": "3,000호",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3,000호",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3,000호",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            742,
+            281.4,
+            237,
+            65.4
+          ],
+          "text": "10,000호",
+          "textPreview": "10,000호",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10,000호",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10,000호",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            979,
+            281.4,
+            237,
+            65.4
+          ],
+          "text": "30,000호",
+          "textPreview": "30,000호",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "30,000호",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "30,000호",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            346.8,
+            440,
+            65.4
+          ],
+          "text": "증분 매출",
+          "textPreview": "증분 매출",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "증분 매출",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "증분 매출",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            504,
+            346.8,
+            238,
+            65.4
+          ],
+          "text": "9.54억원",
+          "textPreview": "9.54억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9.54억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9.54억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            742,
+            346.8,
+            237,
+            65.4
+          ],
+          "text": "31.80억원",
+          "textPreview": "31.80억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "31.80억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "31.80억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            979,
+            346.8,
+            237,
+            65.4
+          ],
+          "text": "95.40억원",
+          "textPreview": "95.40억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "95.40억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "95.40억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            412.2,
+            440,
+            65.4
+          ],
+          "text": "변동비 차감 후 기여이익",
+          "textPreview": "변동비 차감 후 기여이익",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "변동비 차감 후 기여이익",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "변동비 차감 후 기여이익",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            504,
+            412.2,
+            238,
+            65.4
+          ],
+          "text": "3.06억원",
+          "textPreview": "3.06억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3.06억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3.06억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            742,
+            412.2,
+            237,
+            65.4
+          ],
+          "text": "10.20억원",
+          "textPreview": "10.20억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10.20억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10.20억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            979,
+            412.2,
+            237,
+            65.4
+          ],
+          "text": "30.60억원",
+          "textPreview": "30.60억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "30.60억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "30.60억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            477.6,
+            440,
+            65.4
+          ],
+          "text": "가정 고정비 12.5억원 차감",
+          "textPreview": "가정 고정비 12.5억원 차감",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "가정 고정비 12.5억원 차감",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "가정 고정비 12.5억원 차감",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            504,
+            477.6,
+            238,
+            65.4
+          ],
+          "text": "−9.44억원",
+          "textPreview": "−9.44억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "−9.44억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "−9.44억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            742,
+            477.6,
+            237,
+            65.4
+          ],
+          "text": "−2.30억원",
+          "textPreview": "−2.30억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "−2.30억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "−2.30억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            979,
+            477.6,
+            237,
+            65.4
+          ],
+          "text": "18.10억원",
+          "textPreview": "18.10억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "18.10억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "18.10억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7il0nmhg",
+      "id": "6",
+      "bbox": [
+        68,
+        571,
+        1135,
+        46
+      ],
+      "geometry": "rect",
+      "text": "같은 가정의 손익분기: 연간 약 1.23만 호",
+      "textPreview": "같은 가정의 손익분기: 연간 약 1.23만 호",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "fontSize": 30,
+        "typeface": "Malgun Gothic",
+        "color": "#007F78",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "같은 가정의 손익분기: 연간 약 1.23만 호"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "같은 가정의 손익분기: 연간 약 1.23만 호",
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Malgun Gothic",
+            "color": "#007F78",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "같은 가정의 손익분기: 연간 약 1.23만 호",
+              "fontSize": 30,
+              "typeface": "Malgun Gothic",
+              "color": "#007F78",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hczuh0v",
+      "id": "7",
+      "bbox": [
+        66,
+        624,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "모듈 변동비 21만원, 운영 변동비 연 1.2만원/호. 고정비: 7명×1.5억원+외부 실증·인증 2억원.",
+      "textPreview": "모듈 변동비 21만원, 운영 변동비 연 1.2만원/호. 고정비: 7명×1.5억원+외부 실증·인증 2억원.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "모듈 변동비 21만원, 운영 변동비 연 1.2만원/호. 고정비: 7명×1.5억원+외부 실증·인증 2억원."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "모듈 변동비 21만원, 운영 변동비 연 1.2만원/호. 고정비: 7명×1.5억원+외부 실증·인증 2억원.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "모듈 변동비 21만원, 운영 변동비 연 1.2만원/호. 고정비: 7명×1.5억원+외부 실증·인증 2억원.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

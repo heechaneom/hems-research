@@ -1,0 +1,1252 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/92yn6p",
+    "id": "92yn6p",
+    "slide": 20,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvuto72t",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "2028년 매출 시나리오: 기준안 31.8억원",
+      "textPreview": "2028년 매출 시나리오: 기준안 31.8억원",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2028년 매출 시나리오: 기준안 31.8억원"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2028년 매출 시나리오: 기준안 31.8억원",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2028년 매출 시나리오: 기준안 31.8억원",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zulsf218",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "모든 물량·단가는 작성자 가정. 시장규모 추정이나 회사 사업계획이 아님",
+      "textPreview": "모든 물량·단가는 작성자 가정. 시장규모 추정이나 회사 사업계획이 아님",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "모든 물량·단가는 작성자 가정. 시장규모 추정이나 회사 사업계획이 아님"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "모든 물량·단가는 작성자 가정. 시장규모 추정이나 회사 사업계획이 아님",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "모든 물량·단가는 작성자 가정. 시장규모 추정이나 회사 사업계획이 아님",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytcbmxk3",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "20",
+      "textPreview": "20",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "20"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "20",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "20",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tknulcjq",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/lcn2dcje",
+      "id": "5",
+      "bbox": [
+        64,
+        216,
+        1152,
+        350
+      ],
+      "text": "지역 | 신규 설치 | 모듈 매출 | 운영 매출 | 합계\n독일 | 4,000호 | 12.00억원 | 0.72억원 | 12.72억원\n영국 | 3,000호 | 9.00억원 | 0.54억원 | 9.54억원\n네덜란드 | 3,000호 | 9.00억원 | 0.54억원 | 9.54억원\n합계 | 10,000호 | 30.00억원 | 1.80억원 | 31.80억원",
+      "textPreview": "지역 | 신규 설치 | 모듈 매출 | 운영 매출 | 합계 | 독일 | 4,000호 | 12.00억원 | 0.72억원 | 12.72억원 | 영국 | 3,000호 | 9.00억원 | 0.54억원 | 9.54억원 | 네덜란드 | 3,000호 | 9.0...",
+      "rows": 5,
+      "cols": 5,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            216,
+            265,
+            70
+          ],
+          "text": "지역",
+          "textPreview": "지역",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "지역",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "지역",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            329,
+            216,
+            202,
+            70
+          ],
+          "text": "신규 설치",
+          "textPreview": "신규 설치",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "신규 설치",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "신규 설치",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            531,
+            216,
+            225,
+            70
+          ],
+          "text": "모듈 매출",
+          "textPreview": "모듈 매출",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "모듈 매출",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "모듈 매출",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 1,
+          "column": 4,
+          "bbox": [
+            756,
+            216,
+            230,
+            70
+          ],
+          "text": "운영 매출",
+          "textPreview": "운영 매출",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "운영 매출",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "운영 매출",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 1,
+          "column": 5,
+          "bbox": [
+            986,
+            216,
+            230,
+            70
+          ],
+          "text": "합계",
+          "textPreview": "합계",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "합계",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "합계",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            286,
+            265,
+            70
+          ],
+          "text": "독일",
+          "textPreview": "독일",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "독일",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "독일",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            329,
+            286,
+            202,
+            70
+          ],
+          "text": "4,000호",
+          "textPreview": "4,000호",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "4,000호",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "4,000호",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            531,
+            286,
+            225,
+            70
+          ],
+          "text": "12.00억원",
+          "textPreview": "12.00억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "12.00억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "12.00억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 2,
+          "column": 4,
+          "bbox": [
+            756,
+            286,
+            230,
+            70
+          ],
+          "text": "0.72억원",
+          "textPreview": "0.72억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.72억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.72억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 2,
+          "column": 5,
+          "bbox": [
+            986,
+            286,
+            230,
+            70
+          ],
+          "text": "12.72억원",
+          "textPreview": "12.72억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "12.72억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "12.72억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            356,
+            265,
+            70
+          ],
+          "text": "영국",
+          "textPreview": "영국",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "영국",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "영국",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            329,
+            356,
+            202,
+            70
+          ],
+          "text": "3,000호",
+          "textPreview": "3,000호",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3,000호",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3,000호",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            531,
+            356,
+            225,
+            70
+          ],
+          "text": "9.00억원",
+          "textPreview": "9.00억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9.00억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9.00억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 3,
+          "column": 4,
+          "bbox": [
+            756,
+            356,
+            230,
+            70
+          ],
+          "text": "0.54억원",
+          "textPreview": "0.54억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.54억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.54억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 3,
+          "column": 5,
+          "bbox": [
+            986,
+            356,
+            230,
+            70
+          ],
+          "text": "9.54억원",
+          "textPreview": "9.54억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9.54억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9.54억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 16,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            426,
+            265,
+            70
+          ],
+          "text": "네덜란드",
+          "textPreview": "네덜란드",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "네덜란드",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "네덜란드",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 17,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            329,
+            426,
+            202,
+            70
+          ],
+          "text": "3,000호",
+          "textPreview": "3,000호",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "3,000호",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "3,000호",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 18,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            531,
+            426,
+            225,
+            70
+          ],
+          "text": "9.00억원",
+          "textPreview": "9.00억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9.00억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9.00억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 19,
+          "row": 4,
+          "column": 4,
+          "bbox": [
+            756,
+            426,
+            230,
+            70
+          ],
+          "text": "0.54억원",
+          "textPreview": "0.54억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "0.54억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "0.54억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "row": 4,
+          "column": 5,
+          "bbox": [
+            986,
+            426,
+            230,
+            70
+          ],
+          "text": "9.54억원",
+          "textPreview": "9.54억원",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "9.54억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "9.54억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 21,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            496,
+            265,
+            70
+          ],
+          "text": "합계",
+          "textPreview": "합계",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "합계",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "합계",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 22,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            329,
+            496,
+            202,
+            70
+          ],
+          "text": "10,000호",
+          "textPreview": "10,000호",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "10,000호",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "10,000호",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            531,
+            496,
+            225,
+            70
+          ],
+          "text": "30.00억원",
+          "textPreview": "30.00억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "30.00억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "30.00억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 24,
+          "row": 5,
+          "column": 4,
+          "bbox": [
+            756,
+            496,
+            230,
+            70
+          ],
+          "text": "1.80억원",
+          "textPreview": "1.80억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "1.80억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "1.80억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "row": 5,
+          "column": 5,
+          "bbox": [
+            986,
+            496,
+            230,
+            70
+          ],
+          "text": "31.80억원",
+          "textPreview": "31.80억원",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "31.80억원",
+              "resolvedTextStyle": {
+                "fontSize": 24,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "31.80억원",
+                  "fontSize": 24,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7i5sj21k",
+      "id": "6",
+      "bbox": [
+        66,
+        605,
+        1144,
+        44
+      ],
+      "geometry": "rect",
+      "text": "모듈 30만원/호, 운영 3.6만원/호·년. 연중 균등 설치로 평균 과금 0.5년. Energy Pack 본체 매출 제외.",
+      "textPreview": "모듈 30만원/호, 운영 3.6만원/호·년. 연중 균등 설치로 평균 과금 0.5년. Energy Pack 본체 매출 제외.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "모듈 30만원/호, 운영 3.6만원/호·년. 연중 균등 설치로 평균 과금 0.5년. Energy Pack 본체 매출 제외."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "모듈 30만원/호, 운영 3.6만원/호·년. 연중 균등 설치로 평균 과금 0.5년. Energy Pack 본체 매출 제외.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "모듈 30만원/호, 운영 3.6만원/호·년. 연중 균등 설치로 평균 과금 0.5년. Energy Pack 본체 매출 제외.",
+              "fontSize": 18,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

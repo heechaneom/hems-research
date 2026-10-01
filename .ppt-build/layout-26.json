@@ -1,0 +1,919 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/eq2wme",
+    "id": "eq2wme",
+    "slide": 26,
+    "layoutId": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F5F6F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Malgun Gothic"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "0e279049-d48a-4b1f-aa50-95c0b9e2dd06",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "2d500c3b-7e3a-44e1-aee3-9edc061508df",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z2tor6d0",
+      "id": "1",
+      "bbox": [
+        62,
+        45,
+        1156,
+        94
+      ],
+      "geometry": "rect",
+      "text": "부록: 재사용·지역화·신규 연구 구분",
+      "textPreview": "부록: 재사용·지역화·신규 연구 구분",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "Malgun Gothic",
+        "color": "#17324D",
+        "bold": true,
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "부록: 재사용·지역화·신규 연구 구분"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "부록: 재사용·지역화·신규 연구 구분",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "typeface": "Malgun Gothic",
+            "color": "#17324D",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "부록: 재사용·지역화·신규 연구 구분",
+              "fontSize": 42,
+              "typeface": "Malgun Gothic",
+              "color": "#17324D",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032p0bel",
+      "id": "2",
+      "bbox": [
+        64,
+        143,
+        1150,
+        55
+      ],
+      "geometry": "rect",
+      "text": "Digital Twin과 예측 정확도 개선은 이번 신규 과제의 주제로 선정하지 않음",
+      "textPreview": "Digital Twin과 예측 정확도 개선은 이번 신규 과제의 주제로 선정하지 않음",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Digital Twin과 예측 정확도 개선은 이번 신규 과제의 주제로 선정하지 않음"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Digital Twin과 예측 정확도 개선은 이번 신규 과제의 주제로 선정하지 않음",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Digital Twin과 예측 정확도 개선은 이번 신규 과제의 주제로 선정하지 않음",
+              "fontSize": 22,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ob6tgv6",
+      "id": "3",
+      "bbox": [
+        1160,
+        675,
+        64,
+        25
+      ],
+      "geometry": "rect",
+      "text": "26",
+      "textPreview": "26",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "26"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "26",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "26",
+              "fontSize": 15,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mpk72lwr",
+      "id": "4",
+      "bbox": [
+        64,
+        675,
+        1030,
+        25
+      ],
+      "geometry": "rect",
+      "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "textPreview": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Malgun Gothic",
+        "color": "#526777",
+        "alignment": "left",
+        "autoFit": "none",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Malgun Gothic",
+            "color": "#526777"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENERGY PACK  /  신사업·신기술 검토  /  2026.09",
+              "fontSize": 14,
+              "typeface": "Malgun Gothic",
+              "color": "#526777"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "table",
+      "scope": "slide",
+      "aid": "tb/y1kz2lc3",
+      "id": "5",
+      "bbox": [
+        64,
+        216,
+        1152,
+        377
+      ],
+      "text": "구분 | 내용 | 확인·개발 과제\n기존 기술 재사용 후보 | PV·부하 예측, ESS 스케줄링\nHVAC·가전 제어, 기존 실증 | 완료 연도·모델·실측 근거 확인\n국가별 지역화 | 요금 API, 계통 신호, 기기 목록\n인증·계약·정산 규칙 | 공식 데이터와 버전 관리\n신규 연구 | 혼합 기기 자동 검증\n열 유연성 추정과 안전 제어 | 기존 제품 대비 시간·순편익 입증\n확장 후보 | 백업 지속시간·전력 허브\nVPP 운영·정산 | 파트너·인증·계약 조건 확보",
+      "textPreview": "구분 | 내용 | 확인·개발 과제 | 기존 기술 재사용 후보 | PV·부하 예측, ESS 스케줄링 | HVAC·가전 제어, 기존 실증 | 완료 연도·모델·실측 근거 확인 | 국가별 지역화 | 요금 API, 계통 신호, 기기 목록 | 인증·계약·정...",
+      "rows": 5,
+      "cols": 3,
+      "cells": [
+        {
+          "index": 1,
+          "row": 1,
+          "column": 1,
+          "bbox": [
+            64,
+            216,
+            290,
+            75.4
+          ],
+          "text": "구분",
+          "textPreview": "구분",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "구분",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "구분",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "row": 1,
+          "column": 2,
+          "bbox": [
+            354,
+            216,
+            480,
+            75.4
+          ],
+          "text": "내용",
+          "textPreview": "내용",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "내용",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "내용",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "row": 1,
+          "column": 3,
+          "bbox": [
+            834,
+            216,
+            382,
+            75.4
+          ],
+          "text": "확인·개발 과제",
+          "textPreview": "확인·개발 과제",
+          "fillColor": "#102A43",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "확인·개발 과제",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#FFFFFF",
+                "bold": true
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "확인·개발 과제",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#FFFFFF",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "row": 2,
+          "column": 1,
+          "bbox": [
+            64,
+            291.4,
+            290,
+            75.4
+          ],
+          "text": "기존 기술 재사용 후보",
+          "textPreview": "기존 기술 재사용 후보",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기존 기술 재사용 후보",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기존 기술 재사용 후보",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "row": 2,
+          "column": 2,
+          "bbox": [
+            354,
+            291.4,
+            480,
+            75.4
+          ],
+          "text": "PV·부하 예측, ESS 스케줄링\nHVAC·가전 제어, 기존 실증",
+          "textPreview": "PV·부하 예측, ESS 스케줄링 | HVAC·가전 제어, 기존 실증",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "PV·부하 예측, ESS 스케줄링",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "PV·부하 예측, ESS 스케줄링",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "HVAC·가전 제어, 기존 실증",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "HVAC·가전 제어, 기존 실증",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "row": 2,
+          "column": 3,
+          "bbox": [
+            834,
+            291.4,
+            382,
+            75.4
+          ],
+          "text": "완료 연도·모델·실측 근거 확인",
+          "textPreview": "완료 연도·모델·실측 근거 확인",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "완료 연도·모델·실측 근거 확인",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "완료 연도·모델·실측 근거 확인",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "row": 3,
+          "column": 1,
+          "bbox": [
+            64,
+            366.8,
+            290,
+            75.4
+          ],
+          "text": "국가별 지역화",
+          "textPreview": "국가별 지역화",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "국가별 지역화",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "국가별 지역화",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "row": 3,
+          "column": 2,
+          "bbox": [
+            354,
+            366.8,
+            480,
+            75.4
+          ],
+          "text": "요금 API, 계통 신호, 기기 목록\n인증·계약·정산 규칙",
+          "textPreview": "요금 API, 계통 신호, 기기 목록 | 인증·계약·정산 규칙",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "요금 API, 계통 신호, 기기 목록",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "요금 API, 계통 신호, 기기 목록",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "인증·계약·정산 규칙",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "인증·계약·정산 규칙",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "row": 3,
+          "column": 3,
+          "bbox": [
+            834,
+            366.8,
+            382,
+            75.4
+          ],
+          "text": "공식 데이터와 버전 관리",
+          "textPreview": "공식 데이터와 버전 관리",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "공식 데이터와 버전 관리",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "공식 데이터와 버전 관리",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "row": 4,
+          "column": 1,
+          "bbox": [
+            64,
+            442.2,
+            290,
+            75.4
+          ],
+          "text": "신규 연구",
+          "textPreview": "신규 연구",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "신규 연구",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "신규 연구",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 11,
+          "row": 4,
+          "column": 2,
+          "bbox": [
+            354,
+            442.2,
+            480,
+            75.4
+          ],
+          "text": "혼합 기기 자동 검증\n열 유연성 추정과 안전 제어",
+          "textPreview": "혼합 기기 자동 검증 | 열 유연성 추정과 안전 제어",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "혼합 기기 자동 검증",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "혼합 기기 자동 검증",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "열 유연성 추정과 안전 제어",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "열 유연성 추정과 안전 제어",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 12,
+          "row": 4,
+          "column": 3,
+          "bbox": [
+            834,
+            442.2,
+            382,
+            75.4
+          ],
+          "text": "기존 제품 대비 시간·순편익 입증",
+          "textPreview": "기존 제품 대비 시간·순편익 입증",
+          "fillColor": "#FFFFFF",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "기존 제품 대비 시간·순편익 입증",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "기존 제품 대비 시간·순편익 입증",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 13,
+          "row": 5,
+          "column": 1,
+          "bbox": [
+            64,
+            517.6,
+            290,
+            75.4
+          ],
+          "text": "확장 후보",
+          "textPreview": "확장 후보",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "확장 후보",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "확장 후보",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 14,
+          "row": 5,
+          "column": 2,
+          "bbox": [
+            354,
+            517.6,
+            480,
+            75.4
+          ],
+          "text": "백업 지속시간·전력 허브\nVPP 운영·정산",
+          "textPreview": "백업 지속시간·전력 허브 | VPP 운영·정산",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "백업 지속시간·전력 허브",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "백업 지속시간·전력 허브",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            },
+            {
+              "index": 2,
+              "text": "VPP 운영·정산",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "VPP 운영·정산",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "index": 15,
+          "row": 5,
+          "column": 3,
+          "bbox": [
+            834,
+            517.6,
+            382,
+            75.4
+          ],
+          "text": "파트너·인증·계약 조건 확보",
+          "textPreview": "파트너·인증·계약 조건 확보",
+          "fillColor": "#EAF0EE",
+          "paragraphs": [
+            {
+              "index": 1,
+              "text": "파트너·인증·계약 조건 확보",
+              "resolvedTextStyle": {
+                "fontSize": 23,
+                "typeface": "Malgun Gothic",
+                "color": "#17324D"
+              },
+              "runs": [
+                {
+                  "index": 1,
+                  "text": "파트너·인증·계약 조건 확보",
+                  "fontSize": 23,
+                  "typeface": "Malgun Gothic",
+                  "color": "#17324D"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

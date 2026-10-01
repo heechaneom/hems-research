@@ -1,0 +1,300 @@
+{"kind":"deck","id":"pr/a8mi5d","name":"Deck"}
+{"kind":"layout","layoutId":"2d500c3b-7e3a-44e1-aee3-9edc061508df","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"0e279049-d48a-4b1f-aa50-95c0b9e2dd06","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/xxfhq7","slide":1,"title":"Energy Pack의 다음 성장 기회","textShapes":6}
+{"kind":"textbox","id":"sh/0zalw3el","slide":1,"text":"Energy Pack의 다음 성장 기회","textPreview":"Energy Pack의 다음 성장 기회","textChars":21,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/zy14nyx0","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/ex83udwf","slide":1,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/94jmtsf2","slide":1,"text":"국가별 Pain Point에서 찾는\n2027–2028 신기술 과제","textPreview":"국가별 Pain Point에서 찾는 | 2027–2028 신기술 과제","textChars":36,"textLines":2,"bbox":[66,227,1120,170]}
+{"kind":"textbox","id":"sh/o3al0neh","slide":1,"text":"설치 부담을 줄이고, 냉난방까지 제어하고,\n고객에게 남는 이익을 증명하는 사업","textPreview":"설치 부담을 줄이고, 냉난방까지 제어하고, | 고객에게 남는 이익을 증명하는 사업","textChars":43,"textLines":2,"bbox":[69,447,1100,100]}
+{"kind":"textbox","id":"sh/n214rixw","slide":1,"text":"CTO 의사결정용 제안 초안","textPreview":"CTO 의사결정용 제안 초안","textChars":15,"textLines":1,"bbox":[69,597,1020,40]}
+{"kind":"notes","id":"nt/xxfhq7","slide":1,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n공유 대화 · 기술 통합 방안 논의\nhttps://chatgpt.com/share/6abc9e1d-4f6c-83ee-b30e-1eafc9fbbf7c"}
+{"kind":"slide","id":"sl/qz8y9d","slide":2,"title":"추천: 독일·영국에서 2개 과제를 우선 검증","textShapes":10}
+{"kind":"textbox","id":"sh/x83u1kvq","slide":2,"text":"추천: 독일·영국에서 2개 과제를 우선 검증","textPreview":"추천: 독일·영국에서 2개 과제를 우선 검증","textChars":24,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/a5svq5wf","slide":2,"text":"네덜란드를 후속 시장으로 준비하고, 7명은 공통 기술 개발에 집중","textPreview":"네덜란드를 후속 시장으로 준비하고, 7명은 공통 기술 개발에 집중","textChars":36,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/b6lczadk","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/kbudwfuh","slide":2,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/lw3u5kv2","slide":2,"text":"과제 A  설치 자동화 모듈","textPreview":"과제 A  설치 자동화 모듈","textChars":15,"textLines":1,"bbox":[66,224,1135,42]}
+{"kind":"textbox","id":"sh/y9cvupcb","slide":2,"text":"혼합 제조사 기기의 연결·설정·검증을 자동화해 설치업체의 작업시간과 재방문을 줄인다.","textPreview":"혼합 제조사 기기의 연결·설정·검증을 자동화해 설치업체의 작업시간과 재방문을 줄인다.","textChars":47,"textLines":1,"bbox":[66,272,1135,80]}
+{"kind":"textbox","id":"sh/zalc3adw","slide":2,"text":"과제 B  냉난방 유연성 제어","textPreview":"과제 B  냉난방 유연성 제어","textChars":16,"textLines":1,"bbox":[66,356,1135,42]}
+{"kind":"textbox","id":"sh/8zed0zud","slide":2,"text":"쾌적함을 지키면서 히트펌프·급탕·ESS의 운전을 조정하고 실제 순편익을 입증한다.","textPreview":"쾌적함을 지키면서 히트펌프·급탕·ESS의 운전을 조정하고 실제 순편익을 입증한다.","textChars":45,"textLines":1,"bbox":[66,404,1135,80]}
+{"kind":"textbox","id":"sh/90ne94vy","slide":2,"text":"조건부 확장  정전 대응·전력시장 참여","textPreview":"조건부 확장  정전 대응·전력시장 참여","textChars":21,"textLines":1,"bbox":[66,488,1135,42]}
+{"kind":"textbox","id":"sh/9wz65cnm","slide":2,"text":"공통 기술을 확보한 뒤 미국·호주 파트너와 확장한다. 초기부터 모든 국가를 개발하지 않는다.","textPreview":"공통 기술을 확보한 뒤 미국·호주 파트너와 확장한다. 초기부터 모든 국가를 개발하지 않는다.","textChars":51,"textLines":1,"bbox":[66,536,1135,80]}
+{"kind":"notes","id":"nt/qz8y9d","slide":2,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n공유 대화 · 기술 통합 방안 논의\nhttps://chatgpt.com/share/6abc9e1d-4f6c-83ee-b30e-1eafc9fbbf7c\n\nBundesnetzagentur · Dynamische Stromtarife\nhttps://www.bundesnetzagentur.de/DE/Vportal/Energie/Vertragsarten/DynStromtarife/start.html\n\nOfgem · 2025 유연성 소비자 조사, 2026.05.22\nhttps://www.ofgem.gov.uk/research/tracking-energy-consumers-use-low-carbon-and-flexible-products-and-services-2025\n\n네덜란드 정부 · 2027년 상계제도 종료\nhttps://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur/energie-thuis/salderingsregeling"}
+{"kind":"slide","id":"sl/4z1aqs","slide":3,"title":"사업과 기술의 책임 범위","textShapes":5}
+{"kind":"textbox","id":"sh/u5w3axk3","slide":3,"text":"사업과 기술의 책임 범위","textPreview":"사업과 기술의 책임 범위","textChars":13,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/h87mls3e","slide":3,"text":"스마트 코티지는 적용 상품, Energy Pack은 판매 패키지, HEMS는 공통 제어 기술","textPreview":"스마트 코티지는 적용 상품, Energy Pack은 판매 패키지, HEMS는 공통 제어 기술","textChars":51,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/w7ylc729","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/jup4n2lk","slide":3,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/5w7mpc3q","slide":3,"text":"미국 스마트 코티지 판매는 회의에서 제외한 범위. 미국 기회는 Energy Pack·기술 파트너십으로 별도 검토.","textPreview":"미국 스마트 코티지 판매는 회의에서 제외한 범위. 미국 기회는 Energy Pack·기술 파트너십으로 별도 검토.","textChars":63,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/bqt07i1g","slide":3,"name":"","rows":4,"cols":3,"preview":"구분 | 고객에게 파는 것 | 이번 과제의 기여","bbox":[64,216,1152,337]}
+{"kind":"notes","id":"nt/4z1aqs","slide":3,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n공유 대화 · 기술 통합 방안 논의\nhttps://chatgpt.com/share/6abc9e1d-4f6c-83ee-b30e-1eafc9fbbf7c"}
+{"kind":"slide","id":"sl/bu9c3l","slide":4,"title":"국가별 기회: 유럽 4개국","textShapes":5}
+{"kind":"textbox","id":"sh/gvu9gnih","slide":4,"text":"국가별 기회: 유럽 4개국","textPreview":"국가별 기회: 유럽 4개국","textChars":14,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/ful8nihc","slide":4,"text":"공식 제도·소비자 조사에 근거한 문제와 사업 가설을 구분","textPreview":"공식 제도·소비자 조사에 근거한 문제와 사업 가설을 구분","textChars":31,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/etsred0r","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/p03qtsze","slide":4,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/3yl8rih8","slide":4,"text":"TOU: 시간대별 요금. 제도 변화가 곧 구매수요를 의미하지는 않으며, 지불 의향은 현지 검증 대상.","textPreview":"TOU: 시간대별 요금. 제도 변화가 곧 구매수요를 의미하지는 않으며, 지불 의향은 현지 검증 대상.","textChars":56,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/5g7yds7e","slide":4,"name":"","rows":5,"cols":3,"preview":"국가·대상 | 확인한 변화 | 지불 이유에 대한 가설","bbox":[64,216,1152,390]}
+{"kind":"notes","id":"nt/bu9c3l","slide":4,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nBundesnetzagentur · Dynamische Stromtarife\nhttps://www.bundesnetzagentur.de/DE/Vportal/Energie/Vertragsarten/DynStromtarife/start.html\n\nBundesnetzagentur · §14a 제어가능 부하\nhttps://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html?nn=779422\n\nOfgem · 2025 유연성 소비자 조사, 2026.05.22\nhttps://www.ofgem.gov.uk/research/tracking-energy-consumers-use-low-carbon-and-flexible-products-and-services-2025\n\nEnedis · 비첨두 시간대 개편, 2025.10.15\nhttps://www.enedis.fr/presse/enedis-met-en-oeuvre-la-reforme-des-heures-creuses-pour-accompagner-les-nouveaux-usages-lies\n\n네덜란드 정부 · 2027년 상계제도 종료\nhttps://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur/energie-thuis/salderingsregeling"}
+{"kind":"slide","id":"sl/h0505a","slide":5,"title":"국가별 기회: 유럽 외 5개국","textShapes":5}
+{"kind":"textbox","id":"sh/j614n2xs","slide":5,"text":"국가별 기회: 유럽 외 5개국","textPreview":"국가별 기회: 유럽 외 5개국","textChars":16,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/kralw7yd","slide":5,"text":"전국 평균보다 고객의 주거형태·설비·요금 계약이 중요","textPreview":"전국 평균보다 고객의 주거형태·설비·요금 계약이 중요","textChars":29,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/lsjmpsfy","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/a183qdgb","slide":5,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/w3alsny1","slide":5,"text":"남아공의 전국 순환 부하차단(loadshedding)과 지역 공급제한(load reduction)은 다른 현상.","textPreview":"남아공의 전국 순환 부하차단(loadshedding)과 지역 공급제한(load reduction)은 다른 현상.","textChars":62,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/mhgbepwv","slide":5,"name":"","rows":6,"cols":3,"preview":"국가·범위 | 확인한 배경 | 검증할 상품","bbox":[64,216,1152,403]}
+{"kind":"notes","id":"nt/h0505a","slide":5,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n호주 정부 · Solar PV and batteries\nhttps://www.energy.gov.au/households/solar-pv-and-batteries\n\nCPUC · Net Billing Tariff\nhttps://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/nem-revisit/net-billing-tariff\n\nDEWA · Cooling\nhttps://www.dewa.gov.ae/en/consumer/sustainability/sustainability-and-conservation/cooling\n\n통계청 · 2024 인구주택총조사, 표 36\nhttps://www.kostat.go.kr/boardDownload.es?bid=203&list_no=437767&seq=3\n\nEskom · 전력계통 현황, 2026.09.25\nhttps://www.eskom.co.za/eskom-achieves-weekly-eaf-of-70-and-year-to-date-eaf-of-68-06-emissions-reduction-target-surpassed-diesel-costs-fall-by-r4-8-billion-year-on-year-and-load-reduction-further-reduced-from-1-69-million/"}
+{"kind":"slide","id":"sl/b9z164","slide":6,"title":"독일: 설치업체의 복잡성을 줄이는 제품","textShapes":9}
+{"kind":"textbox","id":"sh/ovip0nyt","slide":6,"text":"독일: 설치업체의 복잡성을 줄이는 제품","textPreview":"독일: 설치업체의 복잡성을 줄이는 제품","textChars":21,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/3u98r2h8","slide":6,"text":"동적요금·히트펌프·EV·계통제어를 한 현장에서 다뤄야 하는 고객","textPreview":"동적요금·히트펌프·EV·계통제어를 한 현장에서 다뤄야 하는 고객","textChars":35,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/2t07yxgn","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/dkbqxcza","slide":6,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/cjip47y5","slide":6,"text":"고객과 기존 대안","textPreview":"고객과 기존 대안","textChars":9,"textLines":1,"bbox":[64,219,548,58]}
+{"kind":"textbox","id":"sh/bi98v2hk","slide":6,"text":"지불자 후보: Energy Pack 설치업체·OEM\n\n기존 대안: 기기별 앱과 매뉴얼,\n이미 판매 중인 HEMS\n\n문제 가설: 연결은 가능해도\n배선·제어 권한·설정 검증이 번거롭다.","textPreview":"지불자 후보: Energy Pack 설치업체·OEM |  | 기존 대안: 기기별 앱과 매뉴얼, | 이미 판매 중인 HEMS |  | 문제 가설: 연결은 가능해도 | 배선·제어 권한·설정 검증이 번거롭다.","textChars":101,"textLines":7,"bbox":[64,291,545,315]}
+{"kind":"textbox","id":"sh/qh072xgz","slide":6,"text":"제안: 설치 자동화 모듈","textPreview":"제안: 설치 자동화 모듈","textChars":13,"textLines":1,"bbox":[656,219,548,58]}
+{"kind":"textbox","id":"sh/lobq1czm","slide":6,"text":"지원 기기를 발견하고 제어 능력을 확인\n\n승인된 지역 규칙으로 설정을 생성\n\n통신·계측·계통 명령 시험 후\n설치 완료 보고서를 자동 발급\n\n1차 목표: 설정·검증 시간 50% 단축","textPreview":"지원 기기를 발견하고 제어 능력을 확인 |  | 승인된 지역 규칙으로 설정을 생성 |  | 통신·계측·계통 명령 시험 후 | 설치 완료 보고서를 자동 발급 |  | 1차 목표: 설정·검증 시간 50% 단축","textChars":100,"textLines":8,"bbox":[656,291,545,315]}
+{"kind":"textbox","id":"sh/0n2987y1","slide":6,"text":"§14a는 모든 가전 대상이 아님. 2024년 이후 신규 설치 등 적용 조건을 확인하며, 목표치는 제안값.","textPreview":"§14a는 모든 가전 대상이 아님. 2024년 이후 신규 설치 등 적용 조건을 확인하며, 목표치는 제안값.","textChars":59,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/b9z164","slide":6,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nBundesnetzagentur · Dynamische Stromtarife\nhttps://www.bundesnetzagentur.de/DE/Vportal/Energie/Vertragsarten/DynStromtarife/start.html\n\nBundesnetzagentur · §14a 제어가능 부하\nhttps://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html?nn=779422"}
+{"kind":"slide","id":"sl/6z8ez1","slide":7,"title":"영국: 절약 가능성과 실제 가입 사이의 간극","textShapes":10}
+{"kind":"textbox","id":"sh/crelorih","slide":7,"text":"영국: 절약 가능성과 실제 가입 사이의 간극","textPreview":"영국: 절약 가능성과 실제 가입 사이의 간극","textChars":24,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/bq54vmhw","slide":7,"text":"Ofgem 2025 조사, 2026년 발표. 아래 두 비율은 모집단이 같지 않음","textPreview":"Ofgem 2025 조사, 2026년 발표. 아래 두 비율은 모집단이 같지 않음","textChars":44,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/apw3mh0b","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/ponmtczq","slide":7,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/onelk7i5","slide":7,"text":"49%","textPreview":"49%","textChars":3,"textLines":1,"bbox":[69,226,460,106]}
+{"kind":"textbox","id":"sh/nm5kr2hk","slide":7,"text":"TOU가 비용을 줄일 수 있다고 보는 소비자","textPreview":"TOU가 비용을 줄일 수 있다고 보는 소비자","textChars":24,"textLines":1,"bbox":[72,348,495,95]}
+{"kind":"textbox","id":"sh/2lw3ix0z","slide":7,"text":"17%","textPreview":"17%","textChars":3,"textLines":1,"bbox":[665,226,465,106]}
+{"kind":"textbox","id":"sh/9krm5wzu","slide":7,"text":"TOU 미가입자 중\n향후 전환 의향이 있는 소비자","textPreview":"TOU 미가입자 중 | 향후 전환 의향이 있는 소비자","textChars":27,"textLines":2,"bbox":[667,348,490,95]}
+{"kind":"textbox","id":"sh/8jylwbi9","slide":7,"text":"제안: 절감 증명 + 쾌적함을 지키는 자동운전","textPreview":"제안: 절감 증명 + 쾌적함을 지키는 자동운전","textChars":25,"textLines":1,"bbox":[70,487,1110,51]}
+{"kind":"textbox","id":"sh/25obmp87","slide":7,"text":"전력 소매사와 판매하고, 고객에게는 운전 전후 순편익·수수료·온도 이탈을 함께 공개","textPreview":"전력 소매사와 판매하고, 고객에게는 운전 전후 순편익·수수료·온도 이탈을 함께 공개","textChars":46,"textLines":1,"bbox":[72,557,1110,65]}
+{"kind":"notes","id":"nt/6z8ez1","slide":7,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nOfgem · 2025 유연성 소비자 조사, 2026.05.22\nhttps://www.ofgem.gov.uk/research/tracking-energy-consumers-use-low-carbon-and-flexible-products-and-services-2025\n\nOctopus · Heat pump FAQ\nhttps://octopus.energy/heat-pump-FAQ/"}
+{"kind":"slide","id":"sl/3vmdiu","slide":8,"title":"프랑스·네덜란드: 제도 변화가 운전을 바꾼다","textShapes":9}
+{"kind":"textbox","id":"sh/8f6d87mt","slide":8,"text":"프랑스·네덜란드: 제도 변화가 운전을 바꾼다","textPreview":"프랑스·네덜란드: 제도 변화가 운전을 바꾼다","textChars":24,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/nexcz258","slide":8,"text":"요금 데이터 갱신만으로 끝내지 않고 급탕·냉난방 운전까지 연결","textPreview":"요금 데이터 갱신만으로 끝내지 않고 급탕·냉난방 운전까지 연결","textChars":34,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/mdov6x4n","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/x4ze5w3a","slide":8,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/w3qdcrmp","slide":8,"text":"프랑스  스케줄 변경 자동화","textPreview":"프랑스  스케줄 변경 자동화","textChars":15,"textLines":1,"bbox":[64,219,548,58]}
+{"kind":"textbox","id":"sh/vihw3m54","slide":8,"text":"확인: 1,100만 고객의 비첨두 시간대가\n2025.11–2027.10 순차 변경\n\n대상: 고정 타이머로 급탕·난방하는 집\n\n제안: 공식 계약 정보를 확인한 뒤\n기기 스케줄을 변경하고 결과 검증\n\n요금 변경 대응은 지역화 기능으로 개발","textPreview":"확인: 1,100만 고객의 비첨두 시간대가 | 2025.11–2027.10 순차 변경 |  | 대상: 고정 타이머로 급탕·난방하는 집 |  | 제안: 공식 계약 정보를 확인한 뒤 | 기기 스케줄을 변경하고 결과 검증 |  | 요금 변경 대응은 지...","textChars":131,"textLines":9,"bbox":[64,291,545,315]}
+{"kind":"textbox","id":"sh/ah8vah4j","slide":8,"text":"네덜란드  태양광을 열로 저장","textPreview":"네덜란드  태양광을 열로 저장","textChars":16,"textLines":1,"bbox":[656,219,548,58]}
+{"kind":"textbox","id":"sh/58je9w36","slide":8,"text":"확인: 2027.1.1 상계제도 종료 예정\n\n대상: PV와 급탕탱크·HP 보유 가구\n\n제안: 잉여 태양광으로 급탕·예열하고\n필요한 경우 배터리와 함께 최적화\n\n핵심 연구: 집별로 쓸 수 있는 열 유연성","textPreview":"확인: 2027.1.1 상계제도 종료 예정 |  | 대상: PV와 급탕탱크·HP 보유 가구 |  | 제안: 잉여 태양광으로 급탕·예열하고 | 필요한 경우 배터리와 함께 최적화 |  | 핵심 연구: 집별로 쓸 수 있는 열 유연성","textChars":112,"textLines":8,"bbox":[656,291,545,315]}
+{"kind":"textbox","id":"sh/k7qdgrml","slide":8,"text":"자가소비 확대의 경제성은 수출 보상·수수료·열손실에 따라 달라짐. 배터리 구매를 전제하지 않음.","textPreview":"자가소비 확대의 경제성은 수출 보상·수수료·열손실에 따라 달라짐. 배터리 구매를 전제하지 않음.","textChars":53,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/3vmdiu","slide":8,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nEnedis · 비첨두 시간대 개편, 2025.10.15\nhttps://www.enedis.fr/presse/enedis-met-en-oeuvre-la-reforme-des-heures-creuses-pour-accompagner-les-nouveaux-usages-lies\n\n네덜란드 정부 · 2027년 상계제도 종료\nhttps://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur/energie-thuis/salderingsregeling"}
+{"kind":"slide","id":"sl/q519d1","slide":9,"title":"미국·호주: 배터리의 돈벌이와 백업을 함께 관리","textShapes":9}
+{"kind":"textbox","id":"sh/fuxczu14","slide":9,"text":"미국·호주: 배터리의 돈벌이와 백업을 함께 관리","textPreview":"미국·호주: 배터리의 돈벌이와 백업을 함께 관리","textChars":26,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/gv6dsf2p","slide":9,"text":"설치된 배터리를 활용하되 현지 전력사업자를 통해 진입","textPreview":"설치된 배터리를 활용하되 현지 전력사업자를 통해 진입","textChars":29,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/hwzu1kja","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/2x8vupkv","slide":9,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/3yhc3u1g","slide":9,"text":"미국  캘리포니아부터","textPreview":"미국  캘리포니아부터","textChars":11,"textLines":1,"bbox":[64,219,548,58]}
+{"kind":"textbox","id":"sh/4zqdwz2l","slide":9,"text":"확인: NBT는 2023.4.15 이후\n연계 신청 고객에 적용하는 후속 제도\n\n문제 가설: 수출·자가소비·백업 사이\n운전 선택을 고객이 이해하기 어렵다.\n\n제안: 배터리 잔량과 냉난방 부하를\n함께 조절하는 백업 운전 모듈","textPreview":"확인: NBT는 2023.4.15 이후 | 연계 신청 고객에 적용하는 후속 제도 |  | 문제 가설: 수출·자가소비·백업 사이 | 운전 선택을 고객이 이해하기 어렵다. |  | 제안: 배터리 잔량과 냉난방 부하를 | 함께 조절하는 백업 운전 모듈","textChars":123,"textLines":8,"bbox":[64,291,545,315]}
+{"kind":"textbox","id":"sh/p0zu54j6","slide":9,"text":"호주  추가 배터리 설치 고객","textPreview":"호주  추가 배터리 설치 고객","textChars":16,"textLines":1,"bbox":[656,219,548,58]}
+{"kind":"textbox","id":"sh/y14bi5kb","slide":9,"text":"확인: 가정용 배터리 지원 제도 시행\n\n문제 가설: 기존 PV·신규 배터리·\n냉난방을 따로 운전한다.\n\n제안: 설치 자동화와 통합 운전 제공\n\nVPP 수익은 계약 확보 후에만 반영","textPreview":"확인: 가정용 배터리 지원 제도 시행 |  | 문제 가설: 기존 PV·신규 배터리· | 냉난방을 따로 운전한다. |  | 제안: 설치 자동화와 통합 운전 제공 |  | VPP 수익은 계약 확보 후에만 반영","textChars":100,"textLines":8,"bbox":[656,291,545,315]}
+{"kind":"textbox","id":"sh/j2dcralw","slide":9,"text":"VPP: 여러 집의 유연한 전력자원을 묶는 가상발전소. 국가 전체가 단일 시장인 것으로 가정하지 않음.","textPreview":"VPP: 여러 집의 유연한 전력자원을 묶는 가상발전소. 국가 전체가 단일 시장인 것으로 가정하지 않음.","textChars":57,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/q519d1","slide":9,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nCPUC · Net Billing Tariff\nhttps://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/nem-revisit/net-billing-tariff\n\n호주 정부 · Solar PV and batteries\nhttps://www.energy.gov.au/households/solar-pv-and-batteries\n\n미국 DOE · Virtual Power Plants Projects\nhttps://www.energy.gov/edf/virtual-power-plants-projects"}
+{"kind":"slide","id":"sl/e42va5","slide":10,"title":"UAE·한국: 비용 부담자와 제어권자가 중요","textShapes":8}
+{"kind":"textbox","id":"sh/3mh8nupw","slide":10,"text":"UAE·한국: 비용 부담자와 제어권자가 중요","textPreview":"UAE·한국: 비용 부담자와 제어권자가 중요","textChars":24,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/4nq9gfqh","slide":10,"text":"가정용 구독에 고정하지 않고 건물 운영·설비 판매 채널을 검토","textPreview":"가정용 구독에 고정하지 않고 건물 운영·설비 판매 채널을 검토","textChars":34,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/pozqpk72","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/uhora58f","slide":10,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/vix8jap0","slide":10,"text":"UAE  개별 냉방 빌라","textPreview":"UAE  개별 냉방 빌라","textChars":13,"textLines":1,"bbox":[64,219,548,58]}
+{"kind":"textbox","id":"sh/gj69cfql","slide":10,"text":"대상: 냉방비를 직접 부담하는 소유자\n또는 다수 주택 운영사\n\n제안: 습도·재실을 반영한 냉방과\n설비 이상 감지를 묶어 판매\n\n주의: 지역냉방 공동주택에는\n같은 절감·제어 구조를 적용하기 어렵다.","textPreview":"대상: 냉방비를 직접 부담하는 소유자 | 또는 다수 주택 운영사 |  | 제안: 습도·재실을 반영한 냉방과 | 설비 이상 감지를 묶어 판매 |  | 주의: 지역냉방 공동주택에는 | 같은 절감·제어 구조를 적용하기 어렵다.","textChars":109,"textLines":8,"bbox":[64,291,545,315]}
+{"kind":"textbox","id":"sh/hkfqlk76","slide":10,"text":"한국  공동주택 운영사","textPreview":"한국  공동주택 운영사","textChars":12,"textLines":1,"bbox":[656,219,548,58]}
+{"kind":"textbox","id":"sh/6to7658j","slide":10,"text":"대상: 건설사·관리사업자·임대 운영사\n\n제안: 공용부 부하·EV 충전·\n적용 가능한 냉난방 설비를 묶어 운영\n\n입주민 개인 구독보다\n설비 도입·운영 계약에서 비용 회수\n\n계량·요금·의사결정 권한을 먼저 확인","textPreview":"대상: 건설사·관리사업자·임대 운영사 |  | 제안: 공용부 부하·EV 충전· | 적용 가능한 냉난방 설비를 묶어 운영 |  | 입주민 개인 구독보다 | 설비 도입·운영 계약에서 비용 회수 |  | 계량·요금·의사결정 권한을 먼저 확인","textChars":115,"textLines":9,"bbox":[656,291,545,315]}
+{"kind":"notes","id":"nt/e42va5","slide":10,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nDEWA · Cooling\nhttps://www.dewa.gov.ae/en/consumer/sustainability/sustainability-and-conservation/cooling\n\n통계청 · 2024 인구주택총조사, 표 36\nhttps://www.kostat.go.kr/boardDownload.es?bid=203&list_no=437767&seq=3"}
+{"kind":"slide","id":"sl/5jzt2q","slide":11,"title":"경쟁 제품이 이미 제공하는 기능","textShapes":5}
+{"kind":"textbox","id":"sh/md47qpsv","slide":11,"text":"경쟁 제품이 이미 제공하는 기능","textPreview":"경쟁 제품이 이미 제공하는 기능","textChars":17,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/9gfq1krm","slide":11,"text":"자동운전·동적요금·전력 허브라는 이름만으로 신기술을 주장하기 어렵다","textPreview":"자동운전·동적요금·전력 허브라는 이름만으로 신기술을 주장하기 어렵다","textChars":37,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/of6psfa1","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/bix83u9s","slide":11,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/xkfq54ri","slide":11,"text":"제품별 국가·모델·연동 조건이 다름. 경쟁사에 해당 기능이 없다고 단정하지 않고 동일 조건 실측으로 비교.","textPreview":"제품별 국가·모델·연동 조건이 다름. 경쟁사에 해당 기능이 없다고 단정하지 않고 동일 조건 실측으로 비교.","textChars":59,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/zylwjepg","slide":11,"name":"","rows":5,"cols":3,"preview":"경쟁 대안 | 공식 제품에서 확인한 기능 | 우리의 추가 검증 과제","bbox":[64,216,1152,365]}
+{"kind":"notes","id":"nt/5jzt2q","slide":11,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nSMA · Sunny Home Manager 2.0\nhttps://www.sma.de/en/products/energy-management/sunny-home-manager\n\nTesla · Savings Mode\nhttps://www.tesla.com/en_gb/support/energy/powerwall/mobile-app/savings-mode\n\nOctopus · Heat pump FAQ\nhttps://octopus.energy/heat-pump-FAQ/\n\nSchneider · Residential products\nhttps://www.se.com/us/en/work/products/residential-and-small-business/"}
+{"kind":"slide","id":"sl/gjsqbh","slide":12,"title":"발굴한 신기술 후보 6개","textShapes":4}
+{"kind":"textbox","id":"sh/jq50zixg","slide":12,"text":"발굴한 신기술 후보 6개","textPreview":"발굴한 신기술 후보 6개","textChars":13,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/kre1sny1","slide":12,"text":"신규성은 연구 가설이며, 선행 특허·제품 비교를 통해 확인","textPreview":"신규성은 연구 가설이며, 선행 특허·제품 비교를 통해 확인","textChars":32,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/5sni1sf6","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/alczmdgj","slide":12,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"table","id":"tb/mlgna5cv","slide":12,"name":"","rows":7,"cols":3,"preview":"후보 | 해결할 문제 | 우선 판단","bbox":[64,216,1152,416]}
+{"kind":"notes","id":"nt/gjsqbh","slide":12,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/4q67mp","slide":13,"title":"A. 설치 자동화: 연결 후 검증까지 제품화","textShapes":11}
+{"kind":"textbox","id":"sh/tkri1s76","slide":13,"text":"A. 설치 자동화: 연결 후 검증까지 제품화","textPreview":"A. 설치 자동화: 연결 후 검증까지 제품화","textChars":24,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/6h0zqxof","slide":13,"text":"판매 단위: 게이트웨이·계측 인터페이스·설치 SW 라이선스","textPreview":"판매 단위: 게이트웨이·계측 인터페이스·설치 SW 라이선스","textChars":32,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/7i90z2p0","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/kfihon69","slide":13,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/5grixs7u","slide":13,"text":"새로 연구할 것","textPreview":"새로 연구할 것","textChars":8,"textLines":1,"bbox":[66,224,1135,42]}
+{"kind":"textbox","id":"sh/idgzmdoj","slide":13,"text":"기기 설명 정보를 공통 형식으로 변환하고, 작은 시험 신호로 제어 방향·응답·계측 관계를 확인","textPreview":"기기 설명 정보를 공통 형식으로 변환하고, 작은 시험 신호로 제어 방향·응답·계측 관계를 확인","textChars":52,"textLines":1,"bbox":[66,272,1135,80]}
+{"kind":"textbox","id":"sh/jep0vip4","slide":13,"text":"HW와 SW의 결합","textPreview":"HW와 SW의 결합","textChars":10,"textLines":1,"bbox":[66,354,1135,42]}
+{"kind":"textbox","id":"sh/wbyhk36d","slide":13,"text":"통신 어댑터·계측 입력을 가진 모듈에 기기 발견, 설정 생성, 오류 진단, 시험 이력을 탑재","textPreview":"통신 어댑터·계측 입력을 가진 모듈에 기기 발견, 설정 생성, 오류 진단, 시험 이력을 탑재","textChars":51,"textLines":1,"bbox":[66,402,1135,80]}
+{"kind":"textbox","id":"sh/xc7it87y","slide":13,"text":"검증 목표와 범위","textPreview":"검증 목표와 범위","textChars":9,"textLines":1,"bbox":[66,484,1135,42]}
+{"kind":"textbox","id":"sh/5cr61cf6","slide":13,"text":"지원 기기 10종의 설정·검증 시간 50% 단축, 지원 조합 자동 설정 성공률 95% 이상","textPreview":"지원 기기 10종의 설정·검증 시간 50% 단축, 지원 조합 자동 설정 성공률 95% 이상","textChars":50,"textLines":1,"bbox":[66,532,1135,80]}
+{"kind":"textbox","id":"sh/4bi5s7y1","slide":13,"text":"목표치 제안. 전기 배선·안전검사는 전문가가 수행하며, “10분 설치”는 전체 전기공사 시간으로 주장하지 않음.","textPreview":"목표치 제안. 전기 배선·안전검사는 전문가가 수행하며, “10분 설치”는 전체 전기공사 시간으로 주장하지 않음.","textChars":62,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/4q67mp","slide":13,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/dh69nb","slide":14,"title":"B. 열 유연성: 집이 제공할 수 있는 전력 조절량","textShapes":11}
+{"kind":"textbox","id":"sh/doja9wnq","slide":14,"text":"B. 열 유연성: 집이 제공할 수 있는 전력 조절량","textPreview":"B. 열 유연성: 집이 제공할 수 있는 전력 조절량","textChars":28,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/qlsbehof","slide":14,"text":"판매 단위: 히트펌프·급탕·ESS 제어 기능과 전력사업자 연계 서비스","textPreview":"판매 단위: 히트펌프·급탕·ESS 제어 기능과 전력사업자 연계 서비스","textChars":38,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/rm1s7m50","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/4jatc769","slide":14,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/pkja5cnu","slide":14,"text":"새로 연구할 것","textPreview":"새로 연구할 것","textChars":8,"textLines":1,"bbox":[66,224,1135,42]}
+{"kind":"textbox","id":"sh/2h8baho3","slide":14,"text":"실측 온도·습도·기기 상태로 “얼마나 오래, 얼마나 줄여도 괜찮은지”를 지속 추정","textPreview":"실측 온도·습도·기기 상태로 “얼마나 오래, 얼마나 줄여도 괜찮은지”를 지속 추정","textChars":45,"textLines":1,"bbox":[66,272,1135,80]}
+{"kind":"textbox","id":"sh/3ihs3m5o","slide":14,"text":"제어 방법","textPreview":"제어 방법","textChars":5,"textLines":1,"bbox":[66,354,1135,42]}
+{"kind":"textbox","id":"sh/ofutob6d","slide":14,"text":"열 상태 추정 + 불확실성을 반영한 예측제어 + 제품 운전 한계. 온라인 탐색은 안전 범위 안에서만 수행","textPreview":"열 상태 추정 + 불확실성을 반영한 예측제어 + 제품 운전 한계. 온라인 탐색은 안전 범위 안에서만 수행","textChars":58,"textLines":1,"bbox":[66,402,1135,80]}
+{"kind":"textbox","id":"sh/9g3uhgny","slide":14,"text":"검증 목표","textPreview":"검증 목표","textChars":5,"textLines":1,"bbox":[66,484,1135,42]}
+{"kind":"textbox","id":"sh/hov2tsbu","slide":14,"text":"재실 중 고객 합의 온도 범위 유지율 95% 이상, 기존 운전 대비 피크 구간 평균 전력 20% 감소","textPreview":"재실 중 고객 합의 온도 범위 유지율 95% 이상, 기존 운전 대비 피크 구간 평균 전력 20% 감소","textChars":56,"textLines":1,"bbox":[66,532,1135,80]}
+{"kind":"textbox","id":"sh/gnmlkna9","slide":14,"text":"목표치 제안. 요금 절감과 에너지 절감은 다름. 열손실·추가 소비를 포함한 순편익이 양수여야 출시.","textPreview":"목표치 제안. 요금 절감과 에너지 절감은 다름. 열손실·추가 소비를 포함한 순편익이 양수여야 출시.","textChars":55,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/dh69nb","slide":14,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/jfg5i9","slide":15,"title":"C·E. 백업 제어와 전력 허브는 선택적으로 확장","textShapes":9}
+{"kind":"textbox","id":"sh/wrq5o3it","slide":15,"text":"C·E. 백업 제어와 전력 허브는 선택적으로 확장","textPreview":"C·E. 백업 제어와 전력 허브는 선택적으로 확장","textChars":27,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/vqh4vi18","slide":15,"text":"배터리 셀 신규 개발보다 기존 인증 전력장치와 가전 제어의 결합을 먼저 검증","textPreview":"배터리 셀 신규 개발보다 기존 인증 전력장치와 가전 제어의 결합을 먼저 검증","textChars":42,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/ap8nmd0n","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/5gj61sja","slide":15,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/kfa5snip","slide":15,"text":"C  백업 지속시간 관리","textPreview":"C  백업 지속시간 관리","textChars":13,"textLines":1,"bbox":[64,219,548,58]}
+{"kind":"textbox","id":"sh/je14zi14","slide":15,"text":"고객이 보호할 냉장·조명·냉방을 선택\n\n배터리 잔량·온도·부하별 운전 제약으로\n지속시간과 불확실성 범위를 제시\n\n목표: 동일 배터리로 중요부하\n유지시간 20% 증가\n\n정전 예측 자체를 판매 가치로 삼지 않음","textPreview":"고객이 보호할 냉장·조명·냉방을 선택 |  | 배터리 잔량·온도·부하별 운전 제약으로 | 지속시간과 불확실성 범위를 제시 |  | 목표: 동일 배터리로 중요부하 | 유지시간 20% 증가 |  | 정전 예측 자체를 판매 가치로 삼지 않음","textChars":115,"textLines":9,"bbox":[64,291,545,315]}
+{"kind":"textbox","id":"sh/idsnqd0j","slide":15,"text":"E  교체형 전력 허브","textPreview":"E  교체형 전력 허브","textChars":12,"textLines":1,"bbox":[656,219,548,58]}
+{"kind":"textbox","id":"sh/1kfmpoj6","slide":15,"text":"기존 분전 구조에 적용 가능한\n계측·제어 모듈을 인증사와 공동 설계\n\n차단·계통 분리 기능은 인증 장치가 담당\n\n목표: 배선·설치 공수 30% 단축\n\n신규 배터리·인버터 전체 개발은\n7명 과제의 초기 범위에서 제외","textPreview":"기존 분전 구조에 적용 가능한 | 계측·제어 모듈을 인증사와 공동 설계 |  | 차단·계통 분리 기능은 인증 장치가 담당 |  | 목표: 배선·설치 공수 30% 단축 |  | 신규 배터리·인버터 전체 개발은 | 7명 과제의 초기 범위에서 제외","textChars":119,"textLines":9,"bbox":[656,291,545,315]}
+{"kind":"textbox","id":"sh/0j65gjil","slide":15,"text":"모든 수치는 실증 전 목표. 백업 전환 성능·부하 우선순위는 인증 HW 구성과 고객 계약에 종속.","textPreview":"모든 수치는 실증 전 목표. 백업 전환 성능·부하 우선순위는 인증 HW 구성과 고객 계약에 종속.","textChars":54,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/jfg5i9","slide":15,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/9c30yb","slide":16,"title":"공통 기술과 국가별 변경 영역","textShapes":5}
+{"kind":"textbox","id":"sh/ilwbuhwv","slide":16,"text":"공통 기술과 국가별 변경 영역","textPreview":"공통 기술과 국가별 변경 영역","textChars":16,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/58nu5cvm","slide":16,"text":"AI 역할을 한정하고, 전력기기 실행은 검증된 제어 규칙으로 관리","textPreview":"AI 역할을 한정하고, 전력기기 실행은 검증된 제어 규칙으로 관리","textChars":36,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/k7etw7u1","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/vilcz2dk","slide":16,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/xknu1cva","slide":16,"text":"언어모델은 문서 해석·설정 후보·진단 설명에 활용. 요금·규제를 임의 해석해 전력기기에 직접 명령하지 않음.","textPreview":"언어모델은 문서 해석·설정 후보·진단 설명에 활용. 요금·규제를 임의 해석해 전력기기에 직접 명령하지 않음.","textChars":60,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/nqd03218","slide":16,"name":"","rows":5,"cols":3,"preview":"공통 개발 영역 | 국가별 변경 영역 | 실행 원칙","bbox":[64,216,1152,370]}
+{"kind":"notes","id":"nt/9c30yb","slide":16,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/d9iquf","slide":17,"title":"우리의 강점은 제품 제어 깊이로 입증해야 한다","textShapes":9}
+{"kind":"textbox","id":"sh/wbepwrax","slide":17,"text":"우리의 강점은 제품 제어 깊이로 입증해야 한다","textPreview":"우리의 강점은 제품 제어 깊이로 입증해야 한다","textChars":25,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/ba5onm9s","slide":17,"text":"회의에 언급된 실증 경험은 활용하되 자료 확인 전 성과 수치를 확정하지 않음","textPreview":"회의에 언급된 실증 경험은 활용하되 자료 확인 전 성과 수치를 확정하지 않음","textChars":42,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/a9cnuhs7","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/lgn6twru","slide":17,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/kfep0ra9","slide":17,"text":"활용할 수 있는 자산 후보","textPreview":"활용할 수 있는 자산 후보","textChars":14,"textLines":1,"bbox":[64,219,548,58]}
+{"kind":"textbox","id":"sh/je5orm9o","slide":17,"text":"가전·히트펌프의 실제 제어 경험\n\n제품 운전 제약과 내부 상태 데이터\n\n설치·서비스 채널과 현장 데이터\n\n자사 기기 깊은 제어 + 타사 기기 표준 연동\n조합으로 차별화 가설 수립","textPreview":"가전·히트펌프의 실제 제어 경험 |  | 제품 운전 제약과 내부 상태 데이터 |  | 설치·서비스 채널과 현장 데이터 |  | 자사 기기 깊은 제어 + 타사 기기 표준 연동 | 조합으로 차별화 가설 수립","textChars":99,"textLines":8,"bbox":[64,291,545,315]}
+{"kind":"textbox","id":"sh/ydw7yhs3","slide":17,"text":"CTO 보고 전 확보할 증거","textPreview":"CTO 보고 전 확보할 증거","textChars":15,"textLines":1,"bbox":[656,219,548,58]}
+{"kind":"textbox","id":"sh/t476xwrq","slide":17,"text":"개발 완료 기술·적용 모델·완료 연도\n\n실증 대상·기간·대조군·원시 로그\n\n제품 내부 상태 접근 권한과 API 범위\n\n자사 기기 / 표준 연동 / 경쟁 제품의\n동일 조건 성능 차이","textPreview":"개발 완료 기술·적용 모델·완료 연도 |  | 실증 대상·기간·대조군·원시 로그 |  | 제품 내부 상태 접근 권한과 API 범위 |  | 자사 기기 / 표준 연동 / 경쟁 제품의 | 동일 조건 성능 차이","textChars":100,"textLines":8,"bbox":[656,291,545,315]}
+{"kind":"textbox","id":"sh/83yp4ba5","slide":17,"text":"“2~3년 기술 격차”는 현시점의 입증된 사실이 아님. 설치·제어 데이터와 시험 자산 축적을 목표로 설정.","textPreview":"“2~3년 기술 격차”는 현시점의 입증된 사실이 아님. 설치·제어 데이터와 시험 자산 축적을 목표로 설정.","textChars":59,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/d9iquf","slide":17,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n공유 대화 · 기술 통합 방안 논의\nhttps://chatgpt.com/share/6abc9e1d-4f6c-83ee-b30e-1eafc9fbbf7c"}
+{"kind":"slide","id":"sl/hkijy0","slide":18,"title":"시장 선택: 개발은 독일·영국, 후속은 네덜란드","textShapes":5}
+{"kind":"textbox","id":"sh/fq10b25s","slide":18,"text":"시장 선택: 개발은 독일·영국, 후속은 네덜란드","textPreview":"시장 선택: 개발은 독일·영국, 후속은 네덜란드","textChars":26,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/gruh4n6d","slide":18,"text":"공식 자료와 사업 구조를 바탕으로 한 정성 판단. 확정 시장 순위가 아님","textPreview":"공식 자료와 사업 구조를 바탕으로 한 정성 판단. 확정 시장 순위가 아님","textChars":40,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/hc3idsny","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/2dcz6xoj","slide":18,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/4fuh876p","slide":18,"text":"채널 계약과 기기 접근 권한을 확보하지 못한 국가는 뒤로 미룸. 국가 수보다 유료 전환 근거를 우선.","textPreview":"채널 계약과 기기 접근 권한을 확보하지 못한 국가는 뒤로 미룸. 국가 수보다 유료 전환 근거를 우선.","textChars":56,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/ehsb6d8r","slide":18,"name":"","rows":5,"cols":5,"preview":"판단 기준 | 독일 | 영국 | 네덜란드 | 미국·호주","bbox":[64,216,1152,359]}
+{"kind":"notes","id":"nt/hkijy0","slide":18,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/bh82yi","slide":19,"title":"수익 구조: 설치 모듈 판매와 운영 계약","textShapes":5}
+{"kind":"textbox","id":"sh/wzetoba5","slide":19,"text":"수익 구조: 설치 모듈 판매와 운영 계약","textPreview":"수익 구조: 설치 모듈 판매와 운영 계약","textChars":22,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/by5sf69k","slide":19,"text":"가정용 HEMS 단독 구독 외에도 지불자를 선택할 수 있다","textPreview":"가정용 HEMS 단독 구독 외에도 지불자를 선택할 수 있다","textChars":32,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/axwbm1sf","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/9w3adwru","slide":19,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/nalsb69o","slide":19,"text":"초기 매출에는 VPP 정산 수익·추가 가전 판매 효과를 제외. 실증 계약에서 지급 조건부터 검증.","textPreview":"초기 매출에는 VPP 정산 수익·추가 가전 판매 효과를 제외. 실증 계약에서 지급 조건부터 검증.","textChars":54,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/xobyxgze","slide":19,"name":"","rows":5,"cols":3,"preview":"상품 | 지불자 후보 | 왜 돈을 내는가","bbox":[64,216,1152,365]}
+{"kind":"notes","id":"nt/bh82yi","slide":19,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/92yn6p","slide":20,"title":"2028년 매출 시나리오: 기준안 31.8억원","textShapes":5}
+{"kind":"textbox","id":"sh/kvuto72t","slide":20,"text":"2028년 매출 시나리오: 기준안 31.8억원","textPreview":"2028년 매출 시나리오: 기준안 31.8억원","textChars":25,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/zulsf218","slide":20,"text":"모든 물량·단가는 작성자 가정. 시장규모 추정이나 회사 사업계획이 아님","textPreview":"모든 물량·단가는 작성자 가정. 시장규모 추정이나 회사 사업계획이 아님","textChars":39,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/ytcbmxk3","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/tknulcjq","slide":20,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/7i5sj21k","slide":20,"text":"모듈 30만원/호, 운영 3.6만원/호·년. 연중 균등 설치로 평균 과금 0.5년. Energy Pack 본체 매출 제외.","textPreview":"모듈 30만원/호, 운영 3.6만원/호·년. 연중 균등 설치로 평균 과금 0.5년. Energy Pack 본체 매출 제외.","textChars":68,"textLines":1,"bbox":[66,605,1144,44]}
+{"kind":"table","id":"tb/lcn2dcje","slide":20,"name":"","rows":5,"cols":5,"preview":"지역 | 신규 설치 | 모듈 매출 | 운영 매출 | 합계","bbox":[64,216,1152,350]}
+{"kind":"notes","id":"nt/92yn6p","slide":20,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/t0sxgf","slide":21,"title":"기준안은 연구개발비까지 회수하지 못한다","textShapes":6}
+{"kind":"textbox","id":"sh/gne10ryx","slide":21,"text":"기준안은 연구개발비까지 회수하지 못한다","textPreview":"기준안은 연구개발비까지 회수하지 못한다","textChars":21,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/vm50rmhc","slide":21,"text":"물량 확대·원가 절감·기존 제품 사업 기여 중 최소 하나를 입증해야 지속 가능","textPreview":"물량 확대·원가 절감·기존 제품 사업 기여 중 최소 하나를 입증해야 지속 가능","textChars":43,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/ulcjyhgr","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/tk3ipwzm","slide":21,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/7il0nmhg","slide":21,"text":"같은 가정의 손익분기: 연간 약 1.23만 호","textPreview":"같은 가정의 손익분기: 연간 약 1.23만 호","textChars":25,"textLines":1,"bbox":[68,571,1135,46]}
+{"kind":"textbox","id":"sh/6hczuh0v","slide":21,"text":"모듈 변동비 21만원, 운영 변동비 연 1.2만원/호. 고정비: 7명×1.5억원+외부 실증·인증 2억원.","textPreview":"모듈 변동비 21만원, 운영 변동비 연 1.2만원/호. 고정비: 7명×1.5억원+외부 실증·인증 2억원.","textChars":58,"textLines":1,"bbox":[66,624,1144,44]}
+{"kind":"table","id":"tb/d4bulsn6","slide":21,"name":"","rows":5,"cols":4,"preview":"2028년 가정 | 보수안 | 기준안 | 확장안","bbox":[64,216,1152,327]}
+{"kind":"notes","id":"nt/t0sxgf","slide":21,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/85qtzs","slide":22,"title":"12주 검증: 사업성과 기술성을 함께 판정","textShapes":5}
+{"kind":"textbox","id":"sh/hsjah0na","slide":22,"text":"12주 검증: 사업성과 기술성을 함께 판정","textPreview":"12주 검증: 사업성과 기술성을 함께 판정","textChars":23,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/upsr6loz","slide":22,"text":"표본은 탐색 실증 규모이며, 출시 성능 검증은 2027년 계절 실증에서 확대","textPreview":"표본은 탐색 실증 규모이며, 출시 성능 검증은 2027년 계절 실증에서 확대","textChars":42,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/fq1sfq5k","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/s3a94b6t","slide":22,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/618r21on","slide":22,"text":"접근 권한 미확보·고객 순편익 음수·반복 안전 제약 위반이면 해당 기능 또는 시장 범위를 축소.","textPreview":"접근 권한 미확보·고객 순편익 음수·반복 안전 제약 위반이면 해당 기능 또는 시장 범위를 축소.","textChars":53,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/w3m1gv6h","slide":22,"name":"","rows":5,"cols":3,"preview":"기간 | 수행 내용 | 계속할 조건","bbox":[64,216,1152,386]}
+{"kind":"notes","id":"nt/85qtzs","slide":22,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/hc51kx","slide":23,"title":"2026년 말부터 2028년까지의 개발 로드맵","textShapes":5}
+{"kind":"textbox","id":"sh/el8ralsb","slide":23,"text":"2026년 말부터 2028년까지의 개발 로드맵","textPreview":"2026년 말부터 2028년까지의 개발 로드맵","textChars":25,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/1oja5gb2","slide":23,"text":"기존 기술 적용과 새 연구 과제를 분리하고, 연차별 중단 기준을 둔다","textPreview":"기존 기술 적용과 새 연구 과제를 분리하고, 연차별 중단 기준을 둔다","textChars":38,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/gna9cbah","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/rih8z6t0","slide":23,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/tkzq1gbq","slide":23,"text":"100호·1만 호는 계획 가정. 현장 모집과 인증 일정에 따라 단계 전환. 완료 연도는 내부 자료로 확정.","textPreview":"100호·1만 호는 계획 가정. 현장 모집과 인증 일정에 따라 단계 전환. 완료 연도는 내부 자료로 확정.","textChars":59,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/ni903m1g","slide":23,"name":"","rows":5,"cols":3,"preview":"시기 | 제품·연구 결과 | 사업 검증","bbox":[64,216,1152,385]}
+{"kind":"notes","id":"nt/hc51kx","slide":23,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/3fxhu3","slide":24,"title":"7명 투입안: 두 과제에 공통 인력을 배치","textShapes":5}
+{"kind":"textbox","id":"sh/dgz2h4fm","slide":24,"text":"7명 투입안: 두 과제에 공통 인력을 배치","textPreview":"7명 투입안: 두 과제에 공통 인력을 배치","textChars":23,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/qd8j6pwv","slide":24,"text":"전력장치 전체 개발·국가별 영업·인증을 연구인력 7명이 모두 맡지 않는다","textPreview":"전력장치 전체 개발·국가별 영업·인증을 연구인력 7명이 모두 맡지 않는다","textChars":40,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/rehkfuxg","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/4rq14ze5","slide":24,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/ipoj2pwz","slide":24,"text":"사업부: 영업·기기 접근 / 현지 파트너: 설치·정산 / 인증사: 전기 안전·전파. 역할·비용 합의가 착수 조건.","textPreview":"사업부: 영업·기기 접근 / 현지 파트너: 설치·정산 / 인증사: 전기 안전·전파. 역할·비용 합의가 착수 조건.","textChars":63,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"table","id":"tb/wv29gvex","slide":24,"name":"","rows":6,"cols":3,"preview":"역할 | 인원 | 책임","bbox":[64,216,1152,385]}
+{"kind":"notes","id":"nt/3fxhu3","slide":24,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/3f4otu","slide":25,"title":"이번 보고에서 결정할 세 가지","textShapes":10}
+{"kind":"textbox","id":"sh/je9sz61w","slide":25,"text":"이번 보고에서 결정할 세 가지","textPreview":"이번 보고에서 결정할 세 가지","textChars":16,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/4fi9sb2h","slide":25,"text":"확인되지 않은 시장규모보다 검증할 고객·기술·중단 기준을 먼저 합의","textPreview":"확인되지 않은 시장규모보다 검증할 고객·기술·중단 기준을 먼저 합의","textChars":37,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/5gra1gj2","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/6h0rulkn","slide":25,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/ri9s3q1s","slide":25,"text":"집중 범위","textPreview":"집중 범위","textChars":5,"textLines":1,"bbox":[66,224,1135,42]}
+{"kind":"textbox","id":"sh/s3i9wv2d","slide":25,"text":"독일·영국에서 설치 자동화와 열 유연성을 검증하고 네덜란드는 확장 시장으로 준비","textPreview":"독일·영국에서 설치 자동화와 열 유연성을 검증하고 네덜란드는 확장 시장으로 준비","textChars":44,"textLines":1,"bbox":[66,272,1135,80]}
+{"kind":"textbox","id":"sh/t4ra5gjy","slide":25,"text":"투입 조건","textPreview":"투입 조건","textChars":5,"textLines":1,"bbox":[66,357,1135,42]}
+{"kind":"textbox","id":"sh/e50rylkj","slide":25,"text":"7명 역할 배치, 제품 API·실측 데이터 접근, 현지 실증 파트너 확보","textPreview":"7명 역할 배치, 제품 API·실측 데이터 접근, 현지 실증 파트너 확보","textChars":40,"textLines":1,"bbox":[66,405,1135,80]}
+{"kind":"textbox","id":"sh/f6ts7q14","slide":25,"text":"12주 뒤 판단","textPreview":"12주 뒤 판단","textChars":8,"textLines":1,"bbox":[66,490,1135,42]}
+{"kind":"textbox","id":"sh/jil4by9g","slide":25,"text":"유료 구매 의향·설치 공수·추가 순편익으로 확대 또는 축소를 결정","textPreview":"유료 구매 의향·설치 공수·추가 순편익으로 확대 또는 축소를 결정","textChars":36,"textLines":1,"bbox":[66,538,1135,80]}
+{"kind":"notes","id":"nt/3f4otu","slide":25,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/eq2wme","slide":26,"title":"부록: 재사용·지역화·신규 연구 구분","textShapes":4}
+{"kind":"textbox","id":"sh/z2tor6d0","slide":26,"text":"부록: 재사용·지역화·신규 연구 구분","textPreview":"부록: 재사용·지역화·신규 연구 구분","textChars":20,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/032p0bel","slide":26,"text":"Digital Twin과 예측 정확도 개선은 이번 신규 과제의 주제로 선정하지 않음","textPreview":"Digital Twin과 예측 정확도 개선은 이번 신규 과제의 주제로 선정하지 않음","textChars":46,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/1ob6tgv6","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/mpk72lwr","slide":26,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"table","id":"tb/y1kz2lc3","slide":26,"name":"","rows":5,"cols":3,"preview":"구분 | 내용 | 확인·개발 과제","bbox":[64,216,1152,377]}
+{"kind":"notes","id":"nt/eq2wme","slide":26,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n공유 대화 · 기술 통합 방안 논의\nhttps://chatgpt.com/share/6abc9e1d-4f6c-83ee-b30e-1eafc9fbbf7c"}
+{"kind":"slide","id":"sl/8n9xs5","slide":27,"title":"부록: 시장규모를 실제 매출로 좁히는 방법","textShapes":11}
+{"kind":"textbox","id":"sh/7yh8rqdw","slide":27,"text":"부록: 시장규모를 실제 매출로 좁히는 방법","textPreview":"부록: 시장규모를 실제 매출로 좁히는 방법","textChars":23,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/8zqpkvu1","slide":27,"text":"현재 자료로 국가별 TAM과 확정 매출을 산출할 수 없으므로 입력 자료를 명시","textPreview":"현재 자료로 국가별 TAM과 확정 매출을 산출할 수 없으므로 입력 자료를 명시","textChars":43,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/t0zqt0vm","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/u187m5c7","slide":27,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/f2h8vads","slide":27,"text":"설치 가능한 시장","textPreview":"설치 가능한 시장","textChars":9,"textLines":1,"bbox":[66,224,1135,42]}
+{"kind":"textbox","id":"sh/g3qpovud","slide":27,"text":"국가별 HP·PV 보유 주택 × 기술 호환 비율 × 설치 권한·요금 조건을 충족하는 비율","textPreview":"국가별 HP·PV 보유 주택 × 기술 호환 비율 × 설치 권한·요금 조건을 충족하는 비율","textChars":49,"textLines":1,"bbox":[66,272,1135,80]}
+{"kind":"textbox","id":"sh/h4jqx0vy","slide":27,"text":"접근 가능한 시장","textPreview":"접근 가능한 시장","textChars":9,"textLines":1,"bbox":[66,356,1135,42]}
+{"kind":"textbox","id":"sh/a5o7a1w3","slide":27,"text":"계약 설치업체 수 × 연간 설치 가능 건수 × 모듈 채택률. 기존 제품의 출하 계획과 중복 제거","textPreview":"계약 설치업체 수 × 연간 설치 가능 건수 × 모듈 채택률. 기존 제품의 출하 계획과 중복 제거","textChars":53,"textLines":1,"bbox":[66,404,1135,80]}
+{"kind":"textbox","id":"sh/b6x8j6do","slide":27,"text":"실제 매출","textPreview":"실제 매출","textChars":5,"textLines":1,"bbox":[66,488,1135,42]}
+{"kind":"textbox","id":"sh/japsbytw","slide":27,"text":"검증된 설치 물량 × 순판매 단가 + 평균 유료 가동 호수 × 운영 단가. 반품·지원비 별도 반영","textPreview":"검증된 설치 물량 × 순판매 단가 + 평균 유료 가동 호수 × 운영 단가. 반품·지원비 별도 반영","textChars":54,"textLines":1,"bbox":[66,536,1135,80]}
+{"kind":"textbox","id":"sh/i9gb2dcb","slide":27,"text":"사업부 요청 자료: 국가별 출하·설치 채널·단가·목표 마진·인증비. 총 ESS/HP 시장을 HEMS 매출로 사용하지 않음.","textPreview":"사업부 요청 자료: 국가별 출하·설치 채널·단가·목표 마진·인증비. 총 ESS/HP 시장을 HEMS 매출로 사용하지 않음.","textChars":68,"textLines":1,"bbox":[66,622,1144,44]}
+{"kind":"notes","id":"nt/8n9xs5","slide":27,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/6wmrua","slide":28,"title":"부록: 실증에서 계산할 고객 순편익","textShapes":8}
+{"kind":"textbox","id":"sh/wrehkrel","slide":28,"text":"부록: 실증에서 계산할 고객 순편익","textPreview":"부록: 실증에서 계산할 고객 순편익","textChars":19,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/vq50rmx0","slide":28,"text":"요금 차이·계절·사용 패턴을 통제하고 기존 운전과 비교","textPreview":"요금 차이·계절·사용 패턴을 통제하고 기존 운전과 비교","textChars":30,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/upwzi1wf","slide":28,"text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/5g7ixgf2","slide":28,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/4vy1obex","slide":28,"text":"고객 가치 계산","textPreview":"고객 가치 계산","textChars":8,"textLines":1,"bbox":[64,219,548,58]}
+{"kind":"textbox","id":"sh/jup0v6xc","slide":28,"text":"순편익 = 전기요금 절감 + 실제 정산금\n− 서비스료 − 추가 손실·열화 비용\n\n기준선: 동일 기기·동일 요금의 기존 운전\n날씨·재실 보정 및 교차 기간 비교\n\n절감률과 함께 온도 이탈·수동개입·\n배터리 사용량을 공개","textPreview":"순편익 = 전기요금 절감 + 실제 정산금 | − 서비스료 − 추가 손실·열화 비용 |  | 기준선: 동일 기기·동일 요금의 기존 운전 | 날씨·재실 보정 및 교차 기간 비교 |  | 절감률과 함께 온도 이탈·수동개입· | 배터리 사용량을 공개","textChars":121,"textLines":8,"bbox":[64,291,545,315]}
+{"kind":"textbox","id":"sh/itgjm1wr","slide":28,"text":"설치업체 가치 계산","textPreview":"설치업체 가치 계산","textChars":10,"textLines":1,"bbox":[656,219,548,58]}
+{"kind":"textbox","id":"sh/tk7i1gfe","slide":28,"text":"편익 = 절약한 공수 × 시간당 비용\n+ 피한 재방문 비용 − 모듈 추가 원가\n\n설치 / 설정 / 검증 시간을 나누어 측정\n\n지원 기기·주택 조건별로 결과 공개\n\n계약 전에는 “절감 보장” 대신\n달성 조건과 측정 방식을 합의","textPreview":"편익 = 절약한 공수 × 시간당 비용 | + 피한 재방문 비용 − 모듈 추가 원가 |  | 설치 / 설정 / 검증 시간을 나누어 측정 |  | 지원 기기·주택 조건별로 결과 공개 |  | 계약 전에는 “절감 보장” 대신 | 달성 조건과 측정 방식...","textChars":125,"textLines":9,"bbox":[656,291,545,315]}
+{"kind":"notes","id":"nt/6wmrua","slide":28,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n"}
+{"kind":"slide","id":"sl/9viu0b","slide":29,"title":"부록: 출처와 사실 확인 범위","textShapes":12}
+{"kind":"textbox","id":"sh/r214fqlw","slide":29,"text":"부록: 출처와 사실 확인 범위","textPreview":"부록: 출처와 사실 확인 범위","textChars":16,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/sna58v2h","slide":29,"text":"상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록","textPreview":"상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록","textChars":30,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/toj6h032","slide":29,"text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/epsna5kn","slide":29,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/fq1ojals","slide":29,"text":"01  공유 대화 · 기술 통합 방안 논의","textPreview":"01  공유 대화 · 기술 통합 방안 논의","textChars":23,"textLines":1,"bbox":[69,216,1134,39]}
+{"kind":"textbox","id":"sh/gra5cf2d","slide":29,"text":"02  Bundesnetzagentur · Dynamische Stromtarife","textPreview":"02  Bundesnetzagentur · Dynamische Stromtarife","textChars":46,"textLines":1,"bbox":[69,264,1134,39]}
+{"kind":"textbox","id":"sh/1sj6l0jy","slide":29,"text":"03  Bundesnetzagentur · §14a 제어가능 부하","textPreview":"03  Bundesnetzagentur · §14a 제어가능 부하","textChars":36,"textLines":1,"bbox":[69,312,1134,39]}
+{"kind":"textbox","id":"sh/2tcne5kj","slide":29,"text":"04  Ofgem · 2025 유연성 소비자 조사, 2026.05.22","textPreview":"04  Ofgem · 2025 유연성 소비자 조사, 2026.05.22","textChars":39,"textLines":1,"bbox":[69,360,1134,39]}
+{"kind":"textbox","id":"sh/3ulona14","slide":29,"text":"05  Enedis · 비첨두 시간대 개편, 2025.10.15","textPreview":"05  Enedis · 비첨두 시간대 개편, 2025.10.15","textChars":35,"textLines":1,"bbox":[69,408,1134,39]}
+{"kind":"textbox","id":"sh/vq9snq9o","slide":29,"text":"06  네덜란드 정부 · 2027년 상계제도 종료","textPreview":"06  네덜란드 정부 · 2027년 상계제도 종료","textChars":27,"textLines":1,"bbox":[69,456,1134,39]}
+{"kind":"textbox","id":"sh/up0bels3","slide":29,"text":"07  호주 정부 · Solar PV and batteries","textPreview":"07  호주 정부 · Solar PV and batteries","textChars":34,"textLines":1,"bbox":[69,504,1134,39]}
+{"kind":"textbox","id":"sh/hsrap0ru","slide":29,"text":"08  CPUC · Net Billing Tariff","textPreview":"08  CPUC · Net Billing Tariff","textChars":29,"textLines":1,"bbox":[69,552,1134,39]}
+{"kind":"notes","id":"nt/9viu0b","slide":29,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\n공유 대화 · 기술 통합 방안 논의\nhttps://chatgpt.com/share/6abc9e1d-4f6c-83ee-b30e-1eafc9fbbf7c\n\nBundesnetzagentur · Dynamische Stromtarife\nhttps://www.bundesnetzagentur.de/DE/Vportal/Energie/Vertragsarten/DynStromtarife/start.html\n\nBundesnetzagentur · §14a 제어가능 부하\nhttps://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html?nn=779422\n\nOfgem · 2025 유연성 소비자 조사, 2026.05.22\nhttps://www.ofgem.gov.uk/research/tracking-energy-consumers-use-low-carbon-and-flexible-products-and-services-2025\n\nEnedis · 비첨두 시간대 개편, 2025.10.15\nhttps://www.enedis.fr/presse/enedis-met-en-oeuvre-la-reforme-des-heures-creuses-pour-accompagner-les-nouveaux-usages-lies\n\n네덜란드 정부 · 2027년 상계제도 종료\nhttps://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur/energie-thuis/salderingsregeling\n\n호주 정부 · Solar PV and batteries\nhttps://www.energy.gov.au/households/solar-pv-and-batteries\n\nCPUC · Net Billing Tariff\nhttps://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/nem-revisit/net-billing-tariff"}
+{"kind":"slide","id":"sl/pi5ums","slide":30,"title":"부록: 출처와 경쟁 제품 확인","textShapes":12}
+{"kind":"textbox","id":"sh/lwfmt0f6","slide":30,"text":"부록: 출처와 경쟁 제품 확인","textPreview":"부록: 출처와 경쟁 제품 확인","textChars":16,"textLines":1,"bbox":[62,45,1156,94]}
+{"kind":"textbox","id":"sh/yt43ilgv","slide":30,"text":"상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록","textPreview":"상세 URL은 각 관련 슬라이드의 발표자 노트에도 수록","textChars":30,"textLines":1,"bbox":[64,143,1150,55]}
+{"kind":"textbox","id":"sh/zud4rqxg","slide":30,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1160,675,64,25]}
+{"kind":"textbox","id":"sh/crmlgvyp","slide":30,"text":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textPreview":"ENERGY PACK  /  신사업·신기술 검토  /  2026.09","textChars":38,"textLines":1,"bbox":[64,675,1030,25]}
+{"kind":"textbox","id":"sh/dsvmp0za","slide":30,"text":"01  DEWA · Cooling","textPreview":"01  DEWA · Cooling","textChars":18,"textLines":1,"bbox":[69,216,1134,39]}
+{"kind":"textbox","id":"sh/q543elgj","slide":30,"text":"02  통계청 · 2024 인구주택총조사, 표 36","textPreview":"02  통계청 · 2024 인구주택총조사, 표 36","textChars":28,"textLines":1,"bbox":[69,264,1134,39]}
+{"kind":"textbox","id":"sh/bqd4nqh4","slide":30,"text":"03  Eskom · 전력계통 현황, 2026.09.25","textPreview":"03  Eskom · 전력계통 현황, 2026.09.25","textChars":31,"textLines":1,"bbox":[69,312,1134,39]}
+{"kind":"textbox","id":"sh/wnq5sfyt","slide":30,"text":"04  미국 DOE · Virtual Power Plants Projects","textPreview":"04  미국 DOE · Virtual Power Plants Projects","textChars":42,"textLines":1,"bbox":[69,360,1134,39]}
+{"kind":"textbox","id":"sh/xozm1kfe","slide":30,"text":"05  SMA · Sunny Home Manager 2.0","textPreview":"05  SMA · Sunny Home Manager 2.0","textChars":32,"textLines":1,"bbox":[69,408,1134,39]}
+{"kind":"textbox","id":"sh/t4jidkby","slide":30,"text":"06  Tesla · Savings Mode","textPreview":"06  Tesla · Savings Mode","textChars":24,"textLines":1,"bbox":[69,456,1134,39]}
+{"kind":"textbox","id":"sh/83ah4fud","slide":30,"text":"07  Octopus · Heat pump FAQ","textPreview":"07  Octopus · Heat pump FAQ","textChars":27,"textLines":1,"bbox":[69,504,1134,39]}
+{"kind":"textbox","id":"sh/7210bats","slide":30,"text":"08  Schneider · Residential products","textPreview":"08  Schneider · Residential products","textChars":36,"textLines":1,"bbox":[69,552,1134,39]}
+{"kind":"notes","id":"nt/pi5ums","slide":30,"text":"조사 기준일: 2026-09-30. 외부 사실과 작성자의 사업 제안/가설을 구분함. 목표 수치는 실적이나 확정 사업계획이 아님.\nDEWA · Cooling\nhttps://www.dewa.gov.ae/en/consumer/sustainability/sustainability-and-conservation/cooling\n\n통계청 · 2024 인구주택총조사, 표 36\nhttps://www.kostat.go.kr/boardDownload.es?bid=203&list_no=437767&seq=3\n\nEskom · 전력계통 현황, 2026.09.25\nhttps://www.eskom.co.za/eskom-achieves-weekly-eaf-of-70-and-year-to-date-eaf-of-68-06-emissions-reduction-target-surpassed-diesel-costs-fall-by-r4-8-billion-year-on-year-and-load-reduction-further-reduced-from-1-69-million/\n\n미국 DOE · Virtual Power Plants Projects\nhttps://www.energy.gov/edf/virtual-power-plants-projects\n\nSMA · Sunny Home Manager 2.0\nhttps://www.sma.de/en/products/energy-management/sunny-home-manager\n\nTesla · Savings Mode\nhttps://www.tesla.com/en_gb/support/energy/powerwall/mobile-app/savings-mode\n\nOctopus · Heat pump FAQ\nhttps://octopus.energy/heat-pump-FAQ/\n\nSchneider · Residential products\nhttps://www.se.com/us/en/work/products/residential-and-small-business/"}

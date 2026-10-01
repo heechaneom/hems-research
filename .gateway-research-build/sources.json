@@ -1,0 +1,188 @@
+{
+  "ref": [
+    "R00",
+    "제공 HTML",
+    "Energy Pack Gateway Technology 2027–2030",
+    "D:/hems-search/output/Energy_Pack_Gateway_Technology_2027-2030.html"
+  ],
+  "de": [
+    "R01",
+    "BNetzA",
+    "§14a 제어가능 설비 적용 안내",
+    "https://www.bundesnetzagentur.de/DE/Vportal/Energie/SteuerbareVBE/artikel.html"
+  ],
+  "uk": [
+    "R02",
+    "NESO",
+    "Demand Flexibility Service explained, 2026 개편",
+    "https://www.neso.energy/industry-information/balancing-services/demand-flexibility-service/demand-flexibility-service-explained"
+  ],
+  "stack": [
+    "R03",
+    "NESO",
+    "DFS Stacking List v2, 2026.04",
+    "https://www.neso.energy/document/380211/download"
+  ],
+  "fr": [
+    "R04",
+    "Enedis",
+    "Heures creuses 개편, 2025.10.15",
+    "https://www.enedis.fr/presse/enedis-met-en-oeuvre-la-reforme-des-heures-creuses-pour-accompagner-les-nouveaux-usages-lies"
+  ],
+  "nl": [
+    "R05",
+    "네덜란드 정부",
+    "Salderingsregeling stopt in 2027",
+    "https://www.rijksoverheid.nl/themas/klimaat-milieu-en-natuur/energie-thuis/salderingsregeling"
+  ],
+  "it": [
+    "R06",
+    "ARERA",
+    "Potenza impegnata 및 계량기 용량 안내",
+    "https://www.arera.it/bolletta/glossario-dei-termini/dettaglio/potenza-impegnata"
+  ],
+  "it2": [
+    "R07",
+    "ARERA",
+    "Potenza del contatore",
+    "https://www.arera.it/en/consumatori/potenza-del-contatore"
+  ],
+  "es": [
+    "R08",
+    "CNMC",
+    "2023년 말 가계조사, 2024.06.28 발표",
+    "https://www.cnmc.es/prensa/panel-hogares-servicios-electricidad-gas-20240628"
+  ],
+  "ca": [
+    "R09",
+    "CPUC",
+    "Net Energy Metering and Net Billing",
+    "https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/demand-side-management/customer-generation/net-energy-metering-and-net-billing"
+  ],
+  "tx": [
+    "R10",
+    "ERCOT",
+    "ADER Pilot, Phase 3.3, 2026.06.03",
+    "https://www.ercot.com/mktrules/pilots/ader"
+  ],
+  "irs": [
+    "R11",
+    "IRS",
+    "Residential Clean Energy Credit",
+    "https://www.irs.gov/credits-deductions/residential-clean-energy-credit"
+  ],
+  "ae": [
+    "R12",
+    "DEWA",
+    "Slab Tariff, 연료조정요금 2026.09",
+    "https://www.dewa.gov.ae/en/consumer/billing/slab-tariff"
+  ],
+  "sa": [
+    "R13",
+    "SERA",
+    "Electricity Service Guide, 요금표 p.67",
+    "https://www.sera.gov.sa/-/media/4a51a8ff4b5a45609033cfb7fea9d644.ashx"
+  ],
+  "qa": [
+    "R14",
+    "KAHRAMAA",
+    "BeSolar net billing 안내",
+    "https://km.qa/RenewableEnergy/Pages/Besolar.aspx"
+  ],
+  "gridx": [
+    "R15",
+    "gridX",
+    "Optimized Heat Pump Operation, 2026.06.02",
+    "https://support.gridx.ai/en/articles/590093-dynamic-tariff-optimization-optimized-heat-pump-operation"
+  ],
+  "hb": [
+    "R16",
+    "1KOMMA5°",
+    "Heartbeat 호환 목록, 2026.08.25",
+    "https://support.1komma5.com/hc/de/articles/29833157635356-Heartbeat-Kompatibilit%C3%A4tsliste"
+  ],
+  "kraken": [
+    "R17",
+    "Kraken",
+    "Electrifying domestic heating, 2025.08.21",
+    "https://engineering.kraken.tech/news/2025/08/21/electrifying-domestic-heating.html"
+  ],
+  "enphase": [
+    "R18",
+    "Enphase",
+    "IQ Energy Router 독일·오스트리아 출시, 2023.06",
+    "https://investor.enphase.com/news-releases/news-release-details/enphase-energy-launches-new-home-energy-management-solution/"
+  ],
+  "enphase2": [
+    "R19",
+    "Enphase",
+    "Daikin Altherma 3 설정 가이드",
+    "https://enphase.com/en-de/download/heat-pump-daikin-altherma-3-configuration-guide-iq-energy-router"
+  ],
+  "span": [
+    "R20",
+    "SPAN",
+    "PowerUp 및 배전반 에너지 제어",
+    "https://www.span.io/"
+  ],
+  "cd": [
+    "R21",
+    "ConnectDER",
+    "Solar MSA v5.2 설치 매뉴얼",
+    "https://connectder.com/wp-content/uploads/2023/08/ConnectDER_Solar_MSA_v5.2_Installation-Manual-v1.0f.pdf"
+  ],
+  "ul": [
+    "R22",
+    "UL Solutions",
+    "Power Control Systems for DER",
+    "https://www.ul.com/services/power-control-systems-distributed-energy-resource-systems"
+  ],
+  "g100": [
+    "R23",
+    "ENA",
+    "G100 Issue 2 Amendment 2, 2023",
+    "https://www.energynetworks.org/assets/images/ENA_EREC_G100_Issue_2_Amendment_2_%282023%29.pdf"
+  ],
+  "heat": [
+    "R24",
+    "Nesta·CNZ",
+    "HeatFlex UK, 2024 실증",
+    "https://www.nesta.org.uk/project/heat-flex/"
+  ],
+  "heat2": [
+    "R25",
+    "Nesta",
+    "HeatFlex 기술·실증 보고서",
+    "https://media.nesta.org.uk/documents/HeatFlex_-_the_untapped_potential_of_heat_pump_flexibility.pdf"
+  ],
+  "eebus": [
+    "R26",
+    "EEBUS",
+    "Solutions & Use Cases",
+    "https://www.eebus.org/solutions-use-cases/"
+  ],
+  "eebus2": [
+    "R27",
+    "EEBUS",
+    "Limitation of Power Consumption v1.0",
+    "https://www.eebus.org/wp-content/uploads/2023/04/EEBus_UC_TS_LimitationOfPowerConsumption_V1.0.0_public.pdf"
+  ],
+  "matter": [
+    "R28",
+    "CSA",
+    "Matter 1.5 에너지 관리 확장, 2025.11.20",
+    "https://csa-iot.org/newsroom/matter-1-5-introduces-cameras-closures-and-enhanced-energy-management-capabilities/"
+  ],
+  "cra": [
+    "R29",
+    "EU 집행위",
+    "Cyber Resilience Act 적용 일정",
+    "https://digital-strategy.ec.europa.eu/en/policies/cra-summary"
+  ],
+  "patent": [
+    "R30",
+    "특허 공개문헌",
+    "US10191102B2, CT 극성 자동 보정",
+    "https://patents.google.com/patent/US10191102B2/en"
+  ]
+}
